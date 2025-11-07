@@ -1,0 +1,69 @@
+# =============================
+# 🚛 Proyecto: Transporte Carretera MITMA
+# =============================
+
+# --- Archivos de sistema ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Entorno de desarrollo ---
+.env
+.venv/
+venv/
+venv_transporte/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Configuración temporal ---
+*.log
+*.tmp
+*.bak
+
+# --- Notebooks temporales ---
+notebooks/.ipynb_checkpoints/
+notebooks/*.checkpoint.ipynb
+
+# --- Archivos de exportación ---
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# --- Archivos de datos ---
+# No subir los datos RAW originales
+data/raw/*
+!data/processed/
+!data/interim/
+
+# --- Archivos grandes de Tableau / Power BI ---
+*.twb
+*.twbx
+*.pbix
+*.hyper
+*.tds
+*.tdsx
+
+# --- Archivos de Office generados automáticamente ---
+reports/~$*
+reports/*.tmp
+
+# --- Archivos de backup o temporales ---
+~$*
+*.bak
+*.swp
+*.tmp
+
+# --- Archivos del sistema operativo ---
+ehthumbs.db
+Icon?
+*.lnk
+
+# --- Cache de IDEs ---
+.vscode/
+.idea/
+*.code-workspace
