@@ -1,0 +1,1801 @@
+año,comunidad_origen,comunidad_destino,valor
+2017,Andalucía,Andalucía,172587.62
+2017,Andalucía,Aragón,555.86
+2017,Andalucía,"Asturias, Principado de",133.82
+2017,Andalucía,Cantabria,102.57
+2017,Andalucía,Castilla - La Mancha,3513.8
+2017,Andalucía,Castilla y León,1240.55
+2017,Andalucía,Cataluña,2378.83
+2017,Andalucía,Comunitat Valenciana,4619.26
+2017,Andalucía,Extremadura,3797.74
+2017,Andalucía,Galicia,334.38
+2017,Andalucía,"Madrid, Comunidad de",3261.67
+2017,Andalucía,"Murcia, Región de",3503.08
+2017,Andalucía,"Navarra, Comunidad Foral de",435.16
+2017,Andalucía,País Vasco,695.47
+2017,Andalucía,"Rioja, La",73.5
+2017,Aragón,Andalucía,698.68
+2017,Aragón,Aragón,40944.88
+2017,Aragón,"Asturias, Principado de",221.33
+2017,Aragón,Cantabria,141.84
+2017,Aragón,Castilla - La Mancha,954.75
+2017,Aragón,Castilla y León,1613.77
+2017,Aragón,Cataluña,8454.69
+2017,Aragón,Comunitat Valenciana,4698.88
+2017,Aragón,Extremadura,171.41
+2017,Aragón,Galicia,347.03
+2017,Aragón,"Madrid, Comunidad de",2546.92
+2017,Aragón,"Murcia, Región de",256.32
+2017,Aragón,"Navarra, Comunidad Foral de",1901.27
+2017,Aragón,País Vasco,1756.47
+2017,Aragón,"Rioja, La",782.46
+2017,"Asturias, Principado de",Andalucía,322.5
+2017,"Asturias, Principado de",Aragón,197.04
+2017,"Asturias, Principado de","Asturias, Principado de",27466.88
+2017,"Asturias, Principado de",Cantabria,657.08
+2017,"Asturias, Principado de",Castilla - La Mancha,112.16
+2017,"Asturias, Principado de",Castilla y León,2556.41
+2017,"Asturias, Principado de",Cataluña,398.92
+2017,"Asturias, Principado de",Comunitat Valenciana,297.15
+2017,"Asturias, Principado de",Extremadura,41.27
+2017,"Asturias, Principado de",Galicia,1639.33
+2017,"Asturias, Principado de","Madrid, Comunidad de",317.46
+2017,"Asturias, Principado de","Murcia, Región de",87.65
+2017,"Asturias, Principado de","Navarra, Comunidad Foral de",255.63
+2017,"Asturias, Principado de",País Vasco,974.52
+2017,"Asturias, Principado de","Rioja, La",105.37
+2017,Cantabria,Andalucía,90.17
+2017,Cantabria,Aragón,230.01
+2017,Cantabria,"Asturias, Principado de",600.75
+2017,Cantabria,Cantabria,11892.76
+2017,Cantabria,Castilla - La Mancha,372.29
+2017,Cantabria,Castilla y León,1688.39
+2017,Cantabria,Cataluña,485.79
+2017,Cantabria,Comunitat Valenciana,139.97
+2017,Cantabria,Extremadura,31.87
+2017,Cantabria,Galicia,212.76
+2017,Cantabria,"Madrid, Comunidad de",432.72
+2017,Cantabria,"Murcia, Región de",24.34
+2017,Cantabria,"Navarra, Comunidad Foral de",206.88
+2017,Cantabria,País Vasco,2762.54
+2017,Cantabria,"Rioja, La",137.68
+2017,Castilla - La Mancha,Andalucía,5880.69
+2017,Castilla - La Mancha,Aragón,1225.67
+2017,Castilla - La Mancha,"Asturias, Principado de",228.66
+2017,Castilla - La Mancha,Cantabria,244.42
+2017,Castilla - La Mancha,Castilla - La Mancha,41336.71
+2017,Castilla - La Mancha,Castilla y León,2594.44
+2017,Castilla - La Mancha,Cataluña,1953.52
+2017,Castilla - La Mancha,Comunitat Valenciana,8399.61
+2017,Castilla - La Mancha,Extremadura,1498.88
+2017,Castilla - La Mancha,Galicia,567.09
+2017,Castilla - La Mancha,"Madrid, Comunidad de",14430.24
+2017,Castilla - La Mancha,"Murcia, Región de",2630.05
+2017,Castilla - La Mancha,"Navarra, Comunidad Foral de",429.05
+2017,Castilla - La Mancha,País Vasco,889.53
+2017,Castilla - La Mancha,"Rioja, La",145.04
+2017,Castilla y León,Andalucía,1724.62
+2017,Castilla y León,Aragón,1689.51
+2017,Castilla y León,"Asturias, Principado de",2320.63
+2017,Castilla y León,Cantabria,2708.72
+2017,Castilla y León,Castilla - La Mancha,2561.85
+2017,Castilla y León,Castilla y León,75725.78
+2017,Castilla y León,Cataluña,2398.86
+2017,Castilla y León,Comunitat Valenciana,2625.99
+2017,Castilla y León,Extremadura,1077.91
+2017,Castilla y León,Galicia,3669.02
+2017,Castilla y León,"Madrid, Comunidad de",5769.02
+2017,Castilla y León,"Murcia, Región de",404.41
+2017,Castilla y León,"Navarra, Comunidad Foral de",1500.07
+2017,Castilla y León,País Vasco,5272.54
+2017,Castilla y León,"Rioja, La",1069.76
+2017,Cataluña,Andalucía,2693.93
+2017,Cataluña,Aragón,9656.39
+2017,Cataluña,"Asturias, Principado de",320.18
+2017,Cataluña,Cantabria,289.59
+2017,Cataluña,Castilla - La Mancha,1918.58
+2017,Cataluña,Castilla y León,2188.16
+2017,Cataluña,Cataluña,171329.81
+2017,Cataluña,Comunitat Valenciana,7879.34
+2017,Cataluña,Extremadura,239.11
+2017,Cataluña,Galicia,853.12
+2017,Cataluña,"Madrid, Comunidad de",3290.3
+2017,Cataluña,"Murcia, Región de",975.59
+2017,Cataluña,"Navarra, Comunidad Foral de",1309.99
+2017,Cataluña,País Vasco,2216.78
+2017,Cataluña,"Rioja, La",556.11
+2017,Comunitat Valenciana,Andalucía,3872.13
+2017,Comunitat Valenciana,Aragón,3136.2
+2017,Comunitat Valenciana,"Asturias, Principado de",127.09
+2017,Comunitat Valenciana,Cantabria,172.53
+2017,Comunitat Valenciana,Castilla - La Mancha,7556.82
+2017,Comunitat Valenciana,Castilla y León,1860.08
+2017,Comunitat Valenciana,Cataluña,6306.65
+2017,Comunitat Valenciana,Comunitat Valenciana,146788.37
+2017,Comunitat Valenciana,Extremadura,271.33
+2017,Comunitat Valenciana,Galicia,602.45
+2017,Comunitat Valenciana,"Madrid, Comunidad de",5035.12
+2017,Comunitat Valenciana,"Murcia, Región de",6807.7
+2017,Comunitat Valenciana,"Navarra, Comunidad Foral de",477.08
+2017,Comunitat Valenciana,País Vasco,845.47
+2017,Comunitat Valenciana,"Rioja, La",199.91
+2017,Extremadura,Andalucía,2750.44
+2017,Extremadura,Aragón,132.35
+2017,Extremadura,"Asturias, Principado de",13.97
+2017,Extremadura,Cantabria,20.47
+2017,Extremadura,Castilla - La Mancha,823.17
+2017,Extremadura,Castilla y León,690.03
+2017,Extremadura,Cataluña,323.59
+2017,Extremadura,Comunitat Valenciana,392.18
+2017,Extremadura,Extremadura,16986.63
+2017,Extremadura,Galicia,66.66
+2017,Extremadura,"Madrid, Comunidad de",1105.83
+2017,Extremadura,"Murcia, Región de",177.13
+2017,Extremadura,"Navarra, Comunidad Foral de",77.29
+2017,Extremadura,País Vasco,152.44
+2017,Extremadura,"Rioja, La",41.62
+2017,Galicia,Andalucía,546.79
+2017,Galicia,Aragón,404.89
+2017,Galicia,"Asturias, Principado de",3116.96
+2017,Galicia,Cantabria,415.58
+2017,Galicia,Castilla - La Mancha,586.89
+2017,Galicia,Castilla y León,3325.63
+2017,Galicia,Cataluña,867.37
+2017,Galicia,Comunitat Valenciana,455.45
+2017,Galicia,Extremadura,92.15
+2017,Galicia,Galicia,80291.02
+2017,Galicia,"Madrid, Comunidad de",1555.27
+2017,Galicia,"Murcia, Región de",129.06
+2017,Galicia,"Navarra, Comunidad Foral de",190.36
+2017,Galicia,País Vasco,1661.86
+2017,Galicia,"Rioja, La",62.36
+2017,"Madrid, Comunidad de",Andalucía,3817.15
+2017,"Madrid, Comunidad de",Aragón,1801.0
+2017,"Madrid, Comunidad de","Asturias, Principado de",445.18
+2017,"Madrid, Comunidad de",Cantabria,315.88
+2017,"Madrid, Comunidad de",Castilla - La Mancha,9468.2
+2017,"Madrid, Comunidad de",Castilla y León,3450.69
+2017,"Madrid, Comunidad de",Cataluña,2532.23
+2017,"Madrid, Comunidad de",Comunitat Valenciana,3805.47
+2017,"Madrid, Comunidad de",Extremadura,1101.61
+2017,"Madrid, Comunidad de",Galicia,1378.02
+2017,"Madrid, Comunidad de","Madrid, Comunidad de",57467.92
+2017,"Madrid, Comunidad de","Murcia, Región de",827.27
+2017,"Madrid, Comunidad de","Navarra, Comunidad Foral de",430.97
+2017,"Madrid, Comunidad de",País Vasco,1642.39
+2017,"Madrid, Comunidad de","Rioja, La",125.4
+2017,"Murcia, Región de",Andalucía,4649.42
+2017,"Murcia, Región de",Aragón,260.57
+2017,"Murcia, Región de","Asturias, Principado de",53.38
+2017,"Murcia, Región de",Cantabria,4.27
+2017,"Murcia, Región de",Castilla - La Mancha,2585.02
+2017,"Murcia, Región de",Castilla y León,257.48
+2017,"Murcia, Región de",Cataluña,975.4
+2017,"Murcia, Región de",Comunitat Valenciana,9853.45
+2017,"Murcia, Región de",Extremadura,84.31
+2017,"Murcia, Región de",Galicia,143.76
+2017,"Murcia, Región de","Madrid, Comunidad de",1140.94
+2017,"Murcia, Región de","Murcia, Región de",33657.6
+2017,"Murcia, Región de","Navarra, Comunidad Foral de",190.01
+2017,"Murcia, Región de",País Vasco,120.78
+2017,"Murcia, Región de","Rioja, La",151.17
+2017,"Navarra, Comunidad Foral de",Andalucía,411.15
+2017,"Navarra, Comunidad Foral de",Aragón,2255.91
+2017,"Navarra, Comunidad Foral de","Asturias, Principado de",153.95
+2017,"Navarra, Comunidad Foral de",Cantabria,211.95
+2017,"Navarra, Comunidad Foral de",Castilla - La Mancha,244.79
+2017,"Navarra, Comunidad Foral de",Castilla y León,1446.62
+2017,"Navarra, Comunidad Foral de",Cataluña,986.68
+2017,"Navarra, Comunidad Foral de",Comunitat Valenciana,628.54
+2017,"Navarra, Comunidad Foral de",Extremadura,41.63
+2017,"Navarra, Comunidad Foral de",Galicia,233.07
+2017,"Navarra, Comunidad Foral de","Madrid, Comunidad de",655.3
+2017,"Navarra, Comunidad Foral de","Murcia, Región de",116.14
+2017,"Navarra, Comunidad Foral de","Navarra, Comunidad Foral de",16097.55
+2017,"Navarra, Comunidad Foral de",País Vasco,3950.97
+2017,"Navarra, Comunidad Foral de","Rioja, La",1493.6
+2017,País Vasco,Andalucía,780.81
+2017,País Vasco,Aragón,2421.36
+2017,País Vasco,"Asturias, Principado de",819.2
+2017,País Vasco,Cantabria,1861.03
+2017,País Vasco,Castilla - La Mancha,838.44
+2017,País Vasco,Castilla y León,5064.44
+2017,País Vasco,Cataluña,1685.11
+2017,País Vasco,Comunitat Valenciana,1222.59
+2017,País Vasco,Extremadura,53.35
+2017,País Vasco,Galicia,1300.59
+2017,País Vasco,"Madrid, Comunidad de",1440.6
+2017,País Vasco,"Murcia, Región de",214.96
+2017,País Vasco,"Navarra, Comunidad Foral de",4266.77
+2017,País Vasco,País Vasco,43859.2
+2017,País Vasco,"Rioja, La",783.67
+2017,"Rioja, La",Andalucía,131.09
+2017,"Rioja, La",Aragón,751.89
+2017,"Rioja, La","Asturias, Principado de",31.65
+2017,"Rioja, La",Cantabria,232.67
+2017,"Rioja, La",Castilla - La Mancha,376.47
+2017,"Rioja, La",Castilla y León,579.75
+2017,"Rioja, La",Cataluña,811.52
+2017,"Rioja, La",Comunitat Valenciana,327.42
+2017,"Rioja, La",Extremadura,6.49
+2017,"Rioja, La",Galicia,55.71
+2017,"Rioja, La","Madrid, Comunidad de",318.38
+2017,"Rioja, La","Murcia, Región de",115.25
+2017,"Rioja, La","Navarra, Comunidad Foral de",1104.27
+2017,"Rioja, La",País Vasco,1176.74
+2017,"Rioja, La","Rioja, La",5077.62
+2018,Andalucía,Andalucía,171788.69
+2018,Andalucía,Aragón,285.14
+2018,Andalucía,"Asturias, Principado de",135.86
+2018,Andalucía,Cantabria,84.5
+2018,Andalucía,Castilla - La Mancha,2981.16
+2018,Andalucía,Castilla y León,1409.58
+2018,Andalucía,Cataluña,2472.69
+2018,Andalucía,Comunitat Valenciana,4875.59
+2018,Andalucía,Extremadura,3986.6
+2018,Andalucía,Galicia,462.48
+2018,Andalucía,"Madrid, Comunidad de",3355.9
+2018,Andalucía,"Murcia, Región de",3038.27
+2018,Andalucía,"Navarra, Comunidad Foral de",353.21
+2018,Andalucía,País Vasco,742.47
+2018,Andalucía,"Rioja, La",34.64
+2018,Aragón,Andalucía,644.14
+2018,Aragón,Aragón,45080.15
+2018,Aragón,"Asturias, Principado de",119.49
+2018,Aragón,Cantabria,213.26
+2018,Aragón,Castilla - La Mancha,1544.2
+2018,Aragón,Castilla y León,1589.01
+2018,Aragón,Cataluña,7898.05
+2018,Aragón,Comunitat Valenciana,5663.51
+2018,Aragón,Extremadura,76.23
+2018,Aragón,Galicia,385.92
+2018,Aragón,"Madrid, Comunidad de",2094.75
+2018,Aragón,"Murcia, Región de",352.16
+2018,Aragón,"Navarra, Comunidad Foral de",1935.67
+2018,Aragón,País Vasco,1750.7
+2018,Aragón,"Rioja, La",829.15
+2018,"Asturias, Principado de",Andalucía,257.33
+2018,"Asturias, Principado de",Aragón,319.93
+2018,"Asturias, Principado de","Asturias, Principado de",23206.0
+2018,"Asturias, Principado de",Cantabria,1180.94
+2018,"Asturias, Principado de",Castilla - La Mancha,145.11
+2018,"Asturias, Principado de",Castilla y León,2145.85
+2018,"Asturias, Principado de",Cataluña,467.32
+2018,"Asturias, Principado de",Comunitat Valenciana,265.39
+2018,"Asturias, Principado de",Extremadura,73.81
+2018,"Asturias, Principado de",Galicia,1405.37
+2018,"Asturias, Principado de","Madrid, Comunidad de",499.06
+2018,"Asturias, Principado de","Murcia, Región de",82.44
+2018,"Asturias, Principado de","Navarra, Comunidad Foral de",290.72
+2018,"Asturias, Principado de",País Vasco,1209.11
+2018,"Asturias, Principado de","Rioja, La",71.62
+2018,Cantabria,Andalucía,180.72
+2018,Cantabria,Aragón,238.23
+2018,Cantabria,"Asturias, Principado de",536.04
+2018,Cantabria,Cantabria,13676.31
+2018,Cantabria,Castilla - La Mancha,155.82
+2018,Cantabria,Castilla y León,1892.66
+2018,Cantabria,Cataluña,640.17
+2018,Cantabria,Comunitat Valenciana,334.26
+2018,Cantabria,Extremadura,38.98
+2018,Cantabria,Galicia,144.53
+2018,Cantabria,"Madrid, Comunidad de",598.08
+2018,Cantabria,"Murcia, Región de",36.98
+2018,Cantabria,"Navarra, Comunidad Foral de",182.23
+2018,Cantabria,País Vasco,3558.29
+2018,Cantabria,"Rioja, La",25.17
+2018,Castilla - La Mancha,Andalucía,5856.71
+2018,Castilla - La Mancha,Aragón,938.18
+2018,Castilla - La Mancha,"Asturias, Principado de",197.47
+2018,Castilla - La Mancha,Cantabria,264.84
+2018,Castilla - La Mancha,Castilla - La Mancha,51080.41
+2018,Castilla - La Mancha,Castilla y León,2751.17
+2018,Castilla - La Mancha,Cataluña,2296.88
+2018,Castilla - La Mancha,Comunitat Valenciana,7658.3
+2018,Castilla - La Mancha,Extremadura,1389.7
+2018,Castilla - La Mancha,Galicia,715.56
+2018,Castilla - La Mancha,"Madrid, Comunidad de",14463.47
+2018,Castilla - La Mancha,"Murcia, Región de",2397.41
+2018,Castilla - La Mancha,"Navarra, Comunidad Foral de",488.24
+2018,Castilla - La Mancha,País Vasco,716.7
+2018,Castilla - La Mancha,"Rioja, La",125.3
+2018,Castilla y León,Andalucía,1818.03
+2018,Castilla y León,Aragón,1725.69
+2018,Castilla y León,"Asturias, Principado de",2299.94
+2018,Castilla y León,Cantabria,2771.46
+2018,Castilla y León,Castilla - La Mancha,2933.13
+2018,Castilla y León,Castilla y León,75334.1
+2018,Castilla y León,Cataluña,2267.34
+2018,Castilla y León,Comunitat Valenciana,2109.25
+2018,Castilla y León,Extremadura,1077.99
+2018,Castilla y León,Galicia,3167.09
+2018,Castilla y León,"Madrid, Comunidad de",5182.1
+2018,Castilla y León,"Murcia, Región de",496.17
+2018,Castilla y León,"Navarra, Comunidad Foral de",1526.43
+2018,Castilla y León,País Vasco,4358.37
+2018,Castilla y León,"Rioja, La",782.02
+2018,Cataluña,Andalucía,2805.53
+2018,Cataluña,Aragón,11038.72
+2018,Cataluña,"Asturias, Principado de",398.75
+2018,Cataluña,Cantabria,309.4
+2018,Cataluña,Castilla - La Mancha,1849.38
+2018,Cataluña,Castilla y León,1888.59
+2018,Cataluña,Cataluña,189761.89
+2018,Cataluña,Comunitat Valenciana,8542.93
+2018,Cataluña,Extremadura,264.2
+2018,Cataluña,Galicia,881.08
+2018,Cataluña,"Madrid, Comunidad de",3482.64
+2018,Cataluña,"Murcia, Región de",1069.51
+2018,Cataluña,"Navarra, Comunidad Foral de",1216.76
+2018,Cataluña,País Vasco,1805.05
+2018,Cataluña,"Rioja, La",330.02
+2018,Comunitat Valenciana,Andalucía,4459.8
+2018,Comunitat Valenciana,Aragón,3454.63
+2018,Comunitat Valenciana,"Asturias, Principado de",268.74
+2018,Comunitat Valenciana,Cantabria,262.85
+2018,Comunitat Valenciana,Castilla - La Mancha,7060.7
+2018,Comunitat Valenciana,Castilla y León,1753.99
+2018,Comunitat Valenciana,Cataluña,7072.64
+2018,Comunitat Valenciana,Comunitat Valenciana,155527.71
+2018,Comunitat Valenciana,Extremadura,516.69
+2018,Comunitat Valenciana,Galicia,376.22
+2018,Comunitat Valenciana,"Madrid, Comunidad de",5830.53
+2018,Comunitat Valenciana,"Murcia, Región de",5979.92
+2018,Comunitat Valenciana,"Navarra, Comunidad Foral de",517.09
+2018,Comunitat Valenciana,País Vasco,1219.52
+2018,Comunitat Valenciana,"Rioja, La",247.84
+2018,Extremadura,Andalucía,2897.57
+2018,Extremadura,Aragón,85.88
+2018,Extremadura,"Asturias, Principado de",28.6
+2018,Extremadura,Cantabria,26.25
+2018,Extremadura,Castilla - La Mancha,1162.86
+2018,Extremadura,Castilla y León,863.48
+2018,Extremadura,Cataluña,245.19
+2018,Extremadura,Comunitat Valenciana,643.23
+2018,Extremadura,Extremadura,18554.22
+2018,Extremadura,Galicia,126.36
+2018,Extremadura,"Madrid, Comunidad de",711.59
+2018,Extremadura,"Murcia, Región de",153.02
+2018,Extremadura,"Navarra, Comunidad Foral de",39.16
+2018,Extremadura,País Vasco,173.02
+2018,Extremadura,"Rioja, La",
+2018,Galicia,Andalucía,887.15
+2018,Galicia,Aragón,577.43
+2018,Galicia,"Asturias, Principado de",5079.6
+2018,Galicia,Cantabria,448.87
+2018,Galicia,Castilla - La Mancha,924.24
+2018,Galicia,Castilla y León,3550.08
+2018,Galicia,Cataluña,808.05
+2018,Galicia,Comunitat Valenciana,773.38
+2018,Galicia,Extremadura,96.74
+2018,Galicia,Galicia,74576.9
+2018,Galicia,"Madrid, Comunidad de",1806.67
+2018,Galicia,"Murcia, Región de",150.05
+2018,Galicia,"Navarra, Comunidad Foral de",117.11
+2018,Galicia,País Vasco,1190.23
+2018,Galicia,"Rioja, La",83.67
+2018,"Madrid, Comunidad de",Andalucía,3782.94
+2018,"Madrid, Comunidad de",Aragón,1923.94
+2018,"Madrid, Comunidad de","Asturias, Principado de",625.61
+2018,"Madrid, Comunidad de",Cantabria,564.94
+2018,"Madrid, Comunidad de",Castilla - La Mancha,10033.4
+2018,"Madrid, Comunidad de",Castilla y León,4539.86
+2018,"Madrid, Comunidad de",Cataluña,1982.62
+2018,"Madrid, Comunidad de",Comunitat Valenciana,4105.91
+2018,"Madrid, Comunidad de",Extremadura,806.66
+2018,"Madrid, Comunidad de",Galicia,1577.66
+2018,"Madrid, Comunidad de","Madrid, Comunidad de",62338.1
+2018,"Madrid, Comunidad de","Murcia, Región de",788.21
+2018,"Madrid, Comunidad de","Navarra, Comunidad Foral de",420.47
+2018,"Madrid, Comunidad de",País Vasco,1369.21
+2018,"Madrid, Comunidad de","Rioja, La",315.47
+2018,"Murcia, Región de",Andalucía,5211.3
+2018,"Murcia, Región de",Aragón,344.39
+2018,"Murcia, Región de","Asturias, Principado de",56.81
+2018,"Murcia, Región de",Cantabria,30.75
+2018,"Murcia, Región de",Castilla - La Mancha,2828.31
+2018,"Murcia, Región de",Castilla y León,300.13
+2018,"Murcia, Región de",Cataluña,1227.64
+2018,"Murcia, Región de",Comunitat Valenciana,8900.6
+2018,"Murcia, Región de",Extremadura,192.33
+2018,"Murcia, Región de",Galicia,112.71
+2018,"Murcia, Región de","Madrid, Comunidad de",1347.83
+2018,"Murcia, Región de","Murcia, Región de",40666.36
+2018,"Murcia, Región de","Navarra, Comunidad Foral de",108.88
+2018,"Murcia, Región de",País Vasco,129.9
+2018,"Murcia, Región de","Rioja, La",47.47
+2018,"Navarra, Comunidad Foral de",Andalucía,318.24
+2018,"Navarra, Comunidad Foral de",Aragón,2767.71
+2018,"Navarra, Comunidad Foral de","Asturias, Principado de",57.28
+2018,"Navarra, Comunidad Foral de",Cantabria,186.1
+2018,"Navarra, Comunidad Foral de",Castilla - La Mancha,472.13
+2018,"Navarra, Comunidad Foral de",Castilla y León,1598.06
+2018,"Navarra, Comunidad Foral de",Cataluña,1083.14
+2018,"Navarra, Comunidad Foral de",Comunitat Valenciana,727.33
+2018,"Navarra, Comunidad Foral de",Extremadura,14.3
+2018,"Navarra, Comunidad Foral de",Galicia,292.88
+2018,"Navarra, Comunidad Foral de","Madrid, Comunidad de",882.45
+2018,"Navarra, Comunidad Foral de","Murcia, Región de",103.26
+2018,"Navarra, Comunidad Foral de","Navarra, Comunidad Foral de",15002.6
+2018,"Navarra, Comunidad Foral de",País Vasco,4136.61
+2018,"Navarra, Comunidad Foral de","Rioja, La",1701.74
+2018,País Vasco,Andalucía,597.47
+2018,País Vasco,Aragón,1661.41
+2018,País Vasco,"Asturias, Principado de",859.7
+2018,País Vasco,Cantabria,2128.64
+2018,País Vasco,Castilla - La Mancha,757.29
+2018,País Vasco,Castilla y León,4298.81
+2018,País Vasco,Cataluña,1692.18
+2018,País Vasco,Comunitat Valenciana,1188.63
+2018,País Vasco,Extremadura,63.64
+2018,País Vasco,Galicia,1048.63
+2018,País Vasco,"Madrid, Comunidad de",1703.43
+2018,País Vasco,"Murcia, Región de",218.13
+2018,País Vasco,"Navarra, Comunidad Foral de",4104.58
+2018,País Vasco,País Vasco,44489.91
+2018,País Vasco,"Rioja, La",1102.56
+2018,"Rioja, La",Andalucía,224.61
+2018,"Rioja, La",Aragón,614.94
+2018,"Rioja, La","Asturias, Principado de",37.83
+2018,"Rioja, La",Cantabria,146.54
+2018,"Rioja, La",Castilla - La Mancha,255.7
+2018,"Rioja, La",Castilla y León,637.91
+2018,"Rioja, La",Cataluña,471.12
+2018,"Rioja, La",Comunitat Valenciana,365.0
+2018,"Rioja, La",Extremadura,
+2018,"Rioja, La",Galicia,170.02
+2018,"Rioja, La","Madrid, Comunidad de",437.98
+2018,"Rioja, La","Murcia, Región de",72.35
+2018,"Rioja, La","Navarra, Comunidad Foral de",1171.9
+2018,"Rioja, La",País Vasco,1357.56
+2018,"Rioja, La","Rioja, La",5707.56
+2019,Andalucía,Andalucía,192155.19
+2019,Andalucía,Aragón,672.74
+2019,Andalucía,"Asturias, Principado de",77.54
+2019,Andalucía,Cantabria,219.06
+2019,Andalucía,Castilla - La Mancha,3405.35
+2019,Andalucía,Castilla y León,1417.05
+2019,Andalucía,Cataluña,2652.98
+2019,Andalucía,Comunitat Valenciana,5211.98
+2019,Andalucía,Extremadura,4580.12
+2019,Andalucía,Galicia,487.53
+2019,Andalucía,"Madrid, Comunidad de",3137.05
+2019,Andalucía,"Murcia, Región de",3645.81
+2019,Andalucía,"Navarra, Comunidad Foral de",376.58
+2019,Andalucía,País Vasco,548.41
+2019,Andalucía,"Rioja, La",141.94
+2019,Aragón,Andalucía,764.03
+2019,Aragón,Aragón,44863.46
+2019,Aragón,"Asturias, Principado de",137.11
+2019,Aragón,Cantabria,270.6
+2019,Aragón,Castilla - La Mancha,1209.52
+2019,Aragón,Castilla y León,1844.25
+2019,Aragón,Cataluña,8438.85
+2019,Aragón,Comunitat Valenciana,5059.24
+2019,Aragón,Extremadura,74.93
+2019,Aragón,Galicia,353.15
+2019,Aragón,"Madrid, Comunidad de",2270.88
+2019,Aragón,"Murcia, Región de",427.65
+2019,Aragón,"Navarra, Comunidad Foral de",2374.33
+2019,Aragón,País Vasco,1809.98
+2019,Aragón,"Rioja, La",796.75
+2019,"Asturias, Principado de",Andalucía,279.34
+2019,"Asturias, Principado de",Aragón,301.38
+2019,"Asturias, Principado de","Asturias, Principado de",28779.75
+2019,"Asturias, Principado de",Cantabria,688.33
+2019,"Asturias, Principado de",Castilla - La Mancha,313.24
+2019,"Asturias, Principado de",Castilla y León,1396.94
+2019,"Asturias, Principado de",Cataluña,344.07
+2019,"Asturias, Principado de",Comunitat Valenciana,326.26
+2019,"Asturias, Principado de",Extremadura,117.95
+2019,"Asturias, Principado de",Galicia,2242.79
+2019,"Asturias, Principado de","Madrid, Comunidad de",559.84
+2019,"Asturias, Principado de","Murcia, Región de",107.44
+2019,"Asturias, Principado de","Navarra, Comunidad Foral de",103.24
+2019,"Asturias, Principado de",País Vasco,827.17
+2019,"Asturias, Principado de","Rioja, La",63.23
+2019,Cantabria,Andalucía,248.58
+2019,Cantabria,Aragón,428.09
+2019,Cantabria,"Asturias, Principado de",392.71
+2019,Cantabria,Cantabria,20604.43
+2019,Cantabria,Castilla - La Mancha,189.24
+2019,Cantabria,Castilla y León,2102.0
+2019,Cantabria,Cataluña,418.87
+2019,Cantabria,Comunitat Valenciana,157.94
+2019,Cantabria,Extremadura,36.24
+2019,Cantabria,Galicia,247.33
+2019,Cantabria,"Madrid, Comunidad de",589.54
+2019,Cantabria,"Murcia, Región de",27.21
+2019,Cantabria,"Navarra, Comunidad Foral de",178.05
+2019,Cantabria,País Vasco,2946.63
+2019,Cantabria,"Rioja, La",133.96
+2019,Castilla - La Mancha,Andalucía,5153.23
+2019,Castilla - La Mancha,Aragón,983.63
+2019,Castilla - La Mancha,"Asturias, Principado de",318.06
+2019,Castilla - La Mancha,Cantabria,259.96
+2019,Castilla - La Mancha,Castilla - La Mancha,51029.77
+2019,Castilla - La Mancha,Castilla y León,2854.03
+2019,Castilla - La Mancha,Cataluña,2043.34
+2019,Castilla - La Mancha,Comunitat Valenciana,8337.4
+2019,Castilla - La Mancha,Extremadura,1426.91
+2019,Castilla - La Mancha,Galicia,847.08
+2019,Castilla - La Mancha,"Madrid, Comunidad de",16808.1
+2019,Castilla - La Mancha,"Murcia, Región de",2488.83
+2019,Castilla - La Mancha,"Navarra, Comunidad Foral de",505.09
+2019,Castilla - La Mancha,País Vasco,950.54
+2019,Castilla - La Mancha,"Rioja, La",139.68
+2019,Castilla y León,Andalucía,1815.71
+2019,Castilla y León,Aragón,2018.8
+2019,Castilla y León,"Asturias, Principado de",1953.01
+2019,Castilla y León,Cantabria,2970.36
+2019,Castilla y León,Castilla - La Mancha,2983.99
+2019,Castilla y León,Castilla y León,78626.28
+2019,Castilla y León,Cataluña,2273.66
+2019,Castilla y León,Comunitat Valenciana,2045.18
+2019,Castilla y León,Extremadura,1230.58
+2019,Castilla y León,Galicia,3493.38
+2019,Castilla y León,"Madrid, Comunidad de",5619.49
+2019,Castilla y León,"Murcia, Región de",376.97
+2019,Castilla y León,"Navarra, Comunidad Foral de",1503.23
+2019,Castilla y León,País Vasco,5561.66
+2019,Castilla y León,"Rioja, La",534.94
+2019,Cataluña,Andalucía,2712.81
+2019,Cataluña,Aragón,10009.82
+2019,Cataluña,"Asturias, Principado de",287.96
+2019,Cataluña,Cantabria,348.62
+2019,Cataluña,Castilla - La Mancha,1622.54
+2019,Cataluña,Castilla y León,1940.17
+2019,Cataluña,Cataluña,183521.45
+2019,Cataluña,Comunitat Valenciana,8037.74
+2019,Cataluña,Extremadura,361.16
+2019,Cataluña,Galicia,814.67
+2019,Cataluña,"Madrid, Comunidad de",3730.73
+2019,Cataluña,"Murcia, Región de",1696.92
+2019,Cataluña,"Navarra, Comunidad Foral de",1301.35
+2019,Cataluña,País Vasco,2447.98
+2019,Cataluña,"Rioja, La",433.59
+2019,Comunitat Valenciana,Andalucía,4391.84
+2019,Comunitat Valenciana,Aragón,3146.2
+2019,Comunitat Valenciana,"Asturias, Principado de",175.36
+2019,Comunitat Valenciana,Cantabria,201.97
+2019,Comunitat Valenciana,Castilla - La Mancha,7160.73
+2019,Comunitat Valenciana,Castilla y León,1690.04
+2019,Comunitat Valenciana,Cataluña,7394.41
+2019,Comunitat Valenciana,Comunitat Valenciana,153436.77
+2019,Comunitat Valenciana,Extremadura,357.58
+2019,Comunitat Valenciana,Galicia,551.3
+2019,Comunitat Valenciana,"Madrid, Comunidad de",5308.68
+2019,Comunitat Valenciana,"Murcia, Región de",7906.26
+2019,Comunitat Valenciana,"Navarra, Comunidad Foral de",623.98
+2019,Comunitat Valenciana,País Vasco,1314.47
+2019,Comunitat Valenciana,"Rioja, La",181.84
+2019,Extremadura,Andalucía,2534.0
+2019,Extremadura,Aragón,43.54
+2019,Extremadura,"Asturias, Principado de",18.12
+2019,Extremadura,Cantabria,30.89
+2019,Extremadura,Castilla - La Mancha,769.7
+2019,Extremadura,Castilla y León,936.84
+2019,Extremadura,Cataluña,247.02
+2019,Extremadura,Comunitat Valenciana,477.11
+2019,Extremadura,Extremadura,18479.47
+2019,Extremadura,Galicia,106.93
+2019,Extremadura,"Madrid, Comunidad de",868.59
+2019,Extremadura,"Murcia, Región de",226.8
+2019,Extremadura,"Navarra, Comunidad Foral de",62.13
+2019,Extremadura,País Vasco,137.89
+2019,Extremadura,"Rioja, La",49.86
+2019,Galicia,Andalucía,770.47
+2019,Galicia,Aragón,444.59
+2019,Galicia,"Asturias, Principado de",2462.33
+2019,Galicia,Cantabria,289.59
+2019,Galicia,Castilla - La Mancha,798.2
+2019,Galicia,Castilla y León,3462.56
+2019,Galicia,Cataluña,667.09
+2019,Galicia,Comunitat Valenciana,1032.07
+2019,Galicia,Extremadura,120.85
+2019,Galicia,Galicia,85030.6
+2019,Galicia,"Madrid, Comunidad de",1789.57
+2019,Galicia,"Murcia, Región de",152.0
+2019,Galicia,"Navarra, Comunidad Foral de",122.53
+2019,Galicia,País Vasco,1591.69
+2019,Galicia,"Rioja, La",15.67
+2019,"Madrid, Comunidad de",Andalucía,4111.43
+2019,"Madrid, Comunidad de",Aragón,2088.39
+2019,"Madrid, Comunidad de","Asturias, Principado de",590.79
+2019,"Madrid, Comunidad de",Cantabria,284.34
+2019,"Madrid, Comunidad de",Castilla - La Mancha,13328.71
+2019,"Madrid, Comunidad de",Castilla y León,3899.91
+2019,"Madrid, Comunidad de",Cataluña,2648.78
+2019,"Madrid, Comunidad de",Comunitat Valenciana,3639.55
+2019,"Madrid, Comunidad de",Extremadura,657.35
+2019,"Madrid, Comunidad de",Galicia,1512.81
+2019,"Madrid, Comunidad de","Madrid, Comunidad de",71448.36
+2019,"Madrid, Comunidad de","Murcia, Región de",1131.08
+2019,"Madrid, Comunidad de","Navarra, Comunidad Foral de",397.05
+2019,"Madrid, Comunidad de",País Vasco,1432.73
+2019,"Madrid, Comunidad de","Rioja, La",160.54
+2019,"Murcia, Región de",Andalucía,5689.24
+2019,"Murcia, Región de",Aragón,399.28
+2019,"Murcia, Región de","Asturias, Principado de",62.74
+2019,"Murcia, Región de",Cantabria,103.1
+2019,"Murcia, Región de",Castilla - La Mancha,3208.55
+2019,"Murcia, Región de",Castilla y León,342.54
+2019,"Murcia, Región de",Cataluña,1278.14
+2019,"Murcia, Región de",Comunitat Valenciana,9687.71
+2019,"Murcia, Región de",Extremadura,111.63
+2019,"Murcia, Región de",Galicia,237.64
+2019,"Murcia, Región de","Madrid, Comunidad de",1282.52
+2019,"Murcia, Región de","Murcia, Región de",36128.46
+2019,"Murcia, Región de","Navarra, Comunidad Foral de",168.81
+2019,"Murcia, Región de",País Vasco,167.11
+2019,"Murcia, Región de","Rioja, La",97.33
+2019,"Navarra, Comunidad Foral de",Andalucía,402.26
+2019,"Navarra, Comunidad Foral de",Aragón,2641.4
+2019,"Navarra, Comunidad Foral de","Asturias, Principado de",152.16
+2019,"Navarra, Comunidad Foral de",Cantabria,247.0
+2019,"Navarra, Comunidad Foral de",Castilla - La Mancha,470.43
+2019,"Navarra, Comunidad Foral de",Castilla y León,1343.94
+2019,"Navarra, Comunidad Foral de",Cataluña,1581.72
+2019,"Navarra, Comunidad Foral de",Comunitat Valenciana,683.37
+2019,"Navarra, Comunidad Foral de",Extremadura,67.51
+2019,"Navarra, Comunidad Foral de",Galicia,313.09
+2019,"Navarra, Comunidad Foral de","Madrid, Comunidad de",827.47
+2019,"Navarra, Comunidad Foral de","Murcia, Región de",104.29
+2019,"Navarra, Comunidad Foral de","Navarra, Comunidad Foral de",21961.33
+2019,"Navarra, Comunidad Foral de",País Vasco,3840.9
+2019,"Navarra, Comunidad Foral de","Rioja, La",1647.52
+2019,País Vasco,Andalucía,666.49
+2019,País Vasco,Aragón,1998.08
+2019,País Vasco,"Asturias, Principado de",859.59
+2019,País Vasco,Cantabria,2849.3
+2019,País Vasco,Castilla - La Mancha,694.6
+2019,País Vasco,Castilla y León,5710.16
+2019,País Vasco,Cataluña,1735.19
+2019,País Vasco,Comunitat Valenciana,1244.01
+2019,País Vasco,Extremadura,53.43
+2019,País Vasco,Galicia,1192.32
+2019,País Vasco,"Madrid, Comunidad de",1252.0
+2019,País Vasco,"Murcia, Región de",277.15
+2019,País Vasco,"Navarra, Comunidad Foral de",4898.4
+2019,País Vasco,País Vasco,45953.96
+2019,País Vasco,"Rioja, La",973.21
+2019,"Rioja, La",Andalucía,115.71
+2019,"Rioja, La",Aragón,774.45
+2019,"Rioja, La","Asturias, Principado de",46.18
+2019,"Rioja, La",Cantabria,122.83
+2019,"Rioja, La",Castilla - La Mancha,303.45
+2019,"Rioja, La",Castilla y León,686.59
+2019,"Rioja, La",Cataluña,436.71
+2019,"Rioja, La",Comunitat Valenciana,328.52
+2019,"Rioja, La",Extremadura,45.23
+2019,"Rioja, La",Galicia,37.41
+2019,"Rioja, La","Madrid, Comunidad de",425.29
+2019,"Rioja, La","Murcia, Región de",75.3
+2019,"Rioja, La","Navarra, Comunidad Foral de",1604.5
+2019,"Rioja, La",País Vasco,1244.76
+2019,"Rioja, La","Rioja, La",6139.22
+2020,Andalucía,Andalucía,191194.16
+2020,Andalucía,Aragón,855.91
+2020,Andalucía,"Asturias, Principado de",154.94
+2020,Andalucía,Cantabria,113.23
+2020,Andalucía,Castilla - La Mancha,4595.09
+2020,Andalucía,Castilla y León,1412.93
+2020,Andalucía,Cataluña,2862.52
+2020,Andalucía,Comunitat Valenciana,5700.84
+2020,Andalucía,Extremadura,3747.09
+2020,Andalucía,Galicia,654.18
+2020,Andalucía,"Madrid, Comunidad de",3830.81
+2020,Andalucía,"Murcia, Región de",4289.24
+2020,Andalucía,"Navarra, Comunidad Foral de",454.49
+2020,Andalucía,País Vasco,643.5
+2020,Andalucía,"Rioja, La",85.96
+2020,Aragón,Andalucía,851.39
+2020,Aragón,Aragón,43200.2
+2020,Aragón,"Asturias, Principado de",43.89
+2020,Aragón,Cantabria,252.13
+2020,Aragón,Castilla - La Mancha,1157.59
+2020,Aragón,Castilla y León,1689.16
+2020,Aragón,Cataluña,8146.56
+2020,Aragón,Comunitat Valenciana,5493.71
+2020,Aragón,Extremadura,12.35
+2020,Aragón,Galicia,219.72
+2020,Aragón,"Madrid, Comunidad de",2637.35
+2020,Aragón,"Murcia, Región de",556.01
+2020,Aragón,"Navarra, Comunidad Foral de",2216.74
+2020,Aragón,País Vasco,1785.54
+2020,Aragón,"Rioja, La",622.42
+2020,"Asturias, Principado de",Andalucía,221.38
+2020,"Asturias, Principado de",Aragón,157.87
+2020,"Asturias, Principado de","Asturias, Principado de",24958.85
+2020,"Asturias, Principado de",Cantabria,813.08
+2020,"Asturias, Principado de",Castilla - La Mancha,154.14
+2020,"Asturias, Principado de",Castilla y León,1892.94
+2020,"Asturias, Principado de",Cataluña,343.69
+2020,"Asturias, Principado de",Comunitat Valenciana,244.51
+2020,"Asturias, Principado de",Extremadura,10.5
+2020,"Asturias, Principado de",Galicia,1406.83
+2020,"Asturias, Principado de","Madrid, Comunidad de",545.92
+2020,"Asturias, Principado de","Murcia, Región de",46.56
+2020,"Asturias, Principado de","Navarra, Comunidad Foral de",92.86
+2020,"Asturias, Principado de",País Vasco,631.48
+2020,"Asturias, Principado de","Rioja, La",16.19
+2020,Cantabria,Andalucía,165.07
+2020,Cantabria,Aragón,351.31
+2020,Cantabria,"Asturias, Principado de",856.62
+2020,Cantabria,Cantabria,11294.49
+2020,Cantabria,Castilla - La Mancha,199.03
+2020,Cantabria,Castilla y León,1873.99
+2020,Cantabria,Cataluña,366.99
+2020,Cantabria,Comunitat Valenciana,228.53
+2020,Cantabria,Extremadura,12.26
+2020,Cantabria,Galicia,237.15
+2020,Cantabria,"Madrid, Comunidad de",473.34
+2020,Cantabria,"Murcia, Región de",20.92
+2020,Cantabria,"Navarra, Comunidad Foral de",175.2
+2020,Cantabria,País Vasco,2433.82
+2020,Cantabria,"Rioja, La",79.53
+2020,Castilla - La Mancha,Andalucía,6147.48
+2020,Castilla - La Mancha,Aragón,1287.92
+2020,Castilla - La Mancha,"Asturias, Principado de",177.71
+2020,Castilla - La Mancha,Cantabria,399.39
+2020,Castilla - La Mancha,Castilla - La Mancha,53769.72
+2020,Castilla - La Mancha,Castilla y León,3069.6
+2020,Castilla - La Mancha,Cataluña,2229.71
+2020,Castilla - La Mancha,Comunitat Valenciana,6284.92
+2020,Castilla - La Mancha,Extremadura,1629.34
+2020,Castilla - La Mancha,Galicia,821.88
+2020,Castilla - La Mancha,"Madrid, Comunidad de",17816.72
+2020,Castilla - La Mancha,"Murcia, Región de",2822.28
+2020,Castilla - La Mancha,"Navarra, Comunidad Foral de",357.4
+2020,Castilla - La Mancha,País Vasco,593.29
+2020,Castilla - La Mancha,"Rioja, La",222.06
+2020,Castilla y León,Andalucía,1585.5
+2020,Castilla y León,Aragón,1902.17
+2020,Castilla y León,"Asturias, Principado de",2194.46
+2020,Castilla y León,Cantabria,3593.4
+2020,Castilla y León,Castilla - La Mancha,2728.4
+2020,Castilla y León,Castilla y León,72313.81
+2020,Castilla y León,Cataluña,2449.9
+2020,Castilla y León,Comunitat Valenciana,2771.06
+2020,Castilla y León,Extremadura,1296.45
+2020,Castilla y León,Galicia,3779.15
+2020,Castilla y León,"Madrid, Comunidad de",5830.22
+2020,Castilla y León,"Murcia, Región de",419.16
+2020,Castilla y León,"Navarra, Comunidad Foral de",2496.09
+2020,Castilla y León,País Vasco,5266.55
+2020,Castilla y León,"Rioja, La",1038.43
+2020,Cataluña,Andalucía,2642.62
+2020,Cataluña,Aragón,9985.67
+2020,Cataluña,"Asturias, Principado de",306.95
+2020,Cataluña,Cantabria,429.52
+2020,Cataluña,Castilla - La Mancha,1961.97
+2020,Cataluña,Castilla y León,2396.95
+2020,Cataluña,Cataluña,172171.35
+2020,Cataluña,Comunitat Valenciana,7146.82
+2020,Cataluña,Extremadura,316.51
+2020,Cataluña,Galicia,913.8
+2020,Cataluña,"Madrid, Comunidad de",3992.56
+2020,Cataluña,"Murcia, Región de",1337.67
+2020,Cataluña,"Navarra, Comunidad Foral de",1226.29
+2020,Cataluña,País Vasco,2033.0
+2020,Cataluña,"Rioja, La",319.69
+2020,Comunitat Valenciana,Andalucía,4606.19
+2020,Comunitat Valenciana,Aragón,3652.57
+2020,Comunitat Valenciana,"Asturias, Principado de",191.91
+2020,Comunitat Valenciana,Cantabria,297.73
+2020,Comunitat Valenciana,Castilla - La Mancha,7135.54
+2020,Comunitat Valenciana,Castilla y León,1793.36
+2020,Comunitat Valenciana,Cataluña,6722.24
+2020,Comunitat Valenciana,Comunitat Valenciana,137046.85
+2020,Comunitat Valenciana,Extremadura,257.91
+2020,Comunitat Valenciana,Galicia,627.74
+2020,Comunitat Valenciana,"Madrid, Comunidad de",4950.04
+2020,Comunitat Valenciana,"Murcia, Región de",8005.02
+2020,Comunitat Valenciana,"Navarra, Comunidad Foral de",628.04
+2020,Comunitat Valenciana,País Vasco,1324.63
+2020,Comunitat Valenciana,"Rioja, La",161.57
+2020,Extremadura,Andalucía,2668.29
+2020,Extremadura,Aragón,49.13
+2020,Extremadura,"Asturias, Principado de",28.99
+2020,Extremadura,Cantabria,
+2020,Extremadura,Castilla - La Mancha,963.1
+2020,Extremadura,Castilla y León,680.15
+2020,Extremadura,Cataluña,291.84
+2020,Extremadura,Comunitat Valenciana,340.85
+2020,Extremadura,Extremadura,22081.65
+2020,Extremadura,Galicia,135.83
+2020,Extremadura,"Madrid, Comunidad de",1229.79
+2020,Extremadura,"Murcia, Región de",191.6
+2020,Extremadura,"Navarra, Comunidad Foral de",179.1
+2020,Extremadura,País Vasco,170.0
+2020,Extremadura,"Rioja, La",38.67
+2020,Galicia,Andalucía,742.55
+2020,Galicia,Aragón,364.39
+2020,Galicia,"Asturias, Principado de",3294.36
+2020,Galicia,Cantabria,218.79
+2020,Galicia,Castilla - La Mancha,1087.83
+2020,Galicia,Castilla y León,3436.27
+2020,Galicia,Cataluña,680.74
+2020,Galicia,Comunitat Valenciana,656.96
+2020,Galicia,Extremadura,140.57
+2020,Galicia,Galicia,78138.47
+2020,Galicia,"Madrid, Comunidad de",2118.51
+2020,Galicia,"Murcia, Región de",202.5
+2020,Galicia,"Navarra, Comunidad Foral de",72.7
+2020,Galicia,País Vasco,1055.54
+2020,Galicia,"Rioja, La",53.0
+2020,"Madrid, Comunidad de",Andalucía,4121.56
+2020,"Madrid, Comunidad de",Aragón,2487.13
+2020,"Madrid, Comunidad de","Asturias, Principado de",566.12
+2020,"Madrid, Comunidad de",Cantabria,430.56
+2020,"Madrid, Comunidad de",Castilla - La Mancha,10979.61
+2020,"Madrid, Comunidad de",Castilla y León,3495.88
+2020,"Madrid, Comunidad de",Cataluña,3093.69
+2020,"Madrid, Comunidad de",Comunitat Valenciana,3393.39
+2020,"Madrid, Comunidad de",Extremadura,1222.22
+2020,"Madrid, Comunidad de",Galicia,1831.28
+2020,"Madrid, Comunidad de","Madrid, Comunidad de",59800.85
+2020,"Madrid, Comunidad de","Murcia, Región de",980.61
+2020,"Madrid, Comunidad de","Navarra, Comunidad Foral de",470.13
+2020,"Madrid, Comunidad de",País Vasco,1510.78
+2020,"Madrid, Comunidad de","Rioja, La",228.86
+2020,"Murcia, Región de",Andalucía,4693.18
+2020,"Murcia, Región de",Aragón,395.96
+2020,"Murcia, Región de","Asturias, Principado de",12.52
+2020,"Murcia, Región de",Cantabria,37.49
+2020,"Murcia, Región de",Castilla - La Mancha,2693.53
+2020,"Murcia, Región de",Castilla y León,290.21
+2020,"Murcia, Región de",Cataluña,1100.08
+2020,"Murcia, Región de",Comunitat Valenciana,8864.9
+2020,"Murcia, Región de",Extremadura,92.52
+2020,"Murcia, Región de",Galicia,155.9
+2020,"Murcia, Región de","Madrid, Comunidad de",1001.91
+2020,"Murcia, Región de","Murcia, Región de",45962.91
+2020,"Murcia, Región de","Navarra, Comunidad Foral de",283.33
+2020,"Murcia, Región de",País Vasco,113.69
+2020,"Murcia, Región de","Rioja, La",76.26
+2020,"Navarra, Comunidad Foral de",Andalucía,166.72
+2020,"Navarra, Comunidad Foral de",Aragón,2667.57
+2020,"Navarra, Comunidad Foral de","Asturias, Principado de",58.33
+2020,"Navarra, Comunidad Foral de",Cantabria,266.7
+2020,"Navarra, Comunidad Foral de",Castilla - La Mancha,300.41
+2020,"Navarra, Comunidad Foral de",Castilla y León,1831.61
+2020,"Navarra, Comunidad Foral de",Cataluña,1451.63
+2020,"Navarra, Comunidad Foral de",Comunitat Valenciana,747.1
+2020,"Navarra, Comunidad Foral de",Extremadura,135.48
+2020,"Navarra, Comunidad Foral de",Galicia,206.34
+2020,"Navarra, Comunidad Foral de","Madrid, Comunidad de",667.56
+2020,"Navarra, Comunidad Foral de","Murcia, Región de",189.41
+2020,"Navarra, Comunidad Foral de","Navarra, Comunidad Foral de",16982.66
+2020,"Navarra, Comunidad Foral de",País Vasco,2893.11
+2020,"Navarra, Comunidad Foral de","Rioja, La",1972.33
+2020,País Vasco,Andalucía,710.04
+2020,País Vasco,Aragón,2198.32
+2020,País Vasco,"Asturias, Principado de",554.64
+2020,País Vasco,Cantabria,2526.47
+2020,País Vasco,Castilla - La Mancha,610.74
+2020,País Vasco,Castilla y León,4589.93
+2020,País Vasco,Cataluña,1591.46
+2020,País Vasco,Comunitat Valenciana,1497.84
+2020,País Vasco,Extremadura,135.52
+2020,País Vasco,Galicia,806.31
+2020,País Vasco,"Madrid, Comunidad de",1523.82
+2020,País Vasco,"Murcia, Región de",245.57
+2020,País Vasco,"Navarra, Comunidad Foral de",4736.8
+2020,País Vasco,País Vasco,42994.83
+2020,País Vasco,"Rioja, La",1488.61
+2020,"Rioja, La",Andalucía,152.0
+2020,"Rioja, La",Aragón,404.6
+2020,"Rioja, La","Asturias, Principado de",23.68
+2020,"Rioja, La",Cantabria,164.77
+2020,"Rioja, La",Castilla - La Mancha,269.2
+2020,"Rioja, La",Castilla y León,985.05
+2020,"Rioja, La",Cataluña,371.49
+2020,"Rioja, La",Comunitat Valenciana,552.65
+2020,"Rioja, La",Extremadura,46.35
+2020,"Rioja, La",Galicia,88.51
+2020,"Rioja, La","Madrid, Comunidad de",442.5
+2020,"Rioja, La","Murcia, Región de",54.14
+2020,"Rioja, La","Navarra, Comunidad Foral de",1394.06
+2020,"Rioja, La",País Vasco,1133.72
+2020,"Rioja, La","Rioja, La",4321.85
+2021,Andalucía,Andalucía,204473.18
+2021,Andalucía,Aragón,739.56
+2021,Andalucía,"Asturias, Principado de",241.24
+2021,Andalucía,Cantabria,161.03
+2021,Andalucía,Castilla - La Mancha,3279.3
+2021,Andalucía,Castilla y León,1793.05
+2021,Andalucía,Cataluña,3251.74
+2021,Andalucía,Comunitat Valenciana,6325.78
+2021,Andalucía,Extremadura,5498.78
+2021,Andalucía,Galicia,461.7
+2021,Andalucía,"Madrid, Comunidad de",4355.44
+2021,Andalucía,"Murcia, Región de",4095.75
+2021,Andalucía,"Navarra, Comunidad Foral de",473.48
+2021,Andalucía,País Vasco,680.67
+2021,Andalucía,"Rioja, La",102.23
+2021,Aragón,Andalucía,1022.7
+2021,Aragón,Aragón,48727.31
+2021,Aragón,"Asturias, Principado de",251.04
+2021,Aragón,Cantabria,409.77
+2021,Aragón,Castilla - La Mancha,1533.15
+2021,Aragón,Castilla y León,1971.33
+2021,Aragón,Cataluña,9358.32
+2021,Aragón,Comunitat Valenciana,6261.65
+2021,Aragón,Extremadura,145.26
+2021,Aragón,Galicia,358.99
+2021,Aragón,"Madrid, Comunidad de",2696.11
+2021,Aragón,"Murcia, Región de",534.01
+2021,Aragón,"Navarra, Comunidad Foral de",2741.09
+2021,Aragón,País Vasco,2157.61
+2021,Aragón,"Rioja, La",940.74
+2021,"Asturias, Principado de",Andalucía,422.7
+2021,"Asturias, Principado de",Aragón,380.03
+2021,"Asturias, Principado de","Asturias, Principado de",32542.85
+2021,"Asturias, Principado de",Cantabria,1037.42
+2021,"Asturias, Principado de",Castilla - La Mancha,299.12
+2021,"Asturias, Principado de",Castilla y León,2217.57
+2021,"Asturias, Principado de",Cataluña,324.53
+2021,"Asturias, Principado de",Comunitat Valenciana,340.6
+2021,"Asturias, Principado de",Extremadura,112.67
+2021,"Asturias, Principado de",Galicia,1553.05
+2021,"Asturias, Principado de","Madrid, Comunidad de",610.41
+2021,"Asturias, Principado de","Murcia, Región de",99.6
+2021,"Asturias, Principado de","Navarra, Comunidad Foral de",181.8
+2021,"Asturias, Principado de",País Vasco,1124.98
+2021,"Asturias, Principado de","Rioja, La",156.86
+2021,Cantabria,Andalucía,161.89
+2021,Cantabria,Aragón,491.96
+2021,Cantabria,"Asturias, Principado de",665.48
+2021,Cantabria,Cantabria,14060.42
+2021,Cantabria,Castilla - La Mancha,232.19
+2021,Cantabria,Castilla y León,1975.13
+2021,Cantabria,Cataluña,420.84
+2021,Cantabria,Comunitat Valenciana,435.99
+2021,Cantabria,Extremadura,17.94
+2021,Cantabria,Galicia,317.66
+2021,Cantabria,"Madrid, Comunidad de",617.72
+2021,Cantabria,"Murcia, Región de",56.4
+2021,Cantabria,"Navarra, Comunidad Foral de",401.98
+2021,Cantabria,País Vasco,3605.68
+2021,Cantabria,"Rioja, La",108.92
+2021,Castilla - La Mancha,Andalucía,5235.54
+2021,Castilla - La Mancha,Aragón,1704.15
+2021,Castilla - La Mancha,"Asturias, Principado de",405.01
+2021,Castilla - La Mancha,Cantabria,404.97
+2021,Castilla - La Mancha,Castilla - La Mancha,55441.84
+2021,Castilla - La Mancha,Castilla y León,2509.06
+2021,Castilla - La Mancha,Cataluña,2374.09
+2021,Castilla - La Mancha,Comunitat Valenciana,9370.31
+2021,Castilla - La Mancha,Extremadura,1336.51
+2021,Castilla - La Mancha,Galicia,671.97
+2021,Castilla - La Mancha,"Madrid, Comunidad de",20239.65
+2021,Castilla - La Mancha,"Murcia, Región de",3737.85
+2021,Castilla - La Mancha,"Navarra, Comunidad Foral de",397.24
+2021,Castilla - La Mancha,País Vasco,830.28
+2021,Castilla - La Mancha,"Rioja, La",242.15
+2021,Castilla y León,Andalucía,1953.83
+2021,Castilla y León,Aragón,1962.73
+2021,Castilla y León,"Asturias, Principado de",3070.22
+2021,Castilla y León,Cantabria,3376.54
+2021,Castilla y León,Castilla - La Mancha,3307.76
+2021,Castilla y León,Castilla y León,82182.2
+2021,Castilla y León,Cataluña,3030.12
+2021,Castilla y León,Comunitat Valenciana,2403.9
+2021,Castilla y León,Extremadura,1715.75
+2021,Castilla y León,Galicia,5112.41
+2021,Castilla y León,"Madrid, Comunidad de",4934.74
+2021,Castilla y León,"Murcia, Región de",621.32
+2021,Castilla y León,"Navarra, Comunidad Foral de",2493.4
+2021,Castilla y León,País Vasco,6946.49
+2021,Castilla y León,"Rioja, La",1068.87
+2021,Cataluña,Andalucía,2840.55
+2021,Cataluña,Aragón,11231.37
+2021,Cataluña,"Asturias, Principado de",378.35
+2021,Cataluña,Cantabria,420.84
+2021,Cataluña,Castilla - La Mancha,2150.71
+2021,Cataluña,Castilla y León,2319.86
+2021,Cataluña,Cataluña,188027.13
+2021,Cataluña,Comunitat Valenciana,9162.08
+2021,Cataluña,Extremadura,286.03
+2021,Cataluña,Galicia,933.59
+2021,Cataluña,"Madrid, Comunidad de",4538.51
+2021,Cataluña,"Murcia, Región de",1481.05
+2021,Cataluña,"Navarra, Comunidad Foral de",815.62
+2021,Cataluña,País Vasco,2323.53
+2021,Cataluña,"Rioja, La",274.09
+2021,Comunitat Valenciana,Andalucía,5510.14
+2021,Comunitat Valenciana,Aragón,3909.9
+2021,Comunitat Valenciana,"Asturias, Principado de",195.8
+2021,Comunitat Valenciana,Cantabria,350.26
+2021,Comunitat Valenciana,Castilla - La Mancha,9060.03
+2021,Comunitat Valenciana,Castilla y León,1917.22
+2021,Comunitat Valenciana,Cataluña,9283.77
+2021,Comunitat Valenciana,Comunitat Valenciana,165015.78
+2021,Comunitat Valenciana,Extremadura,345.23
+2021,Comunitat Valenciana,Galicia,718.41
+2021,Comunitat Valenciana,"Madrid, Comunidad de",5946.75
+2021,Comunitat Valenciana,"Murcia, Región de",7910.0
+2021,Comunitat Valenciana,"Navarra, Comunidad Foral de",669.23
+2021,Comunitat Valenciana,País Vasco,1342.35
+2021,Comunitat Valenciana,"Rioja, La",326.2
+2021,Extremadura,Andalucía,3496.87
+2021,Extremadura,Aragón,123.43
+2021,Extremadura,"Asturias, Principado de",48.13
+2021,Extremadura,Cantabria,77.48
+2021,Extremadura,Castilla - La Mancha,1215.1
+2021,Extremadura,Castilla y León,814.44
+2021,Extremadura,Cataluña,288.04
+2021,Extremadura,Comunitat Valenciana,493.73
+2021,Extremadura,Extremadura,22076.44
+2021,Extremadura,Galicia,94.99
+2021,Extremadura,"Madrid, Comunidad de",914.89
+2021,Extremadura,"Murcia, Región de",114.52
+2021,Extremadura,"Navarra, Comunidad Foral de",52.25
+2021,Extremadura,País Vasco,320.92
+2021,Extremadura,"Rioja, La",62.95
+2021,Galicia,Andalucía,722.83
+2021,Galicia,Aragón,627.3
+2021,Galicia,"Asturias, Principado de",3921.61
+2021,Galicia,Cantabria,355.7
+2021,Galicia,Castilla - La Mancha,1013.37
+2021,Galicia,Castilla y León,3654.22
+2021,Galicia,Cataluña,1046.23
+2021,Galicia,Comunitat Valenciana,766.82
+2021,Galicia,Extremadura,65.14
+2021,Galicia,Galicia,75219.12
+2021,Galicia,"Madrid, Comunidad de",1573.44
+2021,Galicia,"Murcia, Región de",278.68
+2021,Galicia,"Navarra, Comunidad Foral de",154.86
+2021,Galicia,País Vasco,1449.5
+2021,Galicia,"Rioja, La",156.84
+2021,"Madrid, Comunidad de",Andalucía,4709.71
+2021,"Madrid, Comunidad de",Aragón,1898.51
+2021,"Madrid, Comunidad de","Asturias, Principado de",684.33
+2021,"Madrid, Comunidad de",Cantabria,575.81
+2021,"Madrid, Comunidad de",Castilla - La Mancha,12275.29
+2021,"Madrid, Comunidad de",Castilla y León,3595.95
+2021,"Madrid, Comunidad de",Cataluña,3509.9
+2021,"Madrid, Comunidad de",Comunitat Valenciana,4087.22
+2021,"Madrid, Comunidad de",Extremadura,1022.84
+2021,"Madrid, Comunidad de",Galicia,1454.12
+2021,"Madrid, Comunidad de","Madrid, Comunidad de",68678.79
+2021,"Madrid, Comunidad de","Murcia, Región de",1069.74
+2021,"Madrid, Comunidad de","Navarra, Comunidad Foral de",457.01
+2021,"Madrid, Comunidad de",País Vasco,1514.89
+2021,"Madrid, Comunidad de","Rioja, La",240.57
+2021,"Murcia, Región de",Andalucía,5881.27
+2021,"Murcia, Región de",Aragón,273.55
+2021,"Murcia, Región de","Asturias, Principado de",3.71
+2021,"Murcia, Región de",Cantabria,77.82
+2021,"Murcia, Región de",Castilla - La Mancha,3178.62
+2021,"Murcia, Región de",Castilla y León,438.9
+2021,"Murcia, Región de",Cataluña,1394.69
+2021,"Murcia, Región de",Comunitat Valenciana,11910.0
+2021,"Murcia, Región de",Extremadura,237.85
+2021,"Murcia, Región de",Galicia,256.11
+2021,"Murcia, Región de","Madrid, Comunidad de",1347.85
+2021,"Murcia, Región de","Murcia, Región de",45497.85
+2021,"Murcia, Región de","Navarra, Comunidad Foral de",150.76
+2021,"Murcia, Región de",País Vasco,270.47
+2021,"Murcia, Región de","Rioja, La",115.92
+2021,"Navarra, Comunidad Foral de",Andalucía,368.26
+2021,"Navarra, Comunidad Foral de",Aragón,2909.5
+2021,"Navarra, Comunidad Foral de","Asturias, Principado de",81.95
+2021,"Navarra, Comunidad Foral de",Cantabria,315.12
+2021,"Navarra, Comunidad Foral de",Castilla - La Mancha,639.88
+2021,"Navarra, Comunidad Foral de",Castilla y León,1417.64
+2021,"Navarra, Comunidad Foral de",Cataluña,1179.1
+2021,"Navarra, Comunidad Foral de",Comunitat Valenciana,728.33
+2021,"Navarra, Comunidad Foral de",Extremadura,123.87
+2021,"Navarra, Comunidad Foral de",Galicia,343.81
+2021,"Navarra, Comunidad Foral de","Madrid, Comunidad de",938.07
+2021,"Navarra, Comunidad Foral de","Murcia, Región de",98.75
+2021,"Navarra, Comunidad Foral de","Navarra, Comunidad Foral de",18978.94
+2021,"Navarra, Comunidad Foral de",País Vasco,3432.58
+2021,"Navarra, Comunidad Foral de","Rioja, La",2797.94
+2021,País Vasco,Andalucía,674.94
+2021,País Vasco,Aragón,2299.43
+2021,País Vasco,"Asturias, Principado de",841.64
+2021,País Vasco,Cantabria,2886.01
+2021,País Vasco,Castilla - La Mancha,548.58
+2021,País Vasco,Castilla y León,5066.06
+2021,País Vasco,Cataluña,1919.42
+2021,País Vasco,Comunitat Valenciana,1580.94
+2021,País Vasco,Extremadura,133.47
+2021,País Vasco,Galicia,1102.87
+2021,País Vasco,"Madrid, Comunidad de",1586.4
+2021,País Vasco,"Murcia, Región de",235.77
+2021,País Vasco,"Navarra, Comunidad Foral de",3050.47
+2021,País Vasco,País Vasco,47544.27
+2021,País Vasco,"Rioja, La",1461.29
+2021,"Rioja, La",Andalucía,210.87
+2021,"Rioja, La",Aragón,1174.67
+2021,"Rioja, La","Asturias, Principado de",145.12
+2021,"Rioja, La",Cantabria,176.83
+2021,"Rioja, La",Castilla - La Mancha,368.05
+2021,"Rioja, La",Castilla y León,733.49
+2021,"Rioja, La",Cataluña,396.36
+2021,"Rioja, La",Comunitat Valenciana,457.28
+2021,"Rioja, La",Extremadura,1.97
+2021,"Rioja, La",Galicia,195.63
+2021,"Rioja, La","Madrid, Comunidad de",302.39
+2021,"Rioja, La","Murcia, Región de",84.72
+2021,"Rioja, La","Navarra, Comunidad Foral de",1179.47
+2021,"Rioja, La",País Vasco,1182.2
+2021,"Rioja, La","Rioja, La",5453.55
+2022,Andalucía,Andalucía,189035.27
+2022,Andalucía,Aragón,738.66
+2022,Andalucía,"Asturias, Principado de",312.38
+2022,Andalucía,Cantabria,104.46
+2022,Andalucía,Castilla - La Mancha,3860.35
+2022,Andalucía,Castilla y León,1806.91
+2022,Andalucía,Cataluña,3096.77
+2022,Andalucía,Comunitat Valenciana,6672.64
+2022,Andalucía,Extremadura,4562.73
+2022,Andalucía,Galicia,369.81
+2022,Andalucía,"Madrid, Comunidad de",4809.82
+2022,Andalucía,"Murcia, Región de",4371.24
+2022,Andalucía,"Navarra, Comunidad Foral de",425.39
+2022,Andalucía,País Vasco,666.0
+2022,Andalucía,"Rioja, La",123.25
+2022,Aragón,Andalucía,929.87
+2022,Aragón,Aragón,48386.7
+2022,Aragón,"Asturias, Principado de",166.45
+2022,Aragón,Cantabria,177.83
+2022,Aragón,Castilla - La Mancha,1382.36
+2022,Aragón,Castilla y León,1385.42
+2022,Aragón,Cataluña,9454.09
+2022,Aragón,Comunitat Valenciana,6429.71
+2022,Aragón,Extremadura,81.17
+2022,Aragón,Galicia,373.25
+2022,Aragón,"Madrid, Comunidad de",2324.46
+2022,Aragón,"Murcia, Región de",483.53
+2022,Aragón,"Navarra, Comunidad Foral de",2196.8
+2022,Aragón,País Vasco,1432.28
+2022,Aragón,"Rioja, La",684.82
+2022,"Asturias, Principado de",Andalucía,286.45
+2022,"Asturias, Principado de",Aragón,323.85
+2022,"Asturias, Principado de","Asturias, Principado de",22341.72
+2022,"Asturias, Principado de",Cantabria,849.87
+2022,"Asturias, Principado de",Castilla - La Mancha,247.02
+2022,"Asturias, Principado de",Castilla y León,1633.01
+2022,"Asturias, Principado de",Cataluña,207.74
+2022,"Asturias, Principado de",Comunitat Valenciana,380.4
+2022,"Asturias, Principado de",Extremadura,144.92
+2022,"Asturias, Principado de",Galicia,2389.95
+2022,"Asturias, Principado de","Madrid, Comunidad de",602.57
+2022,"Asturias, Principado de","Murcia, Región de",176.6
+2022,"Asturias, Principado de","Navarra, Comunidad Foral de",249.19
+2022,"Asturias, Principado de",País Vasco,1235.9
+2022,"Asturias, Principado de","Rioja, La",44.28
+2022,Cantabria,Andalucía,215.8
+2022,Cantabria,Aragón,327.49
+2022,Cantabria,"Asturias, Principado de",766.57
+2022,Cantabria,Cantabria,13634.72
+2022,Cantabria,Castilla - La Mancha,422.92
+2022,Cantabria,Castilla y León,2365.01
+2022,Cantabria,Cataluña,384.91
+2022,Cantabria,Comunitat Valenciana,105.92
+2022,Cantabria,Extremadura,19.87
+2022,Cantabria,Galicia,283.09
+2022,Cantabria,"Madrid, Comunidad de",932.88
+2022,Cantabria,"Murcia, Región de",30.55
+2022,Cantabria,"Navarra, Comunidad Foral de",323.0
+2022,Cantabria,País Vasco,2476.63
+2022,Cantabria,"Rioja, La",185.9
+2022,Castilla - La Mancha,Andalucía,5626.98
+2022,Castilla - La Mancha,Aragón,1447.11
+2022,Castilla - La Mancha,"Asturias, Principado de",283.88
+2022,Castilla - La Mancha,Cantabria,371.51
+2022,Castilla - La Mancha,Castilla - La Mancha,58241.95
+2022,Castilla - La Mancha,Castilla y León,2210.0
+2022,Castilla - La Mancha,Cataluña,2356.86
+2022,Castilla - La Mancha,Comunitat Valenciana,8585.99
+2022,Castilla - La Mancha,Extremadura,1602.06
+2022,Castilla - La Mancha,Galicia,757.39
+2022,Castilla - La Mancha,"Madrid, Comunidad de",18737.19
+2022,Castilla - La Mancha,"Murcia, Región de",2860.09
+2022,Castilla - La Mancha,"Navarra, Comunidad Foral de",298.95
+2022,Castilla - La Mancha,País Vasco,846.94
+2022,Castilla - La Mancha,"Rioja, La",169.55
+2022,Castilla y León,Andalucía,1915.65
+2022,Castilla y León,Aragón,1846.15
+2022,Castilla y León,"Asturias, Principado de",2571.69
+2022,Castilla y León,Cantabria,3146.86
+2022,Castilla y León,Castilla - La Mancha,3900.13
+2022,Castilla y León,Castilla y León,76802.4
+2022,Castilla y León,Cataluña,2546.33
+2022,Castilla y León,Comunitat Valenciana,2397.14
+2022,Castilla y León,Extremadura,1158.28
+2022,Castilla y León,Galicia,4357.53
+2022,Castilla y León,"Madrid, Comunidad de",6262.54
+2022,Castilla y León,"Murcia, Región de",577.39
+2022,Castilla y León,"Navarra, Comunidad Foral de",1738.3
+2022,Castilla y León,País Vasco,4302.83
+2022,Castilla y León,"Rioja, La",1048.98
+2022,Cataluña,Andalucía,2884.6
+2022,Cataluña,Aragón,11528.8
+2022,Cataluña,"Asturias, Principado de",264.0
+2022,Cataluña,Cantabria,564.7
+2022,Cataluña,Castilla - La Mancha,1775.58
+2022,Cataluña,Castilla y León,2182.86
+2022,Cataluña,Cataluña,196094.99
+2022,Cataluña,Comunitat Valenciana,8795.53
+2022,Cataluña,Extremadura,183.22
+2022,Cataluña,Galicia,871.07
+2022,Cataluña,"Madrid, Comunidad de",4011.32
+2022,Cataluña,"Murcia, Región de",1250.67
+2022,Cataluña,"Navarra, Comunidad Foral de",1091.07
+2022,Cataluña,País Vasco,2155.94
+2022,Cataluña,"Rioja, La",486.77
+2022,Comunitat Valenciana,Andalucía,5425.45
+2022,Comunitat Valenciana,Aragón,3955.23
+2022,Comunitat Valenciana,"Asturias, Principado de",199.24
+2022,Comunitat Valenciana,Cantabria,238.96
+2022,Comunitat Valenciana,Castilla - La Mancha,8196.93
+2022,Comunitat Valenciana,Castilla y León,2142.87
+2022,Comunitat Valenciana,Cataluña,8062.43
+2022,Comunitat Valenciana,Comunitat Valenciana,152050.97
+2022,Comunitat Valenciana,Extremadura,449.88
+2022,Comunitat Valenciana,Galicia,557.65
+2022,Comunitat Valenciana,"Madrid, Comunidad de",6332.03
+2022,Comunitat Valenciana,"Murcia, Región de",7605.28
+2022,Comunitat Valenciana,"Navarra, Comunidad Foral de",540.36
+2022,Comunitat Valenciana,País Vasco,1640.43
+2022,Comunitat Valenciana,"Rioja, La",221.03
+2022,Extremadura,Andalucía,3000.73
+2022,Extremadura,Aragón,157.06
+2022,Extremadura,"Asturias, Principado de",55.57
+2022,Extremadura,Cantabria,
+2022,Extremadura,Castilla - La Mancha,1088.74
+2022,Extremadura,Castilla y León,767.23
+2022,Extremadura,Cataluña,357.84
+2022,Extremadura,Comunitat Valenciana,545.67
+2022,Extremadura,Extremadura,24260.13
+2022,Extremadura,Galicia,108.96
+2022,Extremadura,"Madrid, Comunidad de",811.08
+2022,Extremadura,"Murcia, Región de",107.59
+2022,Extremadura,"Navarra, Comunidad Foral de",63.03
+2022,Extremadura,País Vasco,229.75
+2022,Extremadura,"Rioja, La",
+2022,Galicia,Andalucía,878.35
+2022,Galicia,Aragón,553.71
+2022,Galicia,"Asturias, Principado de",4368.34
+2022,Galicia,Cantabria,334.88
+2022,Galicia,Castilla - La Mancha,807.03
+2022,Galicia,Castilla y León,3253.66
+2022,Galicia,Cataluña,836.69
+2022,Galicia,Comunitat Valenciana,670.49
+2022,Galicia,Extremadura,112.65
+2022,Galicia,Galicia,75963.29
+2022,Galicia,"Madrid, Comunidad de",1730.9
+2022,Galicia,"Murcia, Región de",216.82
+2022,Galicia,"Navarra, Comunidad Foral de",201.66
+2022,Galicia,País Vasco,1332.67
+2022,Galicia,"Rioja, La",60.75
+2022,"Madrid, Comunidad de",Andalucía,5358.85
+2022,"Madrid, Comunidad de",Aragón,1852.02
+2022,"Madrid, Comunidad de","Asturias, Principado de",738.19
+2022,"Madrid, Comunidad de",Cantabria,959.06
+2022,"Madrid, Comunidad de",Castilla - La Mancha,16036.74
+2022,"Madrid, Comunidad de",Castilla y León,4611.86
+2022,"Madrid, Comunidad de",Cataluña,2890.61
+2022,"Madrid, Comunidad de",Comunitat Valenciana,4599.44
+2022,"Madrid, Comunidad de",Extremadura,1137.01
+2022,"Madrid, Comunidad de",Galicia,1511.97
+2022,"Madrid, Comunidad de","Madrid, Comunidad de",66274.44
+2022,"Madrid, Comunidad de","Murcia, Región de",753.54
+2022,"Madrid, Comunidad de","Navarra, Comunidad Foral de",343.64
+2022,"Madrid, Comunidad de",País Vasco,1924.76
+2022,"Madrid, Comunidad de","Rioja, La",279.52
+2022,"Murcia, Región de",Andalucía,5938.5
+2022,"Murcia, Región de",Aragón,495.87
+2022,"Murcia, Región de","Asturias, Principado de",72.19
+2022,"Murcia, Región de",Cantabria,41.5
+2022,"Murcia, Región de",Castilla - La Mancha,2374.67
+2022,"Murcia, Región de",Castilla y León,287.5
+2022,"Murcia, Región de",Cataluña,1101.59
+2022,"Murcia, Región de",Comunitat Valenciana,11226.73
+2022,"Murcia, Región de",Extremadura,208.09
+2022,"Murcia, Región de",Galicia,145.68
+2022,"Murcia, Región de","Madrid, Comunidad de",1064.83
+2022,"Murcia, Región de","Murcia, Región de",48003.64
+2022,"Murcia, Región de","Navarra, Comunidad Foral de",69.33
+2022,"Murcia, Región de",País Vasco,281.83
+2022,"Murcia, Región de","Rioja, La",164.77
+2022,"Navarra, Comunidad Foral de",Andalucía,401.91
+2022,"Navarra, Comunidad Foral de",Aragón,2751.86
+2022,"Navarra, Comunidad Foral de","Asturias, Principado de",87.3
+2022,"Navarra, Comunidad Foral de",Cantabria,193.34
+2022,"Navarra, Comunidad Foral de",Castilla - La Mancha,348.47
+2022,"Navarra, Comunidad Foral de",Castilla y León,1093.55
+2022,"Navarra, Comunidad Foral de",Cataluña,1225.74
+2022,"Navarra, Comunidad Foral de",Comunitat Valenciana,582.95
+2022,"Navarra, Comunidad Foral de",Extremadura,154.92
+2022,"Navarra, Comunidad Foral de",Galicia,232.58
+2022,"Navarra, Comunidad Foral de","Madrid, Comunidad de",737.16
+2022,"Navarra, Comunidad Foral de","Murcia, Región de",204.2
+2022,"Navarra, Comunidad Foral de","Navarra, Comunidad Foral de",21269.5
+2022,"Navarra, Comunidad Foral de",País Vasco,4356.48
+2022,"Navarra, Comunidad Foral de","Rioja, La",3513.57
+2022,País Vasco,Andalucía,748.11
+2022,País Vasco,Aragón,2166.25
+2022,País Vasco,"Asturias, Principado de",900.89
+2022,País Vasco,Cantabria,3202.2
+2022,País Vasco,Castilla - La Mancha,775.69
+2022,País Vasco,Castilla y León,4802.33
+2022,País Vasco,Cataluña,2166.36
+2022,País Vasco,Comunitat Valenciana,1601.53
+2022,País Vasco,Extremadura,135.19
+2022,País Vasco,Galicia,1043.29
+2022,País Vasco,"Madrid, Comunidad de",1738.33
+2022,País Vasco,"Murcia, Región de",187.4
+2022,País Vasco,"Navarra, Comunidad Foral de",5236.07
+2022,País Vasco,País Vasco,47829.26
+2022,País Vasco,"Rioja, La",1592.19
+2022,"Rioja, La",Andalucía,122.07
+2022,"Rioja, La",Aragón,880.05
+2022,"Rioja, La","Asturias, Principado de",143.94
+2022,"Rioja, La",Cantabria,202.82
+2022,"Rioja, La",Castilla - La Mancha,234.96
+2022,"Rioja, La",Castilla y León,875.71
+2022,"Rioja, La",Cataluña,474.4
+2022,"Rioja, La",Comunitat Valenciana,241.3
+2022,"Rioja, La",Extremadura,0.0
+2022,"Rioja, La",Galicia,68.26
+2022,"Rioja, La","Madrid, Comunidad de",421.53
+2022,"Rioja, La","Murcia, Región de",84.43
+2022,"Rioja, La","Navarra, Comunidad Foral de",1642.94
+2022,"Rioja, La",País Vasco,1260.33
+2022,"Rioja, La","Rioja, La",4740.05
+2023,Andalucía,Andalucía,203010.08
+2023,Andalucía,Aragón,724.84
+2023,Andalucía,"Asturias, Principado de",209.31
+2023,Andalucía,Cantabria,132.33
+2023,Andalucía,Castilla - La Mancha,3596.96
+2023,Andalucía,Castilla y León,1400.62
+2023,Andalucía,Cataluña,3430.74
+2023,Andalucía,Comunitat Valenciana,5332.55
+2023,Andalucía,Extremadura,4519.44
+2023,Andalucía,Galicia,671.31
+2023,Andalucía,"Madrid, Comunidad de",3916.1
+2023,Andalucía,"Murcia, Región de",4116.73
+2023,Andalucía,"Navarra, Comunidad Foral de",296.31
+2023,Andalucía,País Vasco,881.33
+2023,Andalucía,"Rioja, La",49.84
+2023,Aragón,Andalucía,813.12
+2023,Aragón,Aragón,49790.89
+2023,Aragón,"Asturias, Principado de",301.73
+2023,Aragón,Cantabria,215.38
+2023,Aragón,Castilla - La Mancha,1166.45
+2023,Aragón,Castilla y León,1658.8
+2023,Aragón,Cataluña,9066.2
+2023,Aragón,Comunitat Valenciana,6931.45
+2023,Aragón,Extremadura,98.33
+2023,Aragón,Galicia,403.69
+2023,Aragón,"Madrid, Comunidad de",2430.66
+2023,Aragón,"Murcia, Región de",268.14
+2023,Aragón,"Navarra, Comunidad Foral de",2525.37
+2023,Aragón,País Vasco,1831.82
+2023,Aragón,"Rioja, La",1081.9
+2023,"Asturias, Principado de",Andalucía,326.46
+2023,"Asturias, Principado de",Aragón,485.19
+2023,"Asturias, Principado de","Asturias, Principado de",28026.25
+2023,"Asturias, Principado de",Cantabria,857.91
+2023,"Asturias, Principado de",Castilla - La Mancha,302.15
+2023,"Asturias, Principado de",Castilla y León,1862.66
+2023,"Asturias, Principado de",Cataluña,382.78
+2023,"Asturias, Principado de",Comunitat Valenciana,298.6
+2023,"Asturias, Principado de",Extremadura,26.11
+2023,"Asturias, Principado de",Galicia,1063.34
+2023,"Asturias, Principado de","Madrid, Comunidad de",336.13
+2023,"Asturias, Principado de","Murcia, Región de",90.43
+2023,"Asturias, Principado de","Navarra, Comunidad Foral de",205.34
+2023,"Asturias, Principado de",País Vasco,759.86
+2023,"Asturias, Principado de","Rioja, La",139.6
+2023,Cantabria,Andalucía,200.05
+2023,Cantabria,Aragón,403.57
+2023,Cantabria,"Asturias, Principado de",635.46
+2023,Cantabria,Cantabria,19224.06
+2023,Cantabria,Castilla - La Mancha,439.1
+2023,Cantabria,Castilla y León,2411.3
+2023,Cantabria,Cataluña,351.93
+2023,Cantabria,Comunitat Valenciana,277.63
+2023,Cantabria,Extremadura,13.87
+2023,Cantabria,Galicia,202.86
+2023,Cantabria,"Madrid, Comunidad de",376.63
+2023,Cantabria,"Murcia, Región de",3.99
+2023,Cantabria,"Navarra, Comunidad Foral de",170.99
+2023,Cantabria,País Vasco,2455.77
+2023,Cantabria,"Rioja, La",83.27
+2023,Castilla - La Mancha,Andalucía,5485.67
+2023,Castilla - La Mancha,Aragón,841.26
+2023,Castilla - La Mancha,"Asturias, Principado de",275.44
+2023,Castilla - La Mancha,Cantabria,262.68
+2023,Castilla - La Mancha,Castilla - La Mancha,52939.26
+2023,Castilla - La Mancha,Castilla y León,2859.06
+2023,Castilla - La Mancha,Cataluña,3202.7
+2023,Castilla - La Mancha,Comunitat Valenciana,7567.9
+2023,Castilla - La Mancha,Extremadura,1564.6
+2023,Castilla - La Mancha,Galicia,975.56
+2023,Castilla - La Mancha,"Madrid, Comunidad de",17954.33
+2023,Castilla - La Mancha,"Murcia, Región de",2736.8
+2023,Castilla - La Mancha,"Navarra, Comunidad Foral de",422.89
+2023,Castilla - La Mancha,País Vasco,977.35
+2023,Castilla - La Mancha,"Rioja, La",169.37
+2023,Castilla y León,Andalucía,1491.95
+2023,Castilla y León,Aragón,1946.35
+2023,Castilla y León,"Asturias, Principado de",1730.42
+2023,Castilla y León,Cantabria,2696.45
+2023,Castilla y León,Castilla - La Mancha,3454.96
+2023,Castilla y León,Castilla y León,77563.37
+2023,Castilla y León,Cataluña,1982.42
+2023,Castilla y León,Comunitat Valenciana,2489.64
+2023,Castilla y León,Extremadura,1191.12
+2023,Castilla y León,Galicia,3870.7
+2023,Castilla y León,"Madrid, Comunidad de",6476.1
+2023,Castilla y León,"Murcia, Región de",510.51
+2023,Castilla y León,"Navarra, Comunidad Foral de",1457.72
+2023,Castilla y León,País Vasco,4715.75
+2023,Castilla y León,"Rioja, La",895.23
+2023,Cataluña,Andalucía,2816.93
+2023,Cataluña,Aragón,12226.89
+2023,Cataluña,"Asturias, Principado de",351.69
+2023,Cataluña,Cantabria,451.56
+2023,Cataluña,Castilla - La Mancha,2655.78
+2023,Cataluña,Castilla y León,1821.51
+2023,Cataluña,Cataluña,187145.23
+2023,Cataluña,Comunitat Valenciana,9415.69
+2023,Cataluña,Extremadura,241.9
+2023,Cataluña,Galicia,895.0
+2023,Cataluña,"Madrid, Comunidad de",4835.4
+2023,Cataluña,"Murcia, Región de",1785.83
+2023,Cataluña,"Navarra, Comunidad Foral de",995.94
+2023,Cataluña,País Vasco,1818.5
+2023,Cataluña,"Rioja, La",643.84
+2023,Comunitat Valenciana,Andalucía,4977.39
+2023,Comunitat Valenciana,Aragón,3865.41
+2023,Comunitat Valenciana,"Asturias, Principado de",360.97
+2023,Comunitat Valenciana,Cantabria,332.61
+2023,Comunitat Valenciana,Castilla - La Mancha,8729.51
+2023,Comunitat Valenciana,Castilla y León,1794.33
+2023,Comunitat Valenciana,Cataluña,9209.9
+2023,Comunitat Valenciana,Comunitat Valenciana,166582.31
+2023,Comunitat Valenciana,Extremadura,377.98
+2023,Comunitat Valenciana,Galicia,520.68
+2023,Comunitat Valenciana,"Madrid, Comunidad de",6319.75
+2023,Comunitat Valenciana,"Murcia, Región de",7569.71
+2023,Comunitat Valenciana,"Navarra, Comunidad Foral de",462.18
+2023,Comunitat Valenciana,País Vasco,1546.38
+2023,Comunitat Valenciana,"Rioja, La",90.41
+2023,Extremadura,Andalucía,2524.78
+2023,Extremadura,Aragón,179.51
+2023,Extremadura,"Asturias, Principado de",32.61
+2023,Extremadura,Cantabria,29.06
+2023,Extremadura,Castilla - La Mancha,1241.89
+2023,Extremadura,Castilla y León,622.29
+2023,Extremadura,Cataluña,309.3
+2023,Extremadura,Comunitat Valenciana,600.29
+2023,Extremadura,Extremadura,30317.31
+2023,Extremadura,Galicia,95.71
+2023,Extremadura,"Madrid, Comunidad de",1497.27
+2023,Extremadura,"Murcia, Región de",155.37
+2023,Extremadura,"Navarra, Comunidad Foral de",51.02
+2023,Extremadura,País Vasco,295.83
+2023,Extremadura,"Rioja, La",30.84
+2023,Galicia,Andalucía,956.92
+2023,Galicia,Aragón,596.55
+2023,Galicia,"Asturias, Principado de",5028.04
+2023,Galicia,Cantabria,293.69
+2023,Galicia,Castilla - La Mancha,926.86
+2023,Galicia,Castilla y León,3437.88
+2023,Galicia,Cataluña,987.7
+2023,Galicia,Comunitat Valenciana,867.55
+2023,Galicia,Extremadura,143.13
+2023,Galicia,Galicia,70860.88
+2023,Galicia,"Madrid, Comunidad de",2016.71
+2023,Galicia,"Murcia, Región de",187.52
+2023,Galicia,"Navarra, Comunidad Foral de",122.53
+2023,Galicia,País Vasco,1426.85
+2023,Galicia,"Rioja, La",149.48
+2023,"Madrid, Comunidad de",Andalucía,5291.03
+2023,"Madrid, Comunidad de",Aragón,1809.21
+2023,"Madrid, Comunidad de","Asturias, Principado de",407.03
+2023,"Madrid, Comunidad de",Cantabria,431.68
+2023,"Madrid, Comunidad de",Castilla - La Mancha,13621.69
+2023,"Madrid, Comunidad de",Castilla y León,4331.14
+2023,"Madrid, Comunidad de",Cataluña,3921.11
+2023,"Madrid, Comunidad de",Comunitat Valenciana,4815.14
+2023,"Madrid, Comunidad de",Extremadura,1485.01
+2023,"Madrid, Comunidad de",Galicia,1759.74
+2023,"Madrid, Comunidad de","Madrid, Comunidad de",65592.95
+2023,"Madrid, Comunidad de","Murcia, Región de",1071.15
+2023,"Madrid, Comunidad de","Navarra, Comunidad Foral de",305.25
+2023,"Madrid, Comunidad de",País Vasco,1760.57
+2023,"Madrid, Comunidad de","Rioja, La",184.72
+2023,"Murcia, Región de",Andalucía,4431.76
+2023,"Murcia, Región de",Aragón,326.64
+2023,"Murcia, Región de","Asturias, Principado de",18.16
+2023,"Murcia, Región de",Cantabria,22.93
+2023,"Murcia, Región de",Castilla - La Mancha,3305.23
+2023,"Murcia, Región de",Castilla y León,404.65
+2023,"Murcia, Región de",Cataluña,1257.15
+2023,"Murcia, Región de",Comunitat Valenciana,9472.05
+2023,"Murcia, Región de",Extremadura,111.63
+2023,"Murcia, Región de",Galicia,179.47
+2023,"Murcia, Región de","Madrid, Comunidad de",1027.29
+2023,"Murcia, Región de","Murcia, Región de",45176.8
+2023,"Murcia, Región de","Navarra, Comunidad Foral de",251.71
+2023,"Murcia, Región de",País Vasco,166.77
+2023,"Murcia, Región de","Rioja, La",86.72
+2023,"Navarra, Comunidad Foral de",Andalucía,255.39
+2023,"Navarra, Comunidad Foral de",Aragón,2804.33
+2023,"Navarra, Comunidad Foral de","Asturias, Principado de",72.51
+2023,"Navarra, Comunidad Foral de",Cantabria,196.94
+2023,"Navarra, Comunidad Foral de",Castilla - La Mancha,513.43
+2023,"Navarra, Comunidad Foral de",Castilla y León,1067.56
+2023,"Navarra, Comunidad Foral de",Cataluña,1212.71
+2023,"Navarra, Comunidad Foral de",Comunitat Valenciana,662.96
+2023,"Navarra, Comunidad Foral de",Extremadura,43.55
+2023,"Navarra, Comunidad Foral de",Galicia,217.4
+2023,"Navarra, Comunidad Foral de","Madrid, Comunidad de",951.59
+2023,"Navarra, Comunidad Foral de","Murcia, Región de",73.21
+2023,"Navarra, Comunidad Foral de","Navarra, Comunidad Foral de",18519.24
+2023,"Navarra, Comunidad Foral de",País Vasco,3569.7
+2023,"Navarra, Comunidad Foral de","Rioja, La",2139.21
+2023,País Vasco,Andalucía,737.08
+2023,País Vasco,Aragón,1860.28
+2023,País Vasco,"Asturias, Principado de",882.99
+2023,País Vasco,Cantabria,2557.98
+2023,País Vasco,Castilla - La Mancha,772.69
+2023,País Vasco,Castilla y León,5439.31
+2023,País Vasco,Cataluña,1784.89
+2023,País Vasco,Comunitat Valenciana,1191.67
+2023,País Vasco,Extremadura,189.89
+2023,País Vasco,Galicia,1242.22
+2023,País Vasco,"Madrid, Comunidad de",1712.12
+2023,País Vasco,"Murcia, Región de",140.49
+2023,País Vasco,"Navarra, Comunidad Foral de",6386.81
+2023,País Vasco,País Vasco,46459.03
+2023,País Vasco,"Rioja, La",1799.23
+2023,"Rioja, La",Andalucía,187.72
+2023,"Rioja, La",Aragón,790.7
+2023,"Rioja, La","Asturias, Principado de",89.17
+2023,"Rioja, La",Cantabria,54.0
+2023,"Rioja, La",Castilla - La Mancha,288.5
+2023,"Rioja, La",Castilla y León,1335.22
+2023,"Rioja, La",Cataluña,633.48
+2023,"Rioja, La",Comunitat Valenciana,125.03
+2023,"Rioja, La",Extremadura,72.25
+2023,"Rioja, La",Galicia,159.47
+2023,"Rioja, La","Madrid, Comunidad de",289.36
+2023,"Rioja, La","Murcia, Región de",41.58
+2023,"Rioja, La","Navarra, Comunidad Foral de",1238.05
+2023,"Rioja, La",País Vasco,1246.95
+2023,"Rioja, La","Rioja, La",7262.37
+2024,Andalucía,Andalucía,198630.67
+2024,Andalucía,Aragón,852.91
+2024,Andalucía,"Asturias, Principado de",128.45
+2024,Andalucía,Cantabria,54.51
+2024,Andalucía,Castilla - La Mancha,3855.94
+2024,Andalucía,Castilla y León,1553.16
+2024,Andalucía,Cataluña,3467.99
+2024,Andalucía,Comunitat Valenciana,5126.99
+2024,Andalucía,Extremadura,4867.14
+2024,Andalucía,Galicia,479.04
+2024,Andalucía,"Madrid, Comunidad de",4303.85
+2024,Andalucía,"Murcia, Región de",4591.56
+2024,Andalucía,"Navarra, Comunidad Foral de",673.25
+2024,Andalucía,País Vasco,484.27
+2024,Andalucía,"Rioja, La",104.7
+2024,Aragón,Andalucía,980.46
+2024,Aragón,Aragón,48104.42
+2024,Aragón,"Asturias, Principado de",158.77
+2024,Aragón,Cantabria,227.51
+2024,Aragón,Castilla - La Mancha,1759.56
+2024,Aragón,Castilla y León,2125.42
+2024,Aragón,Cataluña,10796.91
+2024,Aragón,Comunitat Valenciana,7447.28
+2024,Aragón,Extremadura,56.9
+2024,Aragón,Galicia,326.03
+2024,Aragón,"Madrid, Comunidad de",1803.91
+2024,Aragón,"Murcia, Región de",458.43
+2024,Aragón,"Navarra, Comunidad Foral de",2054.42
+2024,Aragón,País Vasco,2203.3
+2024,Aragón,"Rioja, La",1474.82
+2024,"Asturias, Principado de",Andalucía,218.33
+2024,"Asturias, Principado de",Aragón,176.98
+2024,"Asturias, Principado de","Asturias, Principado de",26336.37
+2024,"Asturias, Principado de",Cantabria,938.68
+2024,"Asturias, Principado de",Castilla - La Mancha,419.15
+2024,"Asturias, Principado de",Castilla y León,1871.91
+2024,"Asturias, Principado de",Cataluña,263.39
+2024,"Asturias, Principado de",Comunitat Valenciana,208.9
+2024,"Asturias, Principado de",Extremadura,57.92
+2024,"Asturias, Principado de",Galicia,1338.5
+2024,"Asturias, Principado de","Madrid, Comunidad de",503.4
+2024,"Asturias, Principado de","Murcia, Región de",118.78
+2024,"Asturias, Principado de","Navarra, Comunidad Foral de",217.61
+2024,"Asturias, Principado de",País Vasco,830.56
+2024,"Asturias, Principado de","Rioja, La",76.95
+2024,Cantabria,Andalucía,111.74
+2024,Cantabria,Aragón,381.2
+2024,Cantabria,"Asturias, Principado de",1035.84
+2024,Cantabria,Cantabria,15590.2
+2024,Cantabria,Castilla - La Mancha,251.22
+2024,Cantabria,Castilla y León,2425.19
+2024,Cantabria,Cataluña,431.68
+2024,Cantabria,Comunitat Valenciana,199.15
+2024,Cantabria,Extremadura,47.47
+2024,Cantabria,Galicia,254.98
+2024,Cantabria,"Madrid, Comunidad de",631.19
+2024,Cantabria,"Murcia, Región de",26.46
+2024,Cantabria,"Navarra, Comunidad Foral de",459.19
+2024,Cantabria,País Vasco,3660.34
+2024,Cantabria,"Rioja, La",146.0
+2024,Castilla - La Mancha,Andalucía,6203.76
+2024,Castilla - La Mancha,Aragón,1770.41
+2024,Castilla - La Mancha,"Asturias, Principado de",269.95
+2024,Castilla - La Mancha,Cantabria,421.81
+2024,Castilla - La Mancha,Castilla - La Mancha,56584.36
+2024,Castilla - La Mancha,Castilla y León,2951.08
+2024,Castilla - La Mancha,Cataluña,2901.57
+2024,Castilla - La Mancha,Comunitat Valenciana,7926.95
+2024,Castilla - La Mancha,Extremadura,1720.27
+2024,Castilla - La Mancha,Galicia,714.92
+2024,Castilla - La Mancha,"Madrid, Comunidad de",22904.1
+2024,Castilla - La Mancha,"Murcia, Región de",3051.91
+2024,Castilla - La Mancha,"Navarra, Comunidad Foral de",332.17
+2024,Castilla - La Mancha,País Vasco,661.5
+2024,Castilla - La Mancha,"Rioja, La",118.12
+2024,Castilla y León,Andalucía,1828.52
+2024,Castilla y León,Aragón,2043.13
+2024,Castilla y León,"Asturias, Principado de",2063.2
+2024,Castilla y León,Cantabria,3630.84
+2024,Castilla y León,Castilla - La Mancha,3194.52
+2024,Castilla y León,Castilla y León,82664.38
+2024,Castilla y León,Cataluña,2580.53
+2024,Castilla y León,Comunitat Valenciana,2393.65
+2024,Castilla y León,Extremadura,901.82
+2024,Castilla y León,Galicia,4790.18
+2024,Castilla y León,"Madrid, Comunidad de",6387.33
+2024,Castilla y León,"Murcia, Región de",567.45
+2024,Castilla y León,"Navarra, Comunidad Foral de",1741.26
+2024,Castilla y León,País Vasco,4882.92
+2024,Castilla y León,"Rioja, La",1036.54
+2024,Cataluña,Andalucía,3581.6
+2024,Cataluña,Aragón,14547.08
+2024,Cataluña,"Asturias, Principado de",329.59
+2024,Cataluña,Cantabria,427.68
+2024,Cataluña,Castilla - La Mancha,2484.6
+2024,Cataluña,Castilla y León,2200.24
+2024,Cataluña,Cataluña,199784.83
+2024,Cataluña,Comunitat Valenciana,8496.5
+2024,Cataluña,Extremadura,285.19
+2024,Cataluña,Galicia,1003.99
+2024,Cataluña,"Madrid, Comunidad de",4022.33
+2024,Cataluña,"Murcia, Región de",1497.33
+2024,Cataluña,"Navarra, Comunidad Foral de",1237.02
+2024,Cataluña,País Vasco,2453.0
+2024,Cataluña,"Rioja, La",508.1
+2024,Comunitat Valenciana,Andalucía,5462.13
+2024,Comunitat Valenciana,Aragón,4580.44
+2024,Comunitat Valenciana,"Asturias, Principado de",96.87
+2024,Comunitat Valenciana,Cantabria,303.25
+2024,Comunitat Valenciana,Castilla - La Mancha,8059.1
+2024,Comunitat Valenciana,Castilla y León,2024.27
+2024,Comunitat Valenciana,Cataluña,8392.54
+2024,Comunitat Valenciana,Comunitat Valenciana,168658.61
+2024,Comunitat Valenciana,Extremadura,497.82
+2024,Comunitat Valenciana,Galicia,599.59
+2024,Comunitat Valenciana,"Madrid, Comunidad de",5959.31
+2024,Comunitat Valenciana,"Murcia, Región de",9027.57
+2024,Comunitat Valenciana,"Navarra, Comunidad Foral de",684.28
+2024,Comunitat Valenciana,País Vasco,1376.54
+2024,Comunitat Valenciana,"Rioja, La",195.59
+2024,Extremadura,Andalucía,2859.01
+2024,Extremadura,Aragón,98.91
+2024,Extremadura,"Asturias, Principado de",52.82
+2024,Extremadura,Cantabria,52.82
+2024,Extremadura,Castilla - La Mancha,1094.46
+2024,Extremadura,Castilla y León,905.28
+2024,Extremadura,Cataluña,449.51
+2024,Extremadura,Comunitat Valenciana,551.36
+2024,Extremadura,Extremadura,26030.89
+2024,Extremadura,Galicia,107.47
+2024,Extremadura,"Madrid, Comunidad de",1197.68
+2024,Extremadura,"Murcia, Región de",163.91
+2024,Extremadura,"Navarra, Comunidad Foral de",95.35
+2024,Extremadura,País Vasco,207.79
+2024,Extremadura,"Rioja, La",58.64
+2024,Galicia,Andalucía,728.91
+2024,Galicia,Aragón,378.71
+2024,Galicia,"Asturias, Principado de",2182.5
+2024,Galicia,Cantabria,301.68
+2024,Galicia,Castilla - La Mancha,693.69
+2024,Galicia,Castilla y León,3366.2
+2024,Galicia,Cataluña,838.82
+2024,Galicia,Comunitat Valenciana,919.64
+2024,Galicia,Extremadura,180.76
+2024,Galicia,Galicia,78903.84
+2024,Galicia,"Madrid, Comunidad de",1365.46
+2024,Galicia,"Murcia, Región de",169.16
+2024,Galicia,"Navarra, Comunidad Foral de",217.28
+2024,Galicia,País Vasco,1456.02
+2024,Galicia,"Rioja, La",0.0
+2024,"Madrid, Comunidad de",Andalucía,5024.07
+2024,"Madrid, Comunidad de",Aragón,1981.18
+2024,"Madrid, Comunidad de","Asturias, Principado de",493.45
+2024,"Madrid, Comunidad de",Cantabria,466.1
+2024,"Madrid, Comunidad de",Castilla - La Mancha,15377.66
+2024,"Madrid, Comunidad de",Castilla y León,4723.75
+2024,"Madrid, Comunidad de",Cataluña,2918.2
+2024,"Madrid, Comunidad de",Comunitat Valenciana,4660.96
+2024,"Madrid, Comunidad de",Extremadura,1086.69
+2024,"Madrid, Comunidad de",Galicia,1294.21
+2024,"Madrid, Comunidad de","Madrid, Comunidad de",67073.42
+2024,"Madrid, Comunidad de","Murcia, Región de",1024.73
+2024,"Madrid, Comunidad de","Navarra, Comunidad Foral de",482.43
+2024,"Madrid, Comunidad de",País Vasco,1546.82
+2024,"Madrid, Comunidad de","Rioja, La",97.18
+2024,"Murcia, Región de",Andalucía,5099.42
+2024,"Murcia, Región de",Aragón,347.45
+2024,"Murcia, Región de","Asturias, Principado de",60.33
+2024,"Murcia, Región de",Cantabria,47.19
+2024,"Murcia, Región de",Castilla - La Mancha,3108.48
+2024,"Murcia, Región de",Castilla y León,494.93
+2024,"Murcia, Región de",Cataluña,1494.04
+2024,"Murcia, Región de",Comunitat Valenciana,10269.8
+2024,"Murcia, Región de",Extremadura,105.03
+2024,"Murcia, Región de",Galicia,116.62
+2024,"Murcia, Región de","Madrid, Comunidad de",1238.17
+2024,"Murcia, Región de","Murcia, Región de",48549.95
+2024,"Murcia, Región de","Navarra, Comunidad Foral de",245.51
+2024,"Murcia, Región de",País Vasco,299.05
+2024,"Murcia, Región de","Rioja, La",102.11
+2024,"Navarra, Comunidad Foral de",Andalucía,408.48
+2024,"Navarra, Comunidad Foral de",Aragón,2941.74
+2024,"Navarra, Comunidad Foral de","Asturias, Principado de",61.62
+2024,"Navarra, Comunidad Foral de",Cantabria,386.44
+2024,"Navarra, Comunidad Foral de",Castilla - La Mancha,560.89
+2024,"Navarra, Comunidad Foral de",Castilla y León,1222.73
+2024,"Navarra, Comunidad Foral de",Cataluña,1325.48
+2024,"Navarra, Comunidad Foral de",Comunitat Valenciana,841.01
+2024,"Navarra, Comunidad Foral de",Extremadura,58.96
+2024,"Navarra, Comunidad Foral de",Galicia,166.73
+2024,"Navarra, Comunidad Foral de","Madrid, Comunidad de",581.3
+2024,"Navarra, Comunidad Foral de","Murcia, Región de",240.56
+2024,"Navarra, Comunidad Foral de","Navarra, Comunidad Foral de",18706.95
+2024,"Navarra, Comunidad Foral de",País Vasco,4159.03
+2024,"Navarra, Comunidad Foral de","Rioja, La",2295.56
+2024,País Vasco,Andalucía,575.63
+2024,País Vasco,Aragón,2168.81
+2024,País Vasco,"Asturias, Principado de",773.94
+2024,País Vasco,Cantabria,2553.21
+2024,País Vasco,Castilla - La Mancha,858.62
+2024,País Vasco,Castilla y León,5643.5
+2024,País Vasco,Cataluña,2157.56
+2024,País Vasco,Comunitat Valenciana,1328.11
+2024,País Vasco,Extremadura,96.88
+2024,País Vasco,Galicia,1235.14
+2024,País Vasco,"Madrid, Comunidad de",1397.73
+2024,País Vasco,"Murcia, Región de",324.44
+2024,País Vasco,"Navarra, Comunidad Foral de",4967.04
+2024,País Vasco,País Vasco,44870.52
+2024,País Vasco,"Rioja, La",1964.28
+2024,"Rioja, La",Andalucía,69.67
+2024,"Rioja, La",Aragón,1154.56
+2024,"Rioja, La","Asturias, Principado de",67.81
+2024,"Rioja, La",Cantabria,122.1
+2024,"Rioja, La",Castilla - La Mancha,362.59
+2024,"Rioja, La",Castilla y León,1484.86
+2024,"Rioja, La",Cataluña,266.47
+2024,"Rioja, La",Comunitat Valenciana,243.44
+2024,"Rioja, La",Extremadura,66.16
+2024,"Rioja, La",Galicia,117.44
+2024,"Rioja, La","Madrid, Comunidad de",252.95
+2024,"Rioja, La","Murcia, Región de",46.75
+2024,"Rioja, La","Navarra, Comunidad Foral de",1573.53
+2024,"Rioja, La",País Vasco,1162.06
+2024,"Rioja, La","Rioja, La",6195.21

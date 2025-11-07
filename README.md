@@ -81,24 +81,37 @@ CO614_Coste_TRM_Carr__tipo_veh.csv
 
 ## 📂 Estructura del proyecto
 
+```
 08_Transporte_Carretera_MITMA/
 │
 ├─ data/
 │ ├─ raw/ → Archivos CSV originales del MITMA
-│ ├─ interim/ → Versiones intermedias limpias
 │ └─ processed/ → Dataset final limpio (CO280_trafico_toneladas_clean.csv)
+│   ├─ CO280_trafico_toneladas_clean.csv
+│   ├─ CO280_trafico_ton_km_clean.csv
+│   ├─ CO282_flujos_ccaa_toneladas_clean.csv
+│   ├─ CO282_flujos_ccaa_ton_km_clean.csv
+│   ├─ CO285_operaciones_vacio_clean.csv
+│   ├─ CO497_indice_precios_clean.csv
+│   ├─ CO614_costes_estructura_anual_clean.csv
+|   └─ CO614_costes_estructura_unitaria_clean.csv
 │
 ├─ notebooks/
-│ ├─ 01_exploracion_inicial.ipynb
-│ ├─ 01_exploracion_CO280.html
-│ └─ (otros análisis por dataset)
+|   ├─ 01_exploracion_CO280.ipynb
+|   ├─ 02_limpieza_parte_I.ipynb
+|   └─ 02_limpieza_parte_II.ipynb
 │
 ├─ reports/
-│ ├─ Informe_CO280_Exploracion_Limpieza.docx
-│ └─ Visualizaciones_Tableau_PowerBI/
+│ ├─ Informe_CO280_Exploracion_Limpieza.pdf
+│ └─ PPT.ppbx
+|
+├─ dashboards/
+│ └─ dashboards.pibx
+|
+├─ requirements.txt
 │
 └─ README.md
-
+```
 
 ---
 
