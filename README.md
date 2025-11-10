@@ -1,85 +1,93 @@
-# 🚛 Análisis del Transporte de Mercancías por Carretera en España (2017-2024)
+# 🚛 Análisis del Transporte de Mercancías por Carretera en España (2017–2024)
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-data--analysis-brightgreen?logo=pandas)
+![Tableau](https://img.shields.io/badge/Tableau‑Dashboard-orange?logo=tableau)
+![MITMA OTLE](https://img.shields.io/badge/Datos‑MITMA%2FOTLE‑0057B7?logo=gov.uk)
+![Estado](https://img.shields.io/badge/Estado‑En%20progreso‑yellow)
+
+---
 
 ## 🧭 Descripción general
-Este proyecto analiza los datos abiertos del **Ministerio de Transportes y Movilidad Sostenible (MITMA)**, a través del **Observatorio del Transporte y la Logística en España (OTLE)**.  
-Los datasets proceden del portal oficial de datos abiertos del MITMA:  
-🔗 [https://otle.transportes.gob.es/](https://otle.transportes.gob.es/)
 
-El objetivo es realizar una **exploración, limpieza y análisis visual** de los principales conjuntos de datos del transporte de mercancías por carretera en España, con el fin de identificar:
+Este proyecto analiza los datos públicos del **Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA)** a través del **Observatorio del Transporte y la Logística en España (OTLE)**.  
+El objetivo es desarrollar una base de datos limpia, estructurada y coherente que permita **analizar el transporte de mercancías por carretera en España entre 2017 y 2024**, comprendiendo:
 
-- Tendencias temporales (2017–2024)  
-- Distribución territorial por comunidad autónoma  
-- Eficiencia operativa (viajes vacíos vs cargados)  
-- Costes, precios e infraestructura logística  
+- Tendencias anuales y regionales del tráfico de mercancías.  
+- Flujos entre comunidades autónomas.  
+- Operaciones vacías y eficiencia del transporte.  
+- Costes estructurales e índices de precios.  
+- Superficie y capacidad logística disponible.
 
----
-
-## 📁 Datasets utilizados
-
-Los ficheros seleccionados para el análisis provienen del OTLE y abarcan distintas dimensiones del transporte de mercancías por carretera:
-
-CO280_Trafico_Total_Merc_Veh_Espanyoles_Carr__CCAA_TipoMercancia_TipoDesplaz_Anyo.csv
-CO282_CO281_Flujos_Nac_Merc_Veh_Espanyoles_Carr_entre_CCAAs_Anyo.csv
-CO285_OperVacio_Veh_Espanyoles_Carr__CCAA_TipoDesplaz_Anyo.csv
-CO497_indice_precios_TRM_Carr__tramosDistancias.csv
-CO516_Superficie_Instalacs_Logistica_Carr__TipoInstalac_CCAA_Provincia.csv
-CO519_Trafico_Total_Merc__ModoTransporte_TipoTrafico_Anyo.csv
-CO597_CO598_TRM_int_CAR_Tn_TnKm_Merc_RecibExped_ESP__paises_OrigenDestino.csv
-CO614_Coste_TRM_Carr__tipo_veh.csv
+🔗 Fuente oficial de datos: [Portal OTLE / MITMA](https://otle.transportes.gob.es/)
 
 ---
 
-## 🧩 Estructura y resumen de los datasets
+## 📌 Alcance y limitaciones
 
-| Archivo | Filas | Columnas | Variables principales | Año / Variable temporal |
-|----------|-------|-----------|------------------------|--------------------------|
-| CO280 | 15 200 | 10 | year2, comunidad2, tipo_transporte3, tipo_desplazamiento, tipo_mercancia2, valor2 | year2 |
-| CO282 | 3 600 | 5 | year, ComunidadOrigen, ComunidadDestino, Unidad, Valor | year |
-| CO285 | 2 128 | 13 | comunidad, Estado_Operacion, year, Tipo_transporte, Valor | year |
-| CO497 | 96 | 4 | year, tramo_distancia, concepto_precio, valor | year |
-| CO516 | 10 402 | 17 | year, comunidad, provincia, tipo_instalacion, superficie | year |
-| CO519 | 66 | 7 | year, TipoTrafico, ModoTransporte, valor | year |
-| CO597 | 992 | 9 | Pais, tipo_desplazamiento, valor_toneladas, valor_toneladas_km | year |
-| CO614 | 4 162 | 12 | vehiculo, tipo_coste_anual, super_tipo_costes, valor | year |
+### Alcance actual  
+✔️ Limpieza y normalización de nueve datasets oficiales (2017–2024) del OTLE.  
+✔️ Homogeneización de columnas, tipos y unidades (toneladas, toneladas‑kilómetro).  
+✔️ Imputación controlada de nulos (`dimension_coste → indirectos`).  
+✔️ Eliminación de registros inconsistentes o con valores clave vacíos.  
+✔️ Preparación para análisis exploratorio (EDA) y visualización interactiva.
 
----
+### Limitaciones  
+⚠️ Esta versión no incluye aún el análisis visual completo, modelos predictivos ni correlaciones entre costes y eficiencia.  
+⚠️ Las transformaciones se han limitado a limpieza y consistencia estructural; no se han empleado imputaciones estadísticas invasivas.  
+⚠️ No se ha integrado todavía la comparación profunda entre modos de transporte (carretera vs. ferrocarril vs. marítimo).  
+⚠️ Depende de las actualizaciones de origen: si el portal OTLE modifica o amplía datos en el futuro, podrían requerirse nuevas limpiezas.
 
-## ⚙️ Metodología
-
-1. **Carga de datos:**  
-   Lectura de los archivos CSV originales (UTF-8) descargados del OTLE.
-
-2. **Auditoría inicial:**  
-   Revisión de estructura, tipos de variables, valores nulos y duplicados.
-
-3. **Limpieza y normalización:**  
-   - Estandarización de nombres de columnas.  
-   - Conversión de texto a minúsculas y eliminación de espacios.  
-   - Transformación de unidades a **toneladas físicas**.  
-   - Eliminación de filas agregadas (“total 2024”, “total 2023”…).  
-
-4. **EDA (Exploratory Data Analysis):**  
-   - Evolución del volumen total transportado (2017–2024).  
-   - Ranking de comunidades autónomas.  
-   - Distribución por tipo de mercancía, transporte y desplazamiento.  
-
-5. **Exportación final:**  
-   Dataset limpio: `CO280_trafico_toneladas_clean.csv`  
-   Codificación: **UTF-8-SIG**
+Las siguientes fases del proyecto incorporarán la **unificación analítica** y los **dashboards de indicadores logísticos nacionales**.
 
 ---
 
-## 📊 Resultados clave
+## 📁 Datasets procesados
 
-- **Periodo analizado:** 2017–2024  
-- **Unidad principal:** Toneladas transportadas  
-- **CCAA con mayor volumen:** Andalucía, Cataluña, Comunidad Valenciana  
-- **Tendencia general:** Descenso temporal en 2020 (efecto COVID-19), con recuperación posterior.  
-- **Predominio:** Transporte intrarregional y desplazamientos intermunicipales dentro de cada CCAA.  
+| Código | Descripción | Estado |
+|--------|-------------|--------|
+| CO280  | Tráfico total de mercancías (por tipo y desplazamiento) | ✅ Limpio |
+| CO282  | Flujos nacionales entre comunidades autónomas | ✅ Limpio |
+| CO285  | Operaciones en vacío (eficiencia) | ✅ Limpio |
+| CO497  | Índice de precios del transporte | ✅ Limpio |
+| CO516  | Superficie de instalaciones logísticas | ✅ Limpio |
+| CO519  | Tráfico total por modo de transporte y tipo de tráfico | ✅ Limpio |
+| CO597  | Transporte internacional (tn / tn·km) | ✅ Limpio |
+| CO614  | Costes estructurales por tipo de vehículo | ✅ Limpio |
+| IDL    | Índice de desempeño logístico | ✅ Limpio |
 
 ---
 
-## 📂 Estructura del proyecto
+## ⚙️ Metodología de limpieza
+
+1. **Carga y auditoría inicial**  
+   - Lectura de archivos CSV (UTF‑8‑SIG).  
+   - Revisión de estructura, tipos, nulos y duplicados.  
+
+2. **Normalización de columnas**  
+   - Nombres en minúsculas, sin espacios, consistentes entre datasets.  
+   - Etiquetas uniformes (por ejemplo `recibido`, `expedido`).  
+
+3. **Tratamiento de valores nulos**  
+   - Eliminación de filas con `NaN` en variables fundamentales (pais, comunidad, tipo_transporte).  
+   - Sustitución documentada (`dimension_coste → indirectos`).  
+
+4. **Conversión y estandarización**  
+   - Unificación de unidades en toneladas (tn) o toneladas‑kilómetro (tn·km).  
+   - Conversión de la columna de año a tipo numérico.  
+
+5. **Validación**  
+   - Rango temporal detectado: _2017‑2024_.  
+   - Comprobación de duplicados residuales.  
+   - Verificación de imputaciones específicas.  
+
+6. **Exportación final**  
+   - Archivos codificados en **UTF‑8‑SIG**.  
+   - Guardados en `data/processed/`.
+
+---
+
+## 📂 Estructura de proyecto
 
 ```
 08_Transporte_Carretera_MITMA/
@@ -87,26 +95,36 @@ CO614_Coste_TRM_Carr__tipo_veh.csv
 ├─ data/
 │ ├─ raw/ → Archivos CSV originales del MITMA
 │ └─ processed/ → Dataset final limpio (CO280_trafico_toneladas_clean.csv)
-│   ├─ CO280_trafico_toneladas_clean.csv
-│   ├─ CO280_trafico_ton_km_clean.csv
-│   ├─ CO282_flujos_ccaa_toneladas_clean.csv
+│   ├─ CO280_trafico_total_ccaa_tipo_desplaz_y_mercancia_clean.csv
+│   ├─ CO282_flujos_ccaa_origen_destino_clean.csv
 │   ├─ CO282_flujos_ccaa_ton_km_clean.csv
 │   ├─ CO285_operaciones_vacio_clean.csv
 │   ├─ CO497_indice_precios_clean.csv
-│   ├─ CO614_costes_estructura_anual_clean.csv
-|   └─ CO614_costes_estructura_unitaria_clean.csv
+│   ├─ CO516_superficies_logisticas_clean.csv
+│   ├─ CO519_transporte_mercancias_por_modo_y_ambito.csv
+│   ├─ CO597_transporte_mercancias_internacional.csv
+│   ├─ CO614_costes_estructura_clean.csv
+|   └─ indice_desempeno_logistico_clean
 │
 ├─ notebooks/
 |   ├─ 01_exploracion_CO280.ipynb
 |   ├─ 02_limpieza_parte_I.ipynb
-|   └─ 02_limpieza_parte_II.ipynb
+|   ├─ 03_limpieza_parte_II.ipynb
+|   ├─ 04_analisis_parte_I.ipynb
+|   └─ 05_analisis_parte_II.ipynb
 │
 ├─ reports/
-│ ├─ Informe_CO280_Exploracion_Limpieza.pdf
-│ └─ PPT.ppbx
+│ ├─ analisis_transporte_mercancias_carretera.pdf
+│ └─ transporte_mercancias_carretera.ppbx
 |
 ├─ dashboards/
-│ └─ dashboards.pibx
+│ └─ dashboard_tte_mercancias_carretera.pibx
+|
+├─ images/
+│ ├─ portada.png
+│ ├─ imagen1.png
+│ ├─ imagen2.png
+│ └─ imagen3.png
 |
 ├─ requirements.txt
 │
@@ -115,20 +133,49 @@ CO614_Coste_TRM_Carr__tipo_veh.csv
 
 ---
 
-## 🔮 Próximos pasos
+## ▶️ Reproducibilidad
 
-- Integrar **CO285 (operaciones en vacío)** → análisis de eficiencia.  
-- Incorporar **CO497** y **CO614** → análisis de costes e índices de precios.  
-- Añadir **CO516** → infraestructura logística y superficie.  
-- Unificar todos los ficheros en un modelo analítico completo del transporte por carretera.  
-- Desarrollar dashboards interactivos en **Tableau** .
+1. **Entorno** (ejemplo):
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate       # Windows: .venv\Scripts\activate
+   pip install -r requirements.txt
+   ```
+
+2. **Ejecución de notebooks en orden**:
+   - `01_exploracion_CO280.ipynb`
+   - `02_limpieza_parte_I.ipynb`
+   - `03_limpieza_parte_II.ipynb`
+   - `04_analisis_parte_I.ipynb`
+   - `05_analisis_parte_II.ipynb`
+
+3. **Salida**:  
+   Los archivos limpiados estarán disponibles en `data/processed/`, listos para importar en Tableau, Power BI u otra herramienta de visualización.
 
 ---
 
-## 👩‍💻 Autor
+## 📊 Próxima fase analítica
 
-**Elena Sánchez-Laulhé Dégano**  
+- Serie temporal de toneladas y toneladas‑kilómetro (2017‑2024).  
+- Comparativa entre comunidades autónomas y modos de transporte.  
+- Cálculo del ratio **vacío / cargado** (CO285 vs CO280).  
+- Análisis de relación: **índice de precios (CO497)** vs **costes estructurales (CO614)**.  
+- Mapa nacional de infraestructura logística (CO516).  
+- Generación de indicadores agregados por **IDL (Índice de Desempeño Logístico)**.
+
+---
+
+## 🧾 Licencia de los datos
+
+Los datos utilizados proceden del **Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA)** – **Observatorio del Transporte y la Logística en España (OTLE)**,  
+y se reutilizan conforme a su **Licencia de datos abiertos (LDA)**:  
+👉 [https://www.transportes.gob.es/el-ministerio/buen-gobierno/licencia_datos](https://www.transportes.gob.es/el-ministerio/buen-gobierno/licencia_datos)
+
+---
+
+## 👩‍💻 Autora
+
+**Elena Sánchez‑Laulhé Dégano**  
 📍 Madrid, España  
-📚 Licencia: Uso educativo y de investigación.
-
----
+🎓 Data Analytics Supply Chain & Logística  
+📚 Proyecto educativo y de investigación

@@ -1,4 +1,4 @@
-año,ccaa_origen,ccaa_destino,ton-km,toneladas
+año,ccaa_origen,ccaa_destino,ton-km(millones),toneladas(miles)
 2017,Andalucía,Andalucía,10234.75,172587.62
 2017,Andalucía,Aragón,460.45,555.86
 2017,Andalucía,"Asturias, Principado de",127.08,133.82

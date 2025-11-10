@@ -28,22 +28,18 @@ notebooks/.ipynb_checkpoints/
 notebooks/*.checkpoint.ipynb
 
 # --- Archivos de exportación ---
-*.pdf
-*.png
-*.jpg
 *.jpeg
 *.svg
+*.docx
 
 # --- Archivos de datos ---
 # No subir los datos RAW originales
 data/raw/*
-!data/processed/
-!data/interim/
+data/interim/
 
 # --- Archivos grandes de Tableau / Power BI ---
 *.twb
 *.twbx
-*.pbix
 *.hyper
 *.tds
 *.tdsx
