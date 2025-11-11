@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-data--analysis-brightgreen?logo=pandas)
 ![Tableau](https://img.shields.io/badge/Tableau‑Dashboard-orange?logo=tableau)
-![MITMA OTLE](https://img.shields.io/badge/Datos‑MITMA%2FOTLE‑0057B7?logo=gov.es)
 
 ---
 
