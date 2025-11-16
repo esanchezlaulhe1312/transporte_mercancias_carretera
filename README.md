@@ -27,18 +27,20 @@ El objetivo principal es transformar microdatos administrativos dispersos y no e
 Para garantizar una interpretación correcta de los datos, se definen las siguientes fronteras del análisis:
 
 ### ✅ Alcance (Lo que SÍ incluye)
-1.  **Ventana Temporal:** Serie histórica completa **2017-2024**, permitiendo análisis pre y post-pandemia.
-2.  **Modo de Transporte:** Foco principal en **Transporte por Carretera** (el 95% del movimiento interior en España), con comparativas modales leves.
-3.  **Granularidad Geográfica:**
+
+1. **Ventana Temporal:** Serie histórica completa **2017-2024**, permitiendo análisis pre y post-pandemia.
+2. **Modo de Transporte:** Foco principal en **Transporte por Carretera** (el 95% del movimiento interior en España), con comparativas modales leves.
+3. **Granularidad Geográfica:**
     * *Flujos (Demanda):* Nivel Comunidad Autónoma (CCAA).
     * *Infraestructura (Oferta):* Nivel Provincia.
-4.  **Dimensión Económica:** Estructura de costes desglosada por tipo de vehículo (Articulados, Rígidos, Frigoríficos) y evolución de precios de mercado.
+4. **Dimensión Económica:** Estructura de costes desglosada por tipo de vehículo (Articulados, Rígidos, Frigoríficos) y evolución de precios de mercado.
 
 ### ⚠️ Limitaciones (Lo que NO incluye)
-1.  **Ceguera de "Última Milla":** Los datos oficiales no trazan la distribución capilar urbana (e-commerce B2C dentro de ciudades). El análisis se centra en *Middle Mile* y *Long Haul*.
-2.  **Asimetría Geo-Espacial:** No es posible calcular el "Centro de Gravedad" exacto de un almacén dentro de una provincia, ya que los flujos de carga solo se detallan a nivel regional (CCAA).
-3.  **Anonimato de Operadores:** Los costes analizados son medias sectoriales del observatorio. No se dispone de datos financieros de empresas específicas (P&L privado).
-4.  **Efecto 2020:** El año 2020 presenta anomalías estadísticas severas por el COVID-19; debe tratarse como un *outlier* en los modelos predictivos.
+
+1. **Ceguera de "Última Milla":** Los datos oficiales no trazan la distribución capilar urbana (e-commerce B2C dentro de ciudades). El análisis se centra en *Middle Mile* y *Long Haul*.
+2. **Asimetría Geo-Espacial:** No es posible calcular el "Centro de Gravedad" exacto de un almacén dentro de una provincia, ya que los flujos de carga solo se detallan a nivel regional (CCAA).
+3. **Anonimato de Operadores:** Los costes analizados son medias sectoriales del observatorio. No se dispone de datos financieros de empresas específicas (P&L privado).
+4. **Efecto 2020:** El año 2020 presenta anomalías estadísticas severas por el COVID-19; debe tratarse como un *outlier* en los modelos predictivos.
 
 ---
 
@@ -69,14 +71,15 @@ Para garantizar una interpretación correcta de los datos, se definen las siguie
 
 Como resultado de la ejecución del pipeline, se han generado los siguientes archivos CSV en /data/processed/, listos para modelado en herramientas de visualización:
 
-### ✅ Alcance (Lo que SÍ incluye)
-1.  **KPI Cuota Mercado CCAA** Volumen total movido por región.
-2.  **KPI_Costes_Historico_Vehiculos** Desglose detallado de costes opertivos por tipo de camión.
-3.  **KPI_Precios_Mercado_Historico** Índice de referencia de precios de mercado (Base 100 = 2017).
-4.  **KPI_Saturacion_Logistica_Historica** El KPI estratégico. Relación Ton/m2 histórica por comunidad.
-5.  **KPI_Balanza_Comercial* Flujos de exportación vs importación
-6.  **KPI_Benchmarking_LPI** Comparativa de desempeño logístico vs Europa.
-7.  **KPI_Socios_Internacionales** Ranking de países con mayor intercambio comercial.
+### KPIs
+
+1. **KPI Cuota Mercado CCAA** Volumen total movido por región.
+2. **KPI_Costes_Historico_Vehiculos** Desglose detallado de costes opertivos por tipo de camión.
+3. **KPI_Precios_Mercado_Historico** Índice de referencia de precios de mercado (Base 100 = 2017).
+4. **KPI_Saturacion_Logistica_Historica** El KPI estratégico. Relación Ton/m2 histórica por comunidad.
+5. **KPI_Balanza_Comercial** Flujos de exportación vs importación
+6. **KPI_Benchmarking_LPI** Comparativa de desempeño logístico vs Europa.
+7. **KPI_Socios_Internacionales** Ranking de países con mayor intercambio comercial.
 
 ---
 
