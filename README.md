@@ -22,18 +22,6 @@ El objetivo principal es transformar microdatos administrativos dispersos y no e
 
 ---
 
-## 📂 Arquitectura del Proyecto
-
-El flujo de trabajo sigue una arquitectura **ETL (Extract, Transform, Load)** clásica dividida en fases:
-
-```mermaid
-graph LR
-A[Raw Data (MITMA CSVs)] --> B(Python ETL Cleaning);
-B --> C{Analytical Notebooks};
-C --> D[Processed KPIs (CSV)];
-D --> E(Power BI Dashboard);
-
-
 ## 🎯 Alcance y Limitaciones
 
 Para garantizar una interpretación correcta de los datos, se definen las siguientes fronteras del análisis:
@@ -154,41 +142,6 @@ Como resultado de la ejecución del pipeline, se han generado los siguientes arc
 │
 └─ README.md
 ```
-
----
-
-## ▶️ Reproducibilidad
-
-1. **Entorno**:
-
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate   
-   pip install -r requirements.txt
-   ```
-
-2. **Ejecución de notebooks en orden**:
-   * `01_exploracion_CO280.ipynb`
-   * `02_limpieza_parte_I.ipynb`
-   * `03_limpieza_parte_II.ipynb`
-   * `04_analisis_parte_I.ipynb`
-   * `05_analisis_parte_II.ipynb`
-   * `06_analisis_parte_III.ipynb`
-   * `07_analisis_parte_IV.ipynb`
-
-3. **Salida**:  
-   Los archivos limpiados estarán disponibles en `data/processed/`, listos para importar en Power BI u otra herramienta de visualización.
-
----
-
-## 📊 Próxima fase analítica
-
-* Serie temporal de toneladas y toneladas‑kilómetro (2017‑2024).  
-* Comparativa entre comunidades autónomas y modos de transporte.
-* Cálculo del ratio **vacío / cargado** (CO285 vs CO280).  
-* Análisis de relación: **índice de precios (CO497)** vs **costes estructurales (CO614)**.  
-* Mapa nacional de infraestructura logística (CO516).  
-* Generación de indicadores agregados por **IDL (Índice de Desempeño Logístico)**.
 
 ---
 
