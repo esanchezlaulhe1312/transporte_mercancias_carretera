@@ -33,7 +33,7 @@ notebooks/*.checkpoint.ipynb
 *.docx
 
 # --- Archivos de datos ---
-# No subir los datos RAW originales
+# No subir los datos RAW originales ni los intermedios generados
 data/raw/*
 data/interim/*
 
