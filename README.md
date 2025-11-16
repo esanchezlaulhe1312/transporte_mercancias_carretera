@@ -2,97 +2,118 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-data--analysis-brightgreen?logo=pandas)
-![Tableau](https://img.shields.io/badge/Tableau‑Dashboard-orange?logo=tableau)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Ready_for_Production-success)
 
 ---
 
 ## 🧭 Descripción general
 
-Este proyecto analiza los datos públicos del **Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA)** a través del **Observatorio del Transporte y la Logística en España (OTLE)**.  
-El objetivo es desarrollar una base de datos limpia, estructurada y coherente que permita **analizar el transporte de mercancías por carretera en España entre 2017 y 2024**, comprendiendo:
+Este proyecto analiza los datos públicos del **Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA)** a través del **Observatorio del Transporte y la Logística en España (OTLE)**.
 
-- Tendencias anuales y regionales del tráfico de mercancías.  
-- Flujos entre comunidades autónomas.  
-- Operaciones vacías y eficiencia del transporte.  
-- Costes estructurales e índices de precios.  
-- Superficie y capacidad logística disponible.
+El objetivo principal es transformar microdatos administrativos dispersos y no estructurados en un ecosistema de **Inteligencia de Negocio (BI)** que permita responder preguntas estratégicas sobre:
+
+* **Red y Flujos:** ¿Quién mueve qué y hacia dónde? (Matrices Origen-Destino).
+* **Economía:** Análisis de márgenes, inflación de costes y elasticidad de precios.
+* **Infraestructura (Real Estate):** Detección de zonas saturadas vs. oportunidades de inversión logística ($Ton/m^2$).
+* **Competitividad:** Benchmarking internacional y balanza comercial.
 
 🔗 Fuente oficial de datos: [Portal OTLE / MITMA](https://otle.transportes.gob.es/)
 
 ---
 
-## 📌 Alcance y limitaciones
+## 📂 Arquitectura del Proyecto
 
-### Alcance actual  
-✔️ Limpieza y normalización de nueve datasets oficiales (2017–2024) del OTLE.  
-✔️ Homogeneización de columnas, tipos y unidades (toneladas, toneladas‑kilómetro).  
-✔️ Imputación controlada de nulos (`dimension_coste → indirectos`).  
-✔️ Eliminación de registros inconsistentes o con valores clave vacíos.  
-✔️ Preparación para análisis exploratorio (EDA) y visualización interactiva.
+El flujo de trabajo sigue una arquitectura **ETL (Extract, Transform, Load)** clásica dividida en fases:
 
-### Limitaciones  
-⚠️ Esta versión no incluye aún el análisis visual completo, modelos predictivos ni correlaciones entre costes y eficiencia.  
-⚠️ Las transformaciones se han limitado a limpieza y consistencia estructural; no se han empleado imputaciones estadísticas invasivas.  
-⚠️ No se ha integrado todavía la comparación profunda entre modos de transporte (carretera vs. ferrocarril vs. marítimo).  
-⚠️ Depende de las actualizaciones de origen: si el portal OTLE modifica o amplía datos en el futuro, podrían requerirse nuevas limpiezas.
+```mermaid
+graph LR
+A[Raw Data (MITMA CSVs)] --> B(Python ETL Cleaning);
+B --> C{Analytical Notebooks};
+C --> D[Processed KPIs (CSV)];
+D --> E(Power BI Dashboard);
 
-Las siguientes fases del proyecto incorporarán la **unificación analítica** y los **dashboards de indicadores logísticos nacionales**.
+
+## 🎯 Alcance y Limitaciones
+
+Para garantizar una interpretación correcta de los datos, se definen las siguientes fronteras del análisis:
+
+### ✅ Alcance (Lo que SÍ incluye)
+1.  **Ventana Temporal:** Serie histórica completa **2017-2024**, permitiendo análisis pre y post-pandemia.
+2.  **Modo de Transporte:** Foco principal en **Transporte por Carretera** (el 95% del movimiento interior en España), con comparativas modales leves.
+3.  **Granularidad Geográfica:**
+    * *Flujos (Demanda):* Nivel Comunidad Autónoma (CCAA).
+    * *Infraestructura (Oferta):* Nivel Provincia.
+4.  **Dimensión Económica:** Estructura de costes desglosada por tipo de vehículo (Articulados, Rígidos, Frigoríficos) y evolución de precios de mercado.
+
+### ⚠️ Limitaciones (Lo que NO incluye)
+1.  **Ceguera de "Última Milla":** Los datos oficiales no trazan la distribución capilar urbana (e-commerce B2C dentro de ciudades). El análisis se centra en *Middle Mile* y *Long Haul*.
+2.  **Asimetría Geo-Espacial:** No es posible calcular el "Centro de Gravedad" exacto de un almacén dentro de una provincia, ya que los flujos de carga solo se detallan a nivel regional (CCAA).
+3.  **Anonimato de Operadores:** Los costes analizados son medias sectoriales del observatorio. No se dispone de datos financieros de empresas específicas (P&L privado).
+4.  **Efecto 2020:** El año 2020 presenta anomalías estadísticas severas por el COVID-19; debe tratarse como un *outlier* en los modelos predictivos.
 
 ---
 
 ## 📁 Datasets procesados
 
-| Código | Descripción | Estado |
-|--------|-------------|--------|
-| CO280  | Tráfico total de mercancías (por tipo y desplazamiento) | ✅ Limpio |
-| CO282  | Flujos nacionales entre comunidades autónomas | ✅ Limpio |
-| CO285  | Operaciones en vacío (eficiencia) | ✅ Limpio |
-| CO497  | Índice de precios del transporte | ✅ Limpio |
-| CO516  | Superficie de instalaciones logísticas | ✅ Limpio |
-| CO519  | Tráfico total por modo de transporte y tipo de tráfico | ✅ Limpio |
-| CO597  | Transporte internacional (tn / tn·km) | ✅ Limpio |
-| CO614  | Costes estructurales por tipo de vehículo | ✅ Limpio |
-| IDL    | Índice de desempeño logístico | ✅ Limpio |
+| Código | Descripción |
+|--------|-------------|
+| CO280  | Tráfico total de mercancías (por tipo y desplazamiento) |
+| CO282  | Flujos nacionales entre comunidades autónomas |
+| CO285  | Operaciones en vacío (eficiencia) |
+| CO497  | Índice de precios del transporte |
+| CO516  | Superficie de instalaciones logísticas |
+| CO519  | Tráfico total por modo de transporte y tipo de tráfico |
+| CO597  | Transporte internacional (tn / tn·km) |
+| CO614  | Costes estructurales por tipo de vehículo |
+| KPI1   | KPI Costes vs Precios|
+| KPI2   | KPI Cuota de Mercado |
+| KPI3   | KPI Saturación Logística |
+| KPI4   | KPI Costes Vehículos |
+| KPI5   | KPI Precios Mercado |
+| KPI6   | KPI Balanza Comercial |
+| KPI7   | KPI Benchmarking LPI |
+| IDL    | Índice de desempeño logístico |
 
 ---
 
-## ⚙️ Metodología de limpieza
+## 🎯 Activos Generados (Datasets para Power BI)
 
-1. **Carga y auditoría inicial**  
-   - Lectura de archivos CSV (UTF‑8‑SIG).  
-   - Revisión de estructura, tipos, nulos y duplicados.  
+Como resultado de la ejecución del pipeline, se han generado los siguientes archivos CSV en /data/processed/, listos para modelado en herramientas de visualización:
 
-2. **Normalización de columnas**  
-   - Nombres en minúsculas, sin espacios, consistentes entre datasets.  
-   - Etiquetas uniformes (por ejemplo `recibido`, `expedido`).  
+### ✅ Alcance (Lo que SÍ incluye)
+1.  **KPI Cuota Mercado CCAA** Volumen total movido por región.
+2.  **KPI_Costes_Historico_Vehiculos** Desglose detallado de costes opertivos por tipo de camión.
+3.  **KPI_Precios_Mercado_Historico** Índice de referencia de precios de mercado (Base 100 = 2017).
+4.  **KPI_Saturacion_Logistica_Historica** El KPI estratégico. Relación Ton/m2 histórica por comunidad.
+5.  **KPI_Balanza_Comercial* Flujos de exportación vs importación
+6.  **KPI_Benchmarking_LPI** Comparativa de desempeño logístico vs Europa.
+7.  **KPI_Socios_Internacionales** Ranking de países con mayor intercambio comercial.
 
-3. **Tratamiento de valores nulos**  
-   - Eliminación de filas con `NaN` en variables fundamentales (pais, comunidad, tipo_transporte).  
-   - Sustitución documentada (`dimension_coste → indirectos`).  
+---
 
-4. **Conversión y estandarización**  
-   - Unificación de unidades en toneladas (tn) o toneladas‑kilómetro (tn·km).  
-   - Conversión de la columna de año a tipo numérico.  
+## ⚙️ Metodología: De Notebooks a Insights
 
-5. **Validación**  
-   - Rango temporal detectado: _2017‑2024_.  
-   - Comprobación de duplicados residuales.  
-   - Verificación de imputaciones específicas.  
-
-6. **Exportación final**  
-   - Archivos codificados en **UTF‑8‑SIG**.  
-   - Guardados en `data/processed/`.
+| Fase | Notebook | Descripción Técnica | Insight de Negocio |
+|------|-------------|--------|-------------|
+| ETL  | 01_exploracion | Mapeo de columnas y auditoría de nulos.  | Validación de la integridad de los datos (2017-2024)|
+| ETL  | 02_limpieza_I | Pivoteo de métricas (Ton vs Ton-Km) y limpieza de flujos O-D.  | Creación de la red logística nacional |
+| ETL  | 03_limpieza_II | Desagregación de superficies (m2) y estandarización geográfica.  | Inventario de suelo logístico por provincia |
+| KPI  | 04_analisis_I| Análisis de Demanda: Cálculo de cuotas de mercado por CCAA.  | "Identificación del ""Triángulo de Oro"" logístico." |
+| KPI  | 05_analisis_II | Análisis Financiero: Comparativa Costes vs. Precios.  | "Detección del ""Margin Squeeze"" (Pérdida de rentabilidad 2022-24)." |
+| KPI  | 06_analisis_III| Real Estate: Matriz de Saturación (Demanda / Oferta)  | Mapa de calor de oportunidades de inversión en almacenes. |
+| KPI  | 07_analisis_IV | Internacional: Balanza comercial y LPI Benchmarking.  | Competitividad de España frente a Europa |
 
 ---
 
 ## 📂 Estructura de proyecto
 
-```
+```default []
 08_Transporte_Carretera_MITMA/
 │
 ├─ data/
 │ ├─ raw/ → Archivos CSV originales del MITMA
-│ └─ processed/ → Dataset final limpio (CO280_trafico_toneladas_clean.csv)
+│ └─ processed/
 │   ├─ CO280_trafico_total_ccaa_tipo_desplaz_y_mercancia_clean.csv
 │   ├─ CO282_flujos_ccaa_origen_destino_clean.csv
 │   ├─ CO282_flujos_ccaa_ton_km_clean.csv
@@ -109,14 +130,19 @@ Las siguientes fases del proyecto incorporarán la **unificación analítica** y
 |   ├─ 02_limpieza_parte_I.ipynb
 |   ├─ 03_limpieza_parte_II.ipynb
 |   ├─ 04_analisis_parte_I.ipynb
-|   └─ 05_analisis_parte_II.ipynb
+|   ├─ 05_analisis_parte_II.ipynb
+|   ├─ 06_analisis_parte_III.ipynb
+|   └─ 07_analisis_parte_IV.ipynb
+|
+├─ src/
+│ └─ limpieza.py
 │
 ├─ reports/
 │ ├─ analisis_transporte_mercancias_carretera.pdf
-│ └─ transporte_mercancias_carretera.ppbx
+│ └─ transporte_mercancias_carretera.pptx
 |
 ├─ dashboards/
-│ └─ dashboard_tte_mercancias_carretera.pibx
+│ └─ dashboard_tte_mercancias_carretera.pbix
 |
 ├─ images/
 │ ├─ portada.png
@@ -133,33 +159,36 @@ Las siguientes fases del proyecto incorporarán la **unificación analítica** y
 
 ## ▶️ Reproducibilidad
 
-1. **Entorno** (ejemplo):
+1. **Entorno**:
+
    ```bash
    python -m venv .venv
-   source .venv/bin/activate       # Windows: .venv\Scripts\activate
+   source .venv/bin/activate   
    pip install -r requirements.txt
    ```
 
 2. **Ejecución de notebooks en orden**:
-   - `01_exploracion_CO280.ipynb`
-   - `02_limpieza_parte_I.ipynb`
-   - `03_limpieza_parte_II.ipynb`
-   - `04_analisis_parte_I.ipynb`
-   - `05_analisis_parte_II.ipynb`
+   * `01_exploracion_CO280.ipynb`
+   * `02_limpieza_parte_I.ipynb`
+   * `03_limpieza_parte_II.ipynb`
+   * `04_analisis_parte_I.ipynb`
+   * `05_analisis_parte_II.ipynb`
+   * `06_analisis_parte_III.ipynb`
+   * `07_analisis_parte_IV.ipynb`
 
 3. **Salida**:  
-   Los archivos limpiados estarán disponibles en `data/processed/`, listos para importar en Tableau, Power BI u otra herramienta de visualización.
+   Los archivos limpiados estarán disponibles en `data/processed/`, listos para importar en Power BI u otra herramienta de visualización.
 
 ---
 
 ## 📊 Próxima fase analítica
 
-- Serie temporal de toneladas y toneladas‑kilómetro (2017‑2024).  
-- Comparativa entre comunidades autónomas y modos de transporte.  
-- Cálculo del ratio **vacío / cargado** (CO285 vs CO280).  
-- Análisis de relación: **índice de precios (CO497)** vs **costes estructurales (CO614)**.  
-- Mapa nacional de infraestructura logística (CO516).  
-- Generación de indicadores agregados por **IDL (Índice de Desempeño Logístico)**.
+* Serie temporal de toneladas y toneladas‑kilómetro (2017‑2024).  
+* Comparativa entre comunidades autónomas y modos de transporte.
+* Cálculo del ratio **vacío / cargado** (CO285 vs CO280).  
+* Análisis de relación: **índice de precios (CO497)** vs **costes estructurales (CO614)**.  
+* Mapa nacional de infraestructura logística (CO516).  
+* Generación de indicadores agregados por **IDL (Índice de Desempeño Logístico)**.
 
 ---
 
