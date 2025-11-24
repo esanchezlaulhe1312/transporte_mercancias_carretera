@@ -25,7 +25,7 @@
   <img src="images/dashboard/04.competitividad_internacional/04.Competitividad_Internacional.png" alt="Competitividad Internacional" width="700"/>
 </p>
 
-> Dashboard interactivo desarrollado en Tableau para analizar **8 años de datos oficiales** (2017-2024) del Observatorio del Transporte y la Logística en España (MITMA). Incluye análisis de demanda, costes operativos, saturación de infraestructura logística y competitividad internacional.
+> Dashboard interactivo desarrollado en Power BI para analizar **8 años de datos oficiales** (2017-2024) del Observatorio del Transporte y la Logística en España (MITMA). Incluye análisis de demanda, costes operativos, saturación de infraestructura logística y competitividad internacional.
 
 📊 **[Ver presentación completa del proyecto](reports/transporte_mercancias_carretera.pptx)**  
 📄 **[Leer informe técnico completo](reports/informe_final.pdf)**
@@ -221,7 +221,7 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
 
 ## 🎯 KPIs Estratégicos Generados
 
-Como resultado del pipeline ETL, se crearon **7 datasets maestros** listos para visualización en Tableau:
+Como resultado del pipeline ETL, se crearon **7 datasets maestros** listos para visualización en Power BI:
 
 | KPI | Descripción | Insight de Negocio |
 |-----|-------------|-------------------|
@@ -278,7 +278,7 @@ Como resultado del pipeline ETL, se crearon **7 datasets maestros** listos para 
 │
 ├── data/
 │   ├── raw/                    # CSVs originales MITMA (no versionados)
-│   └── processed/              # Datasets limpios para Tableau
+│   └── processed/              # Datasets limpios para Power BI
 │       ├── CO280_trafico_total_ccaa_clean.csv
 │       ├── CO282_flujos_ccaa_origen_destino_clean.csv
 │       ├── CO285_operaciones_vacio_clean.csv
@@ -312,7 +312,7 @@ Como resultado del pipeline ETL, se crearon **7 datasets maestros** listos para 
 │   └── transporte_mercancias_carretera.pptx
 │
 ├── dashboards/
-│   ├── transporte_mercancias_carretera.twb      # Tableau Workbook
+│   ├── transporte_mercancias_carretera.twb      # Power BI Workbook
 │   └── QR_code_dashboard.jpg                     # QR para acceso rápido
 │
 ├── images/
