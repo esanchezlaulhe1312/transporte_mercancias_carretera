@@ -1,161 +1,161 @@
-Año,Vehículo,Costes Anuales,Indice_Base_100
-2017,Articulado De Carga General,124657.95999999999,100.0
-2017,Articulado De Carga General En Transporte Internacional,177279.84,100.0
-2017,Articulado Portacontenedores,108777.89,100.0
-2017,Cisterna Articulado De Mercancías Peligrosas (Gases Glp),136534.27,100.0
-2017,Cisterna Articulado De Mercancías Peligrosas (Químicos),140220.87,100.0
-2017,Cisterna Articulado De Productos De Alimentación,140617.6,100.0
-2017,Cisterna Articulado De Productos Pulverulentos,143979.97,100.0
-2017,Frigorífico Articulado,133981.15,100.0
-2017,Frigorífico Articulado En Transporte Internacional,187591.27,100.0
-2017,Frigorífico De 2 Ejes,80395.48,100.0
+Año,Vehiculo,Costes Totales,Indice_Base_100
+2017,Articulado Carga General,124657.95999999999,100.0
+2017,Articulado Carga General-Internacional,177279.84,100.0
+2017,Cisterna Alimentación,140617.6,100.0
+2017,Cisterna M.Peligrosas-Gases Glp,136534.27,100.0
+2017,Cisterna M.Peligrosas-Químicos,140220.87,100.0
+2017,Cisterna P. Pulverulentos,143979.97,100.0
+2017,Frigorífico,133981.15,100.0
+2017,Frigorífico (2 Ejes),80395.48,100.0
+2017,Frigorífico (Internacional),187591.27,100.0
 2017,Furgoneta,47321.65,100.0
-2017,Portavehículos (Tren De Carretera),149371.84,100.0
-2017,Portavehículos Industriales (Tren De Carretera),153235.46,100.0
-2017,Rígido De 2 Ejes De Carga General,81098.49,100.0
-2017,Rígido De 2 Ejes De Distribución,63600.899999999994,100.0
-2017,Rígido De 3 Ejes De Animales Vivos,102517.01,100.0
-2017,Rígido De 3 Ejes De Carga General,92309.53,100.0
+2017,Portacontenedores,108777.89,100.0
+2017,Portavehículos,149371.84,100.0
+2017,Portavehículos Industriales,153235.46,100.0
+2017,Rígido Animales Vivos (3 Ejes),102517.01,100.0
+2017,Rígido Carga General (2 Ejes),81098.49,100.0
+2017,Rígido Carga General (3 Ejes),92309.53,100.0
+2017,Rígido Distribución (2 Ejes),63600.899999999994,100.0
 2017,Tren De Carretera,122494.52,100.0
-2017,Volquete Articulado De Graneles,122553.09999999999,100.0
-2017,Volquete Articulado De Obra,95610.49,100.0
-2018,Articulado De Carga General,129684.4,104.03218534941531
-2018,Articulado De Carga General En Transporte Internacional,185794.04,104.80268935260773
-2018,Articulado Portacontenedores,113106.28,103.97910825444399
-2018,Cisterna Articulado De Mercancías Peligrosas (Gases Glp),141123.41,103.36116346467448
-2018,Cisterna Articulado De Mercancías Peligrosas (Químicos),144969.3,103.38639319524974
-2018,Cisterna Articulado De Productos De Alimentación,145964.79,103.80264632592223
-2018,Cisterna Articulado De Productos Pulverulentos,149412.19,103.77289979988188
-2018,Frigorífico Articulado,139814.04,104.3535154012337
-2018,Frigorífico Articulado En Transporte Internacional,196995.47,105.01313307383656
-2018,Frigorífico De 2 Ejes,83498.54000000001,103.85974435378706
+2017,Volquete Graneles,122553.09999999999,100.0
+2017,Volquete Obra,95610.49,100.0
+2018,Articulado Carga General,129684.4,104.03218534941531
+2018,Articulado Carga General-Internacional,185794.04,104.80268935260773
+2018,Cisterna Alimentación,145964.79,103.80264632592223
+2018,Cisterna M.Peligrosas-Gases Glp,141123.41,103.36116346467448
+2018,Cisterna M.Peligrosas-Químicos,144969.3,103.38639319524974
+2018,Cisterna P. Pulverulentos,149412.19,103.77289979988188
+2018,Frigorífico,139814.04,104.3535154012337
+2018,Frigorífico (2 Ejes),83498.54000000001,103.85974435378706
+2018,Frigorífico (Internacional),196995.47,105.01313307383656
 2018,Furgoneta,48585.32,102.67038448574806
-2018,Portavehículos (Tren De Carretera),155425.71,104.05288573803469
-2018,Portavehículos Industriales (Tren De Carretera),159726.08,104.23571671987672
-2018,Rígido De 2 Ejes De Carga General,84154.3,103.76802330105038
-2018,Rígido De 2 Ejes De Distribución,65688.33,103.28207619703495
-2018,Rígido De 3 Ejes De Animales Vivos,106385.11,103.77312994204573
-2018,Rígido De 3 Ejes De Carga General,95721.91,103.69667140543343
+2018,Portacontenedores,113106.28,103.97910825444399
+2018,Portavehículos,155425.71,104.05288573803469
+2018,Portavehículos Industriales,159726.08,104.23571671987672
+2018,Rígido Animales Vivos (3 Ejes),106385.11,103.77312994204573
+2018,Rígido Carga General (2 Ejes),84154.3,103.76802330105038
+2018,Rígido Carga General (3 Ejes),95721.91,103.69667140543343
+2018,Rígido Distribución (2 Ejes),65688.33,103.28207619703495
 2018,Tren De Carretera,127939.67,104.44521926368624
-2018,Volquete Articulado De Graneles,127549.37,104.07682057818204
-2018,Volquete Articulado De Obra,98705.6,103.23720754908796
-2019,Articulado De Carga General,130371.89,104.58368643285998
-2019,Articulado De Carga General En Transporte Internacional,187187.1,105.58848654195536
-2019,Articulado Portacontenedores,113752.3,104.57299732509979
-2019,Cisterna Articulado De Mercancías Peligrosas (Gases Glp),142245.01,104.18264220404154
-2019,Cisterna Articulado De Mercancías Peligrosas (Químicos),146093.66,104.18824244921603
-2019,Cisterna Articulado De Productos De Alimentación,146881.33,104.45444240265797
-2019,Cisterna Articulado De Productos Pulverulentos,150385.22,104.44870908085339
-2019,Frigorífico Articulado,140536.51,104.89274797238268
-2019,Frigorífico Articulado En Transporte Internacional,198426.49000000002,105.77597241065644
-2019,Frigorífico De 2 Ejes,84158.55,104.68069846712775
+2018,Volquete Graneles,127549.37,104.07682057818204
+2018,Volquete Obra,98705.6,103.23720754908796
+2019,Articulado Carga General,130371.89,104.58368643285998
+2019,Articulado Carga General-Internacional,187187.1,105.58848654195536
+2019,Cisterna Alimentación,146881.33,104.45444240265797
+2019,Cisterna M.Peligrosas-Gases Glp,142245.01,104.18264220404154
+2019,Cisterna M.Peligrosas-Químicos,146093.66,104.18824244921603
+2019,Cisterna P. Pulverulentos,150385.22,104.44870908085339
+2019,Frigorífico,140536.51,104.89274797238268
+2019,Frigorífico (2 Ejes),84158.55,104.68069846712775
+2019,Frigorífico (Internacional),198426.49,105.77597241065642
 2019,Furgoneta,49249.86,104.07468885805969
-2019,Portavehículos (Tren De Carretera),156309.87,104.64480453611604
-2019,Portavehículos Industriales (Tren De Carretera),160530.83,104.76088889608188
-2019,Rígido De 2 Ejes De Carga General,84761.74,104.51703848000129
-2019,Rígido De 2 Ejes De Distribución,66289.28,104.22695276324707
-2019,Rígido De 3 Ejes De Animales Vivos,107091.31,104.46199123443027
-2019,Rígido De 3 Ejes De Carga General,96392.08,104.42267445192279
+2019,Portacontenedores,113752.3,104.57299732509979
+2019,Portavehículos,156309.87,104.64480453611604
+2019,Portavehículos Industriales,160530.83,104.76088889608188
+2019,Rígido Animales Vivos (3 Ejes),107091.31,104.46199123443027
+2019,Rígido Carga General (2 Ejes),84761.74,104.51703848000129
+2019,Rígido Carga General (3 Ejes),96392.08,104.42267445192279
+2019,Rígido Distribución (2 Ejes),66289.28,104.22695276324707
 2019,Tren De Carretera,128487.27,104.89225967006523
-2019,Volquete Articulado De Graneles,128199.11,104.60699076563546
-2019,Volquete Articulado De Obra,99381.84,103.94449395667775
-2020,Articulado De Carga General,126751.42,101.67936327531753
-2020,Articulado De Carga General En Transporte Internacional,182195.12,102.77261080560542
-2020,Articulado Portacontenedores,110831.56,101.88794800119767
-2020,Cisterna Articulado De Mercancías Peligrosas (Gases Glp),139508.8,102.17859589391
-2020,Cisterna Articulado De Mercancías Peligrosas (Químicos),143185.85,102.11450692040351
-2020,Cisterna Articulado De Productos De Alimentación,143235.06,101.86140284004277
-2020,Cisterna Articulado De Productos Pulverulentos,146811.93,101.96691248095134
-2020,Frigorífico Articulado,135905.06,101.4359557295933
-2020,Frigorífico Articulado En Transporte Internacional,192326.46,102.52420595052212
-2020,Frigorífico De 2 Ejes,82169.55,102.2066787834341
+2019,Volquete Graneles,128199.11,104.60699076563546
+2019,Volquete Obra,99381.84,103.94449395667775
+2020,Articulado Carga General,126751.42,101.67936327531753
+2020,Articulado Carga General-Internacional,182195.12,102.77261080560542
+2020,Cisterna Alimentación,143235.06,101.86140284004277
+2020,Cisterna M.Peligrosas-Gases Glp,139508.8,102.17859589391
+2020,Cisterna M.Peligrosas-Químicos,143185.85,102.11450692040351
+2020,Cisterna P. Pulverulentos,146811.93,101.96691248095134
+2020,Frigorífico,135905.06,101.4359557295933
+2020,Frigorífico (2 Ejes),82169.55,102.2066787834341
+2020,Frigorífico (Internacional),192326.46,102.52420595052212
 2020,Furgoneta,49149.35,103.86229136135363
-2020,Portavehículos (Tren De Carretera),152012.09,101.76756877333773
-2020,Portavehículos Industriales (Tren De Carretera),155689.86000000002,101.60171803576014
-2020,Rígido De 2 Ejes De Carga General,83068.1,102.42866420817454
-2020,Rígido De 2 Ejes De Distribución,65488.14,102.9673165002382
-2020,Rígido De 3 Ejes De Animales Vivos,104757.89,102.18586164383842
-2020,Rígido De 3 Ejes De Carga General,94423.68,102.2902835709379
+2020,Portacontenedores,110831.56,101.88794800119767
+2020,Portavehículos,152012.09,101.76756877333773
+2020,Portavehículos Industriales,155689.86000000002,101.60171803576014
+2020,Rígido Animales Vivos (3 Ejes),104757.89,102.18586164383842
+2020,Rígido Carga General (2 Ejes),83068.1,102.42866420817454
+2020,Rígido Carga General (3 Ejes),94423.68,102.2902835709379
+2020,Rígido Distribución (2 Ejes),65488.14,102.9673165002382
 2020,Tren De Carretera,124423.65000000001,101.57487045134755
-2020,Volquete Articulado De Graneles,124558.33,101.63621320064529
-2020,Volquete Articulado De Obra,97712.06,102.19805379095955
-2021,Articulado De Carga General,133372.3,106.99060052001492
-2021,Articulado De Carga General En Transporte Internacional,190532.31,107.47545236954186
-2021,Articulado Portacontenedores,116452.18,107.05500906480168
-2021,Cisterna Articulado De Mercancías Peligrosas (Gases Glp),145467.65,106.54295804269506
-2021,Cisterna Articulado De Mercancías Peligrosas (Químicos),149395.87,106.54324851928247
-2021,Cisterna Articulado De Productos De Alimentación,150207.93,106.82014911362445
-2021,Cisterna Articulado De Productos Pulverulentos,153870.03,106.86905268837049
-2021,Frigorífico Articulado,143510.51,107.11246320844387
-2021,Frigorífico Articulado En Transporte Internacional,201749.78,107.54753139631713
-2021,Frigorífico De 2 Ejes,86060.9,107.04693845972434
+2020,Volquete Graneles,124558.33,101.63621320064529
+2020,Volquete Obra,97712.06,102.19805379095955
+2021,Articulado Carga General,133372.3,106.99060052001492
+2021,Articulado Carga General-Internacional,190532.31,107.47545236954186
+2021,Cisterna Alimentación,150207.93,106.82014911362445
+2021,Cisterna M.Peligrosas-Gases Glp,145467.65,106.54295804269506
+2021,Cisterna M.Peligrosas-Químicos,149395.87,106.54324851928247
+2021,Cisterna P. Pulverulentos,153870.03,106.86905268837049
+2021,Frigorífico,143510.50999999998,107.11246320844386
+2021,Frigorífico (2 Ejes),86060.9,107.04693845972434
+2021,Frigorífico (Internacional),201749.78,107.54753139631713
 2021,Furgoneta,50614.43,106.95829498760081
-2021,Portavehículos (Tren De Carretera),159895.78,107.04546452664705
-2021,Portavehículos Industriales (Tren De Carretera),164209.85,107.161782266324
-2021,Rígido De 2 Ejes De Carga General,86904.42,107.15910986752033
-2021,Rígido De 2 Ejes De Distribución,68044.78,106.9871338298672
-2021,Rígido De 3 Ejes De Animales Vivos,109721.67,107.02777031831107
-2021,Rígido De 3 Ejes De Carga General,98778.67,107.00809548049915
+2021,Portacontenedores,116452.18,107.05500906480168
+2021,Portavehículos,159895.78,107.04546452664705
+2021,Portavehículos Industriales,164209.85,107.161782266324
+2021,Rígido Animales Vivos (3 Ejes),109721.67,107.02777031831107
+2021,Rígido Carga General (2 Ejes),86904.42,107.15910986752033
+2021,Rígido Carga General (3 Ejes),98778.67,107.00809548049915
+2021,Rígido Distribución (2 Ejes),68044.78,106.9871338298672
 2021,Tren De Carretera,131468.05,107.32565832332743
-2021,Volquete Articulado De Graneles,131143.22,107.0093045381961
-2021,Volquete Articulado De Obra,101856.47,106.532735058674
-2022,Articulado De Carga General,156679.74,125.68771380503901
-2022,Articulado De Carga General En Transporte Internacional,218042.45,122.99337025574934
-2022,Articulado Portacontenedores,135898.63999999998,124.93222657655889
-2022,Cisterna Articulado De Mercancías Peligrosas (Gases Glp),165934.07,121.5329089172997
-2022,Cisterna Articulado De Mercancías Peligrosas (Químicos),170836.69999999998,121.83400373995681
-2022,Cisterna Articulado De Productos De Alimentación,174692.65,124.2324218305532
-2022,Cisterna Articulado De Productos Pulverulentos,178467.24,123.95282482695336
-2022,Frigorífico Articulado,170945.25,127.58903024791175
-2022,Frigorífico Articulado En Transporte Internacional,233804.11000000002,124.63485640882969
-2022,Frigorífico De 2 Ejes,99230.17,123.42754841441335
+2021,Volquete Graneles,131143.22,107.0093045381961
+2021,Volquete Obra,101856.47,106.532735058674
+2022,Articulado Carga General,156679.74,125.68771380503901
+2022,Articulado Carga General-Internacional,218042.45,122.99337025574934
+2022,Cisterna Alimentación,174692.65,124.2324218305532
+2022,Cisterna M.Peligrosas-Gases Glp,165934.07,121.5329089172997
+2022,Cisterna M.Peligrosas-Químicos,170836.69999999998,121.83400373995681
+2022,Cisterna P. Pulverulentos,178467.24,123.95282482695336
+2022,Frigorífico,170945.25,127.58903024791175
+2022,Frigorífico (2 Ejes),99230.17,123.42754841441335
+2022,Frigorífico (Internacional),233804.11000000002,124.63485640882969
 2022,Furgoneta,54248.75,114.63833150365636
-2022,Portavehículos (Tren De Carretera),187564.40999999997,125.56878860165341
-2022,Portavehículos Industriales (Tren De Carretera),194552.15,126.96287791350645
-2022,Rígido De 2 Ejes De Carga General,99464.35,122.6463649323187
-2022,Rígido De 2 Ejes De Distribución,75768.08,119.13051544868077
-2022,Rígido De 3 Ejes De Animales Vivos,126436.59,123.33230358552206
-2022,Rígido De 3 Ejes De Carga General,113257.8,122.69350737675731
+2022,Portacontenedores,135898.63999999998,124.93222657655889
+2022,Portavehículos,187564.40999999997,125.56878860165341
+2022,Portavehículos Industriales,194552.15,126.96287791350645
+2022,Rígido Animales Vivos (3 Ejes),126436.59,123.33230358552206
+2022,Rígido Carga General (2 Ejes),99464.35,122.6463649323187
+2022,Rígido Carga General (3 Ejes),113257.8,122.69350737675731
+2022,Rígido Distribución (2 Ejes),75768.08,119.13051544868077
 2022,Tren De Carretera,156421.74,127.69692880954999
-2022,Volquete Articulado De Graneles,154406.72,125.9916885007397
-2022,Volquete Articulado De Obra,115797.79,121.11410578483594
-2023,Articulado De Carga General,155355.25,124.62521446684993
-2023,Articulado De Carga General En Transporte Internacional,220515.53,124.38838505269409
-2023,Articulado Portacontenedores,134778.88,123.90282620852456
-2023,Cisterna Articulado De Mercancías Peligrosas (Gases Glp),167325.52,122.55203034373714
-2023,Cisterna Articulado De Mercancías Peligrosas (Químicos),172237.22,122.83279942564897
-2023,Cisterna Articulado De Productos De Alimentación,174227.04,123.90130396195072
-2023,Cisterna Articulado De Productos Pulverulentos,178145.02,123.7290298087991
-2023,Frigorífico Articulado,168499.15,125.76332566185617
-2023,Frigorífico Articulado En Transporte Internacional,235041.9,125.29468988615515
-2023,Frigorífico De 2 Ejes,98685.45,122.74999788545327
+2022,Volquete Graneles,154406.72,125.9916885007397
+2022,Volquete Obra,115797.79,121.11410578483594
+2023,Articulado Carga General,155355.25,124.62521446684993
+2023,Articulado Carga General-Internacional,220515.53,124.38838505269409
+2023,Cisterna Alimentación,174227.04,123.90130396195072
+2023,Cisterna M.Peligrosas-Gases Glp,167325.52,122.55203034373714
+2023,Cisterna M.Peligrosas-Químicos,172237.22,122.83279942564897
+2023,Cisterna P. Pulverulentos,178145.02,123.7290298087991
+2023,Frigorífico,168499.15,125.76332566185617
+2023,Frigorífico (2 Ejes),98685.45,122.74999788545327
+2023,Frigorífico (Internacional),235041.9,125.29468988615515
 2023,Furgoneta,55210.47,116.67063595626949
-2023,Portavehículos (Tren De Carretera),185792.30000000002,124.38241371332109
-2023,Portavehículos Industriales (Tren De Carretera),191992.6,125.29253999041737
-2023,Rígido De 2 Ejes De Carga General,98908.11,121.96048286472411
-2023,Rígido De 2 Ejes De Distribución,76119.3,119.68274033858013
-2023,Rígido De 3 Ejes De Animales Vivos,125899.91,122.80880021764193
-2023,Rígido De 3 Ejes De Carga General,112923.21,122.33104209283701
+2023,Portacontenedores,134778.88,123.90282620852456
+2023,Portavehículos,185792.30000000002,124.38241371332109
+2023,Portavehículos Industriales,191992.6,125.29253999041737
+2023,Rígido Animales Vivos (3 Ejes),125899.91,122.80880021764193
+2023,Rígido Carga General (2 Ejes),98908.11,121.96048286472411
+2023,Rígido Carga General (3 Ejes),112923.21,122.33104209283701
+2023,Rígido Distribución (2 Ejes),76119.3,119.68274033858013
 2023,Tren De Carretera,153423.7,125.24943973003855
-2023,Volquete Articulado De Graneles,152952.32,124.80493761479718
-2023,Volquete Articulado De Obra,117039.72,122.41305321204817
-2024,Articulado De Carga General,156196.01,125.2996679875076
-2024,Articulado De Carga General En Transporte Internacional,223091.22999999998,125.84128573220734
-2024,Articulado Portacontenedores,135851.64,124.88901926669107
-2024,Cisterna Articulado De Mercancías Peligrosas (Gases Glp),169686.53999999998,124.28128117578099
-2024,Cisterna Articulado De Mercancías Peligrosas (Químicos),174512.22,124.45523979419042
-2024,Cisterna Articulado De Productos De Alimentación,175699.87,124.9487048562911
-2024,Cisterna Articulado De Productos Pulverulentos,179813.16,124.88762152124355
-2024,Frigorífico Articulado,169011.32,126.14559585434219
-2024,Frigorífico Articulado En Transporte Internacional,237254.19,126.47400382757685
-2024,Frigorífico De 2 Ejes,100068.53,124.47034335761164
+2023,Volquete Graneles,152952.32,124.80493761479718
+2023,Volquete Obra,117039.72,122.41305321204817
+2024,Articulado Carga General,156196.01,125.2996679875076
+2024,Articulado Carga General-Internacional,223091.22999999998,125.84128573220734
+2024,Cisterna Alimentación,175699.87,124.9487048562911
+2024,Cisterna M.Peligrosas-Gases Glp,169686.53999999998,124.28128117578099
+2024,Cisterna M.Peligrosas-Químicos,174512.22,124.45523979419042
+2024,Cisterna P. Pulverulentos,179813.16,124.88762152124355
+2024,Frigorífico,169011.32,126.14559585434219
+2024,Frigorífico (2 Ejes),100068.53,124.47034335761164
+2024,Frigorífico (Internacional),237254.19,126.47400382757685
 2024,Furgoneta,57211.88,120.90001088296793
-2024,Portavehículos (Tren De Carretera),187026.16,125.20844625064538
-2024,Portavehículos Industriales (Tren De Carretera),192573.92,125.6719038791674
-2024,Rígido De 2 Ejes De Carga General,100321.03,123.70271012444249
-2024,Rígido De 2 Ejes De Distribución,77901.96,122.48562520341694
-2024,Rígido De 3 Ejes De Animales Vivos,127374.49,124.24717615154795
-2024,Rígido De 3 Ejes De Carga General,114430.27,123.96365792351018
+2024,Portacontenedores,135851.64,124.88901926669107
+2024,Portavehículos,187026.16,125.20844625064538
+2024,Portavehículos Industriales,192573.92,125.6719038791674
+2024,Rígido Animales Vivos (3 Ejes),127374.49,124.24717615154795
+2024,Rígido Carga General (2 Ejes),100321.03,123.70271012444249
+2024,Rígido Carga General (3 Ejes),114430.27,123.96365792351018
+2024,Rígido Distribución (2 Ejes),77901.96,122.48562520341694
 2024,Tren De Carretera,153674.75,125.45438767383226
-2024,Volquete Articulado De Graneles,153663.87,125.38554308295751
-2024,Volquete Articulado De Obra,118913.72,124.3730891871802
+2024,Volquete Graneles,153663.87,125.38554308295751
+2024,Volquete Obra,118913.72,124.3730891871802
