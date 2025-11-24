@@ -10,19 +10,19 @@
 ## 📊 Vista Previa del Dashboard
 
 <p align="center">
-  <img src="../08_Transporte_Carretera_MITMA/images/dashboard/00.portada/00.portada.png" alt="Dashboard Portada" width="800"/>
+  <img src="images/dashboard/00.portada/00.portada.png" alt="Portada" width="800"/>
 </p>
 <p align="center">
-  <img src="images/dashboard/01.panorama_general/01.Panorama_General.png" alt="Concentración Geográfica" width="700"/>
+  <img src="images/dashboard/01.panorama_general/01.Panorama_General.png" alt="Panorama General" width="700"/>
 </p>
 <p align="center">
-  <img src="images/dashboard/02.analisis_economico/02.Analisis_Economico.png" alt="Margin Squeeze" width="700"/>
+  <img src="images/dashboard/02.analisis_economico/02.Analisis_Economico.png" alt="Análisis Económico" width="700"/>
 </p>
 <p align="center">
-  <img src="images/dashboard/03.eficiencia_e_infraestructura/03.Eficiencia_e_Infraestructura.png" alt="Mapa Saturación" width="700"/>
+  <img src="images/dashboard/03.eficiencia_e_infraestructura/03.Eficiencia_e_Infraestructura.png" alt="Eficiencia e Infraestructura" width="700"/>
 </p>
 <p align="center">
-  <img src="images/dashboard/04.competitividad_internacional/04.Competitividad_Internacional.png" alt="LPI España" width="700"/>
+  <img src="images/dashboard/04.competitividad_internacional/04.Competitividad_Internacional.png" alt="Competitividad Internacional" width="700"/>
 </p>
 
 > Dashboard interactivo desarrollado en Tableau para analizar **8 años de datos oficiales** (2017-2024) del Observatorio del Transporte y la Logística en España (MITMA). Incluye análisis de demanda, costes operativos, saturación de infraestructura logística y competitividad internacional.
