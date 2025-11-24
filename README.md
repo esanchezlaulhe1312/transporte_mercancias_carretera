@@ -1,9 +1,21 @@
 # 🚛 Análisis del Transporte de Mercancías por Carretera en España (2017–2024)
 
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![pandas](https://img.shields.io/badge/pandas-data--analysis-brightgreen?logo=pandas)
+![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+
+---
+
+## Executive Summary
+
+- Sector analizado: transporte de mercancías por carretera en España (2017–2024)
+- Stack: Python (ETL, KPIs) + Power BI (BI) + informes en Word/PPT.
+- Resultado clave: se detecta un "margin squeeze" del -3,79% por crecimiento desigual de costes vs. precios, y zonas de alta saturación logística (Extremadura > 250 Ton/m²).
+- Rol: diseño de KPIs, modelado de datos, visualización, interpretación de negocio y documentación completa.
 
 ---
 
@@ -63,9 +75,9 @@ Este proyecto transforma microdatos administrativos del **Ministerio de Transpor
 
 **Drivers de coste identificados:**
 
-* **Combustible:** 27,64% del coste total
-* **Salarios:** 23,23% del coste total
-* **Combinado:** 50,9% del coste operativo total
+- **Combustible:** 27,64% del coste total
+- **Salarios:** 23,23% del coste total
+- **Combinado:** 50,9% del coste operativo total
 
 ⚠️ **Riesgo sistémico:** Este margen negativo es insostenible y previsiblemente conducirá a concentración empresarial y reducción de inversión en renovación de flotas.
 
@@ -79,9 +91,9 @@ Este proyecto transforma microdatos administrativos del **Ministerio de Transpor
 
 **Disparidad territorial extrema:**
 
-* **Extremadura:** 253 Ton/m² (ratio crítico - infraestructura insuficiente)
-* **Madrid:** 33 Ton/m² (sobrecapacidad instalada)
-* **País Vasco/Cornisa Cantábrica:** >100 Ton/m² (demanda industrial alta + orografía limitante)
+- **Extremadura:** 253 Ton/m² (ratio crítico - infraestructura insuficiente)
+- **Madrid:** 33 Ton/m² (sobrecapacidad instalada)
+- **País Vasco/Cornisa Cantábrica:** >100 Ton/m² (demanda industrial alta + orografía limitante)
 
 <p align="center">
   <img src="images/dashboard/03.eficiencia_e_infraestructura/03.Eficiencia_e_Infraestructura_Insight02.png" alt="Top 10 Saturación" width="700"/>
@@ -105,15 +117,15 @@ Este proyecto transforma microdatos administrativos del **Ministerio de Transpor
 
 **Tres comunidades concentran el 43,5% del volumen total:**
 
-* Cataluña: 15,28%
-* Andalucía: 14,11%
-* Comunitat Valenciana: 14,11%
+- Cataluña: 15,28%
+- Andalucía: 14,11%
+- Comunitat Valenciana: 14,11%
 
 Esta concentración define un **"Triángulo de Oro"** logístico en el arco mediterráneo correlacionado con:
 
-* Puertos de alta capacidad (Barcelona, Valencia, Algeciras)
-* Densidad industrial (cinturón industrial catalán, polo químico Tarragona)
-* Producción agroindustrial (Almería, Murcia, Valencia)
+- Puertos de alta capacidad (Barcelona, Valencia, Algeciras)
+- Densidad industrial (cinturón industrial catalán, polo químico Tarragona)
+- Producción agroindustrial (Almería, Murcia, Valencia)
 
 <p align="center">
   <img src="images/dashboard/01.panorama_general/01.Panorama_General_Insight03.png" alt="Panorama General" width="700"/>
@@ -127,13 +139,7 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
   <img src="images/dashboard/01.panorama_general/01.Panorama_General_Insight01.png" alt="Distribución Modal" width="700"/>
 </p>
 
-**Hallazgo:** Solo el **1,14%** del tráfico se realiza por ferrocarril (medido en número de operaciones). Esta ratio sitúa a España **por debajo de la media UE** (85% carretera / 15% ferrocarril).
-
-**Causas identificadas:**
-
-* Déficit histórico en infraestructura ferroviaria de mercancías
-* Baja interoperabilidad de anchos de vía (Ibérico vs. UIC)
-* Escasa inversión en terminales intermodales
+**Hallazgo:** Solo el **1,38%** del tráfico se realiza por ferrocarril.
 
 ---
 
@@ -145,14 +151,14 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
 
 **Francia concentra el 41% del volumen total de comercio exterior:**
 
-* 29.000 toneladas expedidas (desde España)
-* 23.000 toneladas recibidas (hacia España)
+- 29.000 toneladas expedidas (desde España)
+- 23.000 toneladas recibidas (hacia España)
 
 **Comparativa con otros socios:**
 
-* Portugal: 24.000 toneladas (19%)
-* Alemania: 13.000 toneladas (11%)
-* Italia: 10.000 toneladas (8%)
+- Portugal: 24.000 toneladas (19%)
+- Alemania: 13.000 toneladas (11%)
+- Italia: 10.000 toneladas (8%)
 
 ⚠️ **Riesgo sistémico:** Hiperconcentración genera vulnerabilidad ante cambios regulatorios franceses o conflictos laborales en infraestructuras de paso.
 
@@ -174,13 +180,13 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
 
 **Fortalezas:**
 
-* **Puntualidad:** 4,10/5,00 - Supera a Francia (3,80) e Italia (3,40)
-* **Trazabilidad:** 4,00/5,00 - En línea con estándares UE
+- **Puntualidad:** 4,10/5,00 - Supera a Francia (3,80) e Italia (3,40)
+- **Trazabilidad:** 4,00/5,00 - En línea con estándares UE
 
 **Debilidades:**
 
-* **Aduanas:** 3,70/5,00 - Rezago respecto a Alemania (4,30) y Francia (4,10)
-* **Transporte Internacional:** 3,70/5,00 - Penalizado por conectividad ferroviaria limitada
+- **Aduanas:** 3,70/5,00 - Rezago respecto a Alemania (4,30) y Francia (4,10)
+- **Transporte Internacional:** 3,70/5,00 - Penalizado por conectividad ferroviaria limitada
 
 ---
 
@@ -189,7 +195,7 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
 ### ✅ Alcance (Lo que SÍ incluye)
 
 1. **Ventana Temporal:** Serie histórica completa **2017-2024**, permitiendo análisis pre y post-pandemia
-2. **Modo de Transporte:** Foco principal en **Transporte por Carretera** (95% del movimiento interior)
+2. **Modo de Transporte:** Foco principal en **Transporte por Carretera** (98% del movimiento interior)
 3. **Granularidad Geográfica:**
     * *Flujos (Demanda):* Nivel Comunidad Autónoma (CCAA)
     * *Infraestructura (Oferta):* Nivel Provincia
@@ -338,7 +344,7 @@ git clone https://github.com/esanchezlaulhe1312/transporte_mercancias_carretera.
 cd transporte_mercancias_carretera
 ```
 
-### 2️⃣ Crear Entorno Virtual (Python 3.13+)
+### 2️⃣ Crear Entorno Virtual (Python 3.10–3.12 recomendado)
 
 ```bash
 # Windows
@@ -404,10 +410,24 @@ Abre el archivo `dashboards/transporte_mercancias_carretera.pbix` con Power BI D
 
 ---
 
+### Cómo citar
+
+Si deseas referenciar este trabajo, puedes citarlo como:
+
+> Sánchez-Laulhé Dégano, E. (2025). *Análisis del Transporte de Mercancías por Carretera en España (2017–2024)*. Repositorio GitHub. URL: https://github.com/esanchezlaulhe1312/transporte_mercancias_carretera
+
+---
+
 ## 🧾 Licencia de los Datos
 
 Los datos utilizados proceden del **Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA)** – **Observatorio del Transporte y la Logística en España (OTLE)**, y se reutilizan conforme a su **Licencia de datos abiertos (LDA)**:  
 👉 [https://www.transportes.gob.es/el-ministerio/buen-gobierno/licencia_datos](https://www.transportes.gob.es/el-ministerio/buen-gobierno/licencia_datos)
+
+---
+
+## 🧾 Licencia del código
+
+License: MIT
 
 ---
 
