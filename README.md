@@ -167,47 +167,16 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
 
 **Francia concentra el 41% del volumen total de comercio exterior:**
 
-- 29.000 toneladas expedidas (desde España)
-- 23.000 toneladas recibidas (hacia España)
+* 29.000 toneladas expedidas (desde España)
+* 23.000 toneladas recibidas (hacia España)
 
 **Comparativa con otros socios:**
 
-- Portugal: 24.000 toneladas (19%)
-- Alemania: 13.000 toneladas (11%)
-- Italia: 10.000 toneladas (8%)
+* Portugal: 24.000 toneladas (19%)
+* Alemania: 13.000 toneladas (11%)
+* Italia: 10.000 toneladas (8%)
 
 ⚠️ **Riesgo sistémico:** Hiperconcentración genera vulnerabilidad ante cambios regulatorios franceses o conflictos laborales en infraestructuras de paso.
-
----
-
-## 🎨 Decisiones de Diseño UX - Sistema de Clasificación de Vehículos
-
-<p align="center">
-  <img src="images/dashboard/02.analisis_economico/02.Analisis_Economico_Insight02.png" alt="Clasificación Vehículos" width="700"/>
-</p>
-
-**Desafío:** El dataset CO614 contenía **21 tipos de vehículos** diferentes con nomenclaturas técnicas extensas. Presentar 21 colores habría generado saturación visual.
-
-**Solución implementada:** Sistema de clasificación jerárquico de dos niveles:
-
-### Nivel 1 - Categorías Macro (3 colores)
-
-- 🟣 **Morado:** Vehículos especializados (ADR, ATP, construcción)
-- 🟢 **Verde:** Vehículos internacionales (alto kilometraje: 150.000 km/año)
-- 🔵 **Azul:** Carga general (polivalentes)
-
-### Nivel 2 - Subgrupos Detallados (9 categorías)
-
-Para análisis granular, cada categoría macro se subdivide manteniendo coherencia cromática con variaciones tonales.
-
-**Paleta con significado semántico:**
-
-- 🔴 **Rojo:** Mercancías Peligrosas (ADR) - Convención internacional de seguridad
-- 🔵 **Azul claro:** Refrigerados (ATP) - Asociación con cadena de frío
-- 🟤 **Beige:** Cisternas de granel - Materiales a granel
-- ⚫ **Gris oscuro:** Industriales - Obra civil y construcción
-
-✅ **Resultado:** Accesibilidad mejorada (contraste > 4.5:1 según WCAG 2.1 AA) y narrativa visual coherente entre páginas del dashboard.
 
 ---
 
@@ -225,9 +194,8 @@ Para análisis granular, cada categoría macro se subdivide manteniendo coherenc
 ### ⚠️ Limitaciones (Lo que NO incluye)
 
 1. **Ceguera de "Última Milla":** Datos oficiales no trazan distribución capilar urbana (e-commerce B2C)
-2. **Asimetría Geo-Espacial:** No es posible calcular centro de gravedad exacto dentro de una provincia
-3. **Anonimato de Operadores:** Costes son medias sectoriales, sin datos financieros de empresas específicas
-4. **Efecto 2020:** Año con anomalías estadísticas por COVID-19 (debe tratarse como outlier)
+2. **Anonimato de Operadores:** Costes son medias sectoriales, sin datos financieros de empresas específicas
+3. **Efecto 2020:** Año con anomalías estadísticas por COVID-19 (debe tratarse como outlier)
 
 ---
 
@@ -286,10 +254,12 @@ Como resultado del pipeline ETL, se crearon **7 datasets maestros** listos para 
 **La realidad:** CO597 registra **flujos de mercancías** (toneladas expedidas y recibidas) entre España y Europa, NO clasifica vehículos por ámbito operativo.
 
 **Impacto:** Afectó a dos páginas del dashboard:
-- **Panorama General:** Métrica "% Transporte Internacional" computaba incorrectamente (doble contabilidad)
-- **Competitividad Internacional:** Confusión entre balanza comercial y operaciones de vehículos
+
+**Panorama General:** Métrica "% Transporte Internacional" computaba incorrectamente (doble contabilidad)
+**Competitividad Internacional:** Confusión entre balanza comercial y operaciones de vehículos
 
 **Solución implementada:**
+
 1. Rediseñé la página "Panorama General" eliminando la métrica errónea
 2. Reestructuré "Competitividad Internacional" para enfocarse exclusivamente en comercio exterior (expediciones vs. importaciones)
 
@@ -394,9 +364,9 @@ Abre Jupyter Lab y ejecuta los notebooks en orden:
 6. `06_analisis_parte_III.ipynb`
 7. `07_analisis_parte_IV.ipynb`
 
-### 6️⃣ Abrir Dashboard en Tableau
+### 6️⃣ Abrir Dashboard en Power BI
 
-Abre el archivo `dashboards/transporte_mercancias_carretera.twb` con Tableau Desktop y conecta a los CSVs de la carpeta `data/processed/`.
+Abre el archivo `dashboards/transporte_mercancias_carretera.pbix` con Power BI Desktop y conecta a los CSVs de la carpeta `data/processed/`.
 
 ---
 
@@ -409,7 +379,7 @@ Abre el archivo `dashboards/transporte_mercancias_carretera.twb` con Tableau Des
   - matplotlib 3.8.2 (visualizaciones exploratorias)
   * seaborn 0.13.0 (visualizaciones estadísticas)
 
-* **Tableau Desktop 2024:** Visualización interactiva y storytelling
+* **Power BI Desktop 2024:** Visualización interactiva y storytelling
 
 * **Git/GitHub:** Control de versiones
 
@@ -425,7 +395,6 @@ Abre el archivo `dashboards/transporte_mercancias_carretera.twb` con Tableau Des
 
 **Elena Sánchez-Laulhé Dégano**  
 📍 Madrid, España  
-📧 esanchezlaulhe@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/elena-sanchez-laulhe/)  
 🐙 [GitHub](https://github.com/esanchezlaulhe1312)
 
@@ -451,5 +420,5 @@ Agradecimientos especiales al equipo del OTLE por mantener datasets de calidad y
 ---
 
 <p align="center">
-  <strong>📚 Proyecto educativo y de investigación | 2024</strong>
+  <strong>📚 Proyecto educativo y de investigación | 2025</strong>
 </p>
