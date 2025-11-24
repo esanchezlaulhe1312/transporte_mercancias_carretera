@@ -55,6 +55,10 @@ Este proyecto transforma microdatos administrativos del **Ministerio de Transpor
   <img src="images/dashboard/02.analisis_economico/02.Analisis_Economico_Insight01.png" alt="Margin Squeeze" width="700"/>
 </p>
 
+<p align="center">
+  <img src="images/dashboard/02.analisis_economico/02.Analisis_Economico_Insight02.png" alt="Margin Squeeze" width="700"/>
+</p>
+
 **Descubrimiento crítico:** Los costes operativos crecieron un **24,65%** desde 2017, mientras que los precios de mercado solo aumentaron un **23,27%**, generando un margen económico negativo del **-3,79%**.
 
 **Drivers de coste identificados:**
@@ -88,7 +92,7 @@ Este proyecto transforma microdatos administrativos del **Ministerio de Transpor
 **Insight adicional:** Las operaciones en vacío representan el **39,4%** del total nacional, evidenciando ineficiencias en la planificación de retornos con impacto directo en costes y emisiones.
 
 <p align="center">
-  <img src="images/dashboard/03.eficiencia_e_infraestructura/03.Tooltip.png" alt="Tooltip Saturación" width="500"/>
+  <img src="images/dashboard/03.eficiencia_e_infraestructura/tooltip/03.Tooltip.png" alt="Tooltip Saturación" width="500"/>
 </p>
 
 ---
@@ -112,7 +116,7 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
 * Producción agroindustrial (Almería, Murcia, Valencia)
 
 <p align="center">
-  <img src="images/dashboard/01.panorama_general/01.Panorama_General_Info_Viz.png" alt="Panorama General" width="700"/>
+  <img src="images/dashboard/01.panorama_general/01.Panorama_General_Insight03.png" alt="Panorama General" width="700"/>
 </p>
 
 ---
@@ -120,7 +124,7 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
 ### 4️⃣ Dependencia Modal - 98,86% Carretera
 
 <p align="center">
-  <img src="images/dashboard/01.panorama_general/01.Panorama_General_Info.png" alt="Distribución Modal" width="700"/>
+  <img src="images/dashboard/01.panorama_general/01.Panorama_General_Insight01.png" alt="Distribución Modal" width="700"/>
 </p>
 
 **Hallazgo:** Solo el **1,14%** del tráfico se realiza por ferrocarril (medido en número de operaciones). Esta ratio sitúa a España **por debajo de la media UE** (85% carretera / 15% ferrocarril).
