@@ -28,7 +28,7 @@
 > Dashboard interactivo desarrollado en Tableau para analizar **8 años de datos oficiales** (2017-2024) del Observatorio del Transporte y la Logística en España (MITMA). Incluye análisis de demanda, costes operativos, saturación de infraestructura logística y competitividad internacional.
 
 📊 **[Ver presentación completa del proyecto](reports/transporte_mercancias_carretera.pptx)**  
-📄 **[Leer informe técnico completo](reports/analisis_transporte_mercancias_carretera.pdf)**
+📄 **[Leer informe técnico completo](reports/informe_final.pdf)**
 
 ---
 
