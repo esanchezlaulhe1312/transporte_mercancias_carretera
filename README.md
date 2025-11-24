@@ -139,32 +139,6 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
   <img src="images/dashboard/04.competitividad_internacional/04.Competitividad_Internacional_Insight01.png" alt="LPI España" width="700"/>
 </p>
 
-**Posicionamiento:** España ocupa la **posición 2 en el ranking global LPI** (Logistics Performance Index del Banco Mundial), pero con un perfil heterogéneo:
-
-**Fortalezas:**
-
-* **Puntualidad:** 4,10/5,00 - Supera a Francia (3,80) e Italia (3,40)
-* **Trazabilidad:** 4,00/5,00 - En línea con estándares UE
-
-**Debilidades:**
-
-* **Aduanas:** 3,70/5,00 - Rezago respecto a Alemania (4,30) y Francia (4,10)
-* **Transporte Internacional:** 3,70/5,00 - Penalizado por conectividad ferroviaria limitada
-
-<p align="center">
-  <img src="images/dashboard/04.competitividad_internacional/04.Competitividad_Internacional_Insight02.png" alt="Benchmarking LPI" width="700"/>
-</p>
-
-💡 **Oportunidad de mejora:** Si España redujera los tiempos de despacho aduanero al nivel alemán, podría ganar 0,6 puntos en el LPI global, alcanzando potencialmente la 1ª posición europea.
-
----
-
-### 6️⃣ Dependencia Comercial de Francia - Riesgo de Concentración
-
-<p align="center">
-  <img src="images/dashboard/04.competitividad_internacional/04.Competitividad_Internacional_Info.png" alt="Flujos Internacionales" width="700"/>
-</p>
-
 **Francia concentra el 41% del volumen total de comercio exterior:**
 
 * 29.000 toneladas expedidas (desde España)
@@ -177,6 +151,32 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
 * Italia: 10.000 toneladas (8%)
 
 ⚠️ **Riesgo sistémico:** Hiperconcentración genera vulnerabilidad ante cambios regulatorios franceses o conflictos laborales en infraestructuras de paso.
+
+<p align="center">
+  <img src="images/dashboard/04.competitividad_internacional/04.Competitividad_Internacional_Insight02.png" alt="Benchmarking LPI" width="700"/>
+</p>
+
+💡 **Oportunidad de mejora:** Si España redujera los tiempos de despacho aduanero al nivel alemán, podría ganar 0,6 puntos en el LPI global, alcanzando potencialmente la 1ª posición europea.
+
+---
+
+### 6️⃣ Dependencia Comercial de Francia - Riesgo de Concentración
+
+<p align="center">
+  <img src="images/dashboard/04.competitividad_internacional/04.Competitividad_Internacional_Insight03.png" alt="Flujos Internacionales" width="700"/>
+</p>
+
+**Posicionamiento:** España ocupa la **posición 2 en el ranking global LPI** (Logistics Performance Index del Banco Mundial), pero con un perfil heterogéneo:
+
+**Fortalezas:**
+
+* **Puntualidad:** 4,10/5,00 - Supera a Francia (3,80) e Italia (3,40)
+* **Trazabilidad:** 4,00/5,00 - En línea con estándares UE
+
+**Debilidades:**
+
+* **Aduanas:** 3,70/5,00 - Rezago respecto a Alemania (4,30) y Francia (4,10)
+* **Transporte Internacional:** 3,70/5,00 - Penalizado por conectividad ferroviaria limitada
 
 ---
 
@@ -354,7 +354,7 @@ Visita [Portal OTLE](https://otle.transportes.gob.es/) y descarga los CSVs corre
 
 ### 5️⃣ Ejecutar Notebooks Secuencialmente
 
-Abre Jupyter Lab y ejecuta los notebooks en orden:
+Abre Jupyter y ejecuta los notebooks en orden:
 
 1. `01_exploracion_CO280.ipynb`
 2. `02_limpieza_parte_I.ipynb`
@@ -379,7 +379,7 @@ Abre el archivo `dashboards/transporte_mercancias_carretera.pbix` con Power BI D
   - matplotlib 3.8.2 (visualizaciones exploratorias)
   * seaborn 0.13.0 (visualizaciones estadísticas)
 
-* **Power BI Desktop 2024:** Visualización interactiva y storytelling
+* **Power BI Desktop:** Visualización interactiva y storytelling
 
 * **Git/GitHub:** Control de versiones
 
@@ -408,12 +408,6 @@ Los datos utilizados proceden del **Ministerio de Transportes, Movilidad y Agend
 ---
 
 ## 🏆 Reconocimientos
-
-Este proyecto es el resultado de un proceso de aprendizaje intensivo en:
-- Ingeniería de datos aplicada al sector logístico
-- Diseño de dashboards con principios UX/UI
-- Narrativa visual con datos (data storytelling)
-- Validación de asunciones conceptuales en datasets complejos
 
 Agradecimientos especiales al equipo del OTLE por mantener datasets de calidad y acceso público.
 
