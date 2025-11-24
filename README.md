@@ -1,7 +1,7 @@
 # 🚛 Análisis del Transporte de Mercancías por Carretera en España (2017–2024)
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-2024-orange?logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![pandas](https://img.shields.io/badge/pandas-data--analysis-brightgreen?logo=pandas)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
@@ -10,7 +10,19 @@
 ## 📊 Vista Previa del Dashboard
 
 <p align="center">
-  <img src="images/dashboard/00.portada/portada.png" alt="Dashboard Portada" width="800"/>
+  <img src="../08_Transporte_Carretera_MITMA/images/dashboard/00.portada/00.portada.png" alt="Dashboard Portada" width="800"/>
+</p>
+<p align="center">
+  <img src="images/dashboard/01.panorama_general/01.Panorama_General.png" alt="Concentración Geográfica" width="700"/>
+</p>
+<p align="center">
+  <img src="images/dashboard/02.analisis_economico/02.Analisis_Economico.png" alt="Margin Squeeze" width="700"/>
+</p>
+<p align="center">
+  <img src="images/dashboard/03.eficiencia_e_infraestructura/03.Eficiencia_e_Infraestructura.png" alt="Mapa Saturación" width="700"/>
+</p>
+<p align="center">
+  <img src="images/dashboard/04.competitividad_internacional/04.Competitividad_Internacional.png" alt="LPI España" width="700"/>
 </p>
 
 > Dashboard interactivo desarrollado en Tableau para analizar **8 años de datos oficiales** (2017-2024) del Observatorio del Transporte y la Logística en España (MITMA). Incluye análisis de demanda, costes operativos, saturación de infraestructura logística y competitividad internacional.
@@ -46,9 +58,10 @@ Este proyecto transforma microdatos administrativos del **Ministerio de Transpor
 **Descubrimiento crítico:** Los costes operativos crecieron un **24,65%** desde 2017, mientras que los precios de mercado solo aumentaron un **23,27%**, generando un margen económico negativo del **-3,79%**.
 
 **Drivers de coste identificados:**
-- **Combustible:** 27,64% del coste total
-- **Salarios:** 23,23% del coste total
-- **Combinado:** 50,9% del coste operativo total
+
+* **Combustible:** 27,64% del coste total
+* **Salarios:** 23,23% del coste total
+* **Combinado:** 50,9% del coste operativo total
 
 ⚠️ **Riesgo sistémico:** Este margen negativo es insostenible y previsiblemente conducirá a concentración empresarial y reducción de inversión en renovación de flotas.
 
@@ -61,9 +74,10 @@ Este proyecto transforma microdatos administrativos del **Ministerio de Transpor
 </p>
 
 **Disparidad territorial extrema:**
-- **Extremadura:** 253 Ton/m² (ratio crítico - infraestructura insuficiente)
-- **Madrid:** 33 Ton/m² (sobrecapacidad instalada)
-- **País Vasco/Cornisa Cantábrica:** >100 Ton/m² (demanda industrial alta + orografía limitante)
+
+* **Extremadura:** 253 Ton/m² (ratio crítico - infraestructura insuficiente)
+* **Madrid:** 33 Ton/m² (sobrecapacidad instalada)
+* **País Vasco/Cornisa Cantábrica:** >100 Ton/m² (demanda industrial alta + orografía limitante)
 
 <p align="center">
   <img src="images/dashboard/03.eficiencia_e_infraestructura/03.Eficiencia_e_Infraestructura_Insight02.png" alt="Top 10 Saturación" width="700"/>
@@ -86,14 +100,16 @@ Este proyecto transforma microdatos administrativos del **Ministerio de Transpor
 </p>
 
 **Tres comunidades concentran el 43,5% del volumen total:**
-- Cataluña: 15,28%
-- Andalucía: 14,11%
-- Comunitat Valenciana: 14,11%
+
+* Cataluña: 15,28%
+* Andalucía: 14,11%
+* Comunitat Valenciana: 14,11%
 
 Esta concentración define un **"Triángulo de Oro"** logístico en el arco mediterráneo correlacionado con:
-- Puertos de alta capacidad (Barcelona, Valencia, Algeciras)
-- Densidad industrial (cinturón industrial catalán, polo químico Tarragona)
-- Producción agroindustrial (Almería, Murcia, Valencia)
+
+* Puertos de alta capacidad (Barcelona, Valencia, Algeciras)
+* Densidad industrial (cinturón industrial catalán, polo químico Tarragona)
+* Producción agroindustrial (Almería, Murcia, Valencia)
 
 <p align="center">
   <img src="images/dashboard/01.panorama_general/01.Panorama_General_Info_Viz.png" alt="Panorama General" width="700"/>
@@ -110,9 +126,10 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
 **Hallazgo:** Solo el **1,14%** del tráfico se realiza por ferrocarril (medido en número de operaciones). Esta ratio sitúa a España **por debajo de la media UE** (85% carretera / 15% ferrocarril).
 
 **Causas identificadas:**
-- Déficit histórico en infraestructura ferroviaria de mercancías
-- Baja interoperabilidad de anchos de vía (Ibérico vs. UIC)
-- Escasa inversión en terminales intermodales
+
+* Déficit histórico en infraestructura ferroviaria de mercancías
+* Baja interoperabilidad de anchos de vía (Ibérico vs. UIC)
+* Escasa inversión en terminales intermodales
 
 ---
 
@@ -125,12 +142,14 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
 **Posicionamiento:** España ocupa la **posición 2 en el ranking global LPI** (Logistics Performance Index del Banco Mundial), pero con un perfil heterogéneo:
 
 **Fortalezas:**
-- **Puntualidad:** 4,10/5,00 - Supera a Francia (3,80) e Italia (3,40)
-- **Trazabilidad:** 4,00/5,00 - En línea con estándares UE
+
+* **Puntualidad:** 4,10/5,00 - Supera a Francia (3,80) e Italia (3,40)
+* **Trazabilidad:** 4,00/5,00 - En línea con estándares UE
 
 **Debilidades:**
-- **Aduanas:** 3,70/5,00 - Rezago respecto a Alemania (4,30) y Francia (4,10)
-- **Transporte Internacional:** 3,70/5,00 - Penalizado por conectividad ferroviaria limitada
+
+* **Aduanas:** 3,70/5,00 - Rezago respecto a Alemania (4,30) y Francia (4,10)
+* **Transporte Internacional:** 3,70/5,00 - Penalizado por conectividad ferroviaria limitada
 
 <p align="center">
   <img src="images/dashboard/04.competitividad_internacional/04.Competitividad_Internacional_Insight02.png" alt="Benchmarking LPI" width="700"/>
@@ -147,10 +166,12 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
 </p>
 
 **Francia concentra el 41% del volumen total de comercio exterior:**
+
 - 29.000 toneladas expedidas (desde España)
 - 23.000 toneladas recibidas (hacia España)
 
 **Comparativa con otros socios:**
+
 - Portugal: 24.000 toneladas (19%)
 - Alemania: 13.000 toneladas (11%)
 - Italia: 10.000 toneladas (8%)
@@ -170,14 +191,17 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
 **Solución implementada:** Sistema de clasificación jerárquico de dos niveles:
 
 ### Nivel 1 - Categorías Macro (3 colores)
+
 - 🟣 **Morado:** Vehículos especializados (ADR, ATP, construcción)
 - 🟢 **Verde:** Vehículos internacionales (alto kilometraje: 150.000 km/año)
 - 🔵 **Azul:** Carga general (polivalentes)
 
 ### Nivel 2 - Subgrupos Detallados (9 categorías)
+
 Para análisis granular, cada categoría macro se subdivide manteniendo coherencia cromática con variaciones tonales.
 
 **Paleta con significado semántico:**
+
 - 🔴 **Rojo:** Mercancías Peligrosas (ADR) - Convención internacional de seguridad
 - 🔵 **Azul claro:** Refrigerados (ATP) - Asociación con cadena de frío
 - 🟤 **Beige:** Cisternas de granel - Materiales a granel
@@ -268,7 +292,6 @@ Como resultado del pipeline ETL, se crearon **7 datasets maestros** listos para 
 **Solución implementada:**
 1. Rediseñé la página "Panorama General" eliminando la métrica errónea
 2. Reestructuré "Competitividad Internacional" para enfocarse exclusivamente en comercio exterior (expediciones vs. importaciones)
-3. Validé definiciones operativas con documentación oficial MITMA/OTLE
 
 **Lección aprendida:** En proyectos con datos administrativos complejos, la **validación semántica de las definiciones** es tan crítica como la limpieza técnica. Documentar asunciones conceptuales en fases tempranas previene rediseños costosos.
 
@@ -337,8 +360,8 @@ Como resultado del pipeline ETL, se crearon **7 datasets maestros** listos para 
 ### 1️⃣ Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/08_Transporte_Carretera_MITMA.git
-cd 08_Transporte_Carretera_MITMA
+git clone https://github.com/esanchezlaulhe1312/transporte_mercancias_carretera.git
+cd transporte_mercancias_carretera
 ```
 
 ### 2️⃣ Crear Entorno Virtual (Python 3.13+)
@@ -347,10 +370,6 @@ cd 08_Transporte_Carretera_MITMA
 # Windows
 python -m venv .venv
 .venv\Scripts\activate
-
-# Linux/Mac
-python3 -m venv .venv
-source .venv/bin/activate
 ```
 
 ### 3️⃣ Instalar Dependencias
@@ -366,6 +385,7 @@ Visita [Portal OTLE](https://otle.transportes.gob.es/) y descarga los CSVs corre
 ### 5️⃣ Ejecutar Notebooks Secuencialmente
 
 Abre Jupyter Lab y ejecuta los notebooks en orden:
+
 1. `01_exploracion_CO280.ipynb`
 2. `02_limpieza_parte_I.ipynb`
 3. `03_limpieza_parte_II.ipynb`
@@ -382,16 +402,22 @@ Abre el archivo `dashboards/transporte_mercancias_carretera.twb` con Tableau Des
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Python 3.13:** Limpieza y procesamiento de datos
+* **Python 3.13:** Limpieza y procesamiento de datos
+
   - pandas 2.1.4 (manipulación de datos)
   - numpy 1.26.2 (cálculos numéricos)
   - matplotlib 3.8.2 (visualizaciones exploratorias)
-  - seaborn 0.13.0 (visualizaciones estadísticas)
-- **Tableau Desktop 2024:** Visualización interactiva y storytelling
-- **Git/GitHub:** Control de versiones
-- **VS Code:** Entorno de desarrollo con extensiones Jupyter, Python
-- **Microsoft PowerPoint:** Presentación ejecutiva del proyecto
-- **Microsoft Word:** Informe técnico completo
+  * seaborn 0.13.0 (visualizaciones estadísticas)
+
+* **Tableau Desktop 2024:** Visualización interactiva y storytelling
+
+* **Git/GitHub:** Control de versiones
+
+* **VS Code:** Entorno de desarrollo con extensiones Jupyter, Python
+
+* **Microsoft PowerPoint:** Presentación ejecutiva del proyecto
+
+* **Microsoft Word:** Informe técnico completo
 
 ---
 
@@ -400,8 +426,8 @@ Abre el archivo `dashboards/transporte_mercancias_carretera.twb` con Tableau Des
 **Elena Sánchez-Laulhé Dégano**  
 📍 Madrid, España  
 📧 esanchezlaulhe@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
-🐙 [GitHub](https://github.com/tu-usuario)
+💼 [LinkedIn](https://www.linkedin.com/in/elena-sanchez-laulhe/)  
+🐙 [GitHub](https://github.com/esanchezlaulhe1312)
 
 ---
 
