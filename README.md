@@ -1,4 +1,4 @@
-# 🚛 Análisis del Transporte de Mercancías por Carretera en España (2017–2024)
+# Análisis del Transporte de Mercancías por Carretera en España (2017–2024)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -19,7 +19,7 @@
 
 ---
 
-## 📊 Vista Previa del Dashboard
+## Vista Previa del Dashboard
 
 <p align="center">
   <img src="images/dashboard/00.portada/00.portada.png" alt="Portada" width="800"/>
@@ -37,25 +37,25 @@
   <img src="images/dashboard/04.competitividad_internacional/04.Competitividad_Internacional.png" alt="Competitividad Internacional" width="700"/>
 </p>
 
-> Dashboard interactivo desarrollado en Power BI para analizar **8 años de datos oficiales** (2017-2024) del Observatorio del Transporte y la Logística en España (MITMA). Incluye análisis de demanda, costes operativos, saturación de infraestructura logística y competitividad internacional.
+> Dashboard interactivo desarrollado en Power BI para analizar **8 años de datos oficiales** (2017-2024) del Observatorio del Transporte y la Logística en España (MITMS). Incluye análisis de demanda, costes operativos, saturación de infraestructura logística y competitividad internacional.
 
-📊 **[Ver presentación completa del proyecto](reports/transporte_mercancias_carretera.pptx)**  
-📄 **[Leer informe técnico completo](reports/informe_final.pdf)**
+**[Ver presentación completa del proyecto](reports/transporte_mercancias_carretera.pptx)**  
+**[Leer informe técnico completo](reports/informe_final.pdf)**
 
 ---
 
-## 🧭 Descripción General
+## Descripción General
 
-Este proyecto transforma microdatos administrativos del **Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA)** en un ecosistema de **Inteligencia de Negocio (BI)** que permite responder preguntas estratégicas sobre el sector logístico español:
+Este proyecto transforma microdatos administrativos del **Ministerio de Transportes y Movilidad Sostenible (MITMS)** en un ecosistema de **Inteligencia de Negocio (BI)** que permite responder preguntas estratégicas sobre el sector logístico español:
 
-### 🎯 Preguntas de Negocio Resueltas
+### Preguntas de Negocio Resueltas
 
 - **Red y Flujos:** ¿Quién mueve qué y hacia dónde? (Matrices Origen-Destino entre comunidades autónomas)
 - **Economía:** ¿Cómo evolucionan los márgenes del sector? ¿Existe presión inflacionaria en costes?
 - **Infraestructura Logística:** ¿Dónde existen oportunidades de inversión en almacenes? (Ratio $Ton/m^2$)
 - **Competitividad:** ¿Cómo se posiciona España frente a Europa en desempeño logístico?
 
-🔗 **Fuente oficial de datos:** [Portal OTLE / MITMA](https://otle.transportes.gob.es/)
+**Fuente oficial de datos:** [Portal OTLE / MITMS](https://otle.transportes.gob.es/)
 
 ---
 
@@ -72,7 +72,7 @@ El objetivo no es decorativo: el icono actúa como un **narrador** que acompaña
 
 ---
 
-## 🔍 Principales Hallazgos
+## Principales Insights
 
 ### 1️⃣ "Margin Squeeze" - Crisis de Rentabilidad del Sector
 
@@ -92,7 +92,7 @@ El objetivo no es decorativo: el icono actúa como un **narrador** que acompaña
 - **Salarios:** 23,23% del coste total
 - **Combinado:** 50,9% del coste operativo total
 
-⚠️ **Riesgo sistémico:** Este margen negativo es insostenible y previsiblemente conducirá a concentración empresarial y reducción de inversión en renovación de flotas.
+**Riesgo sistémico:** Este margen negativo es insostenible y previsiblemente conducirá a concentración empresarial y reducción de inversión en renovación de flotas.
 
 ---
 
@@ -112,7 +112,7 @@ El objetivo no es decorativo: el icono actúa como un **narrador** que acompaña
   <img src="images/dashboard/03.eficiencia_e_infraestructura/03.Eficiencia_e_Infraestructura_Insight02.png" alt="Top 10 Saturación" width="700"/>
 </p>
 
-💡 **Oportunidad estratégica:** Existe potencial de arbitraje logístico deslocalizando almacenaje desde zonas saturadas hacia zonas con capacidad disponible y buena conectividad (Castilla-La Mancha, Aragón).
+**Oportunidad estratégica:** Existe potencial de arbitraje logístico deslocalizando almacenaje desde zonas saturadas hacia zonas con capacidad disponible y buena conectividad (Castilla-La Mancha, Aragón).
 
 **Insight adicional:** Las operaciones en vacío representan el **39,4%** del total nacional, evidenciando ineficiencias en la planificación de retornos con impacto directo en costes y emisiones.
 
@@ -173,13 +173,13 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
 - Alemania: 13.000 toneladas (11%)
 - Italia: 10.000 toneladas (8%)
 
-⚠️ **Riesgo sistémico:** Hiperconcentración genera vulnerabilidad ante cambios regulatorios franceses o conflictos laborales en infraestructuras de paso.
+**Riesgo sistémico:** Hiperconcentración genera vulnerabilidad ante cambios regulatorios franceses o conflictos laborales en infraestructuras de paso.
 
 <p align="center">
   <img src="images/dashboard/04.competitividad_internacional/04.Competitividad_Internacional_Insight02.png" alt="Benchmarking LPI" width="700"/>
 </p>
 
-💡 **Oportunidad de mejora:** Si España redujera los tiempos de despacho aduanero al nivel alemán, podría ganar 0,6 puntos en el LPI global, alcanzando potencialmente la 1ª posición europea.
+**Oportunidad de mejora:** Si España redujera los tiempos de despacho aduanero al nivel alemán, podría ganar 0,6 puntos en el LPI global, alcanzando potencialmente la 1ª posición europea.
 
 ---
 
@@ -203,22 +203,21 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
 
 ---
 
-## 🎯 Alcance y Limitaciones
+## Alcance y Limitaciones
 
-### ✅ Alcance (Lo que SÍ incluye)
+### Alcance (Lo que SÍ incluye)
 
 1. **Ventana Temporal:** Serie histórica completa **2017-2024**, permitiendo análisis pre y post-pandemia
 2. **Modo de Transporte:** Foco principal en **Transporte por Carretera** (98% del movimiento interior)
 3. **Granularidad Geográfica:**
-    * *Flujos (Demanda):* Nivel Comunidad Autónoma (CCAA)
-    * *Infraestructura (Oferta):* Nivel Provincia
+    - *Flujos (Demanda):* Nivel Comunidad Autónoma (CCAA)
+    - *Infraestructura (Oferta):* Nivel Provincia
 4. **Dimensión Económica:** Estructura de costes desglosada por tipo de vehículo
 
-### ⚠️ Limitaciones (Lo que NO incluye)
+### Limitaciones
 
-1. **Ceguera de "Última Milla":** Datos oficiales no trazan distribución capilar urbana (e-commerce B2C)
-2. **Anonimato de Operadores:** Costes son medias sectoriales, sin datos financieros de empresas específicas
-3. **Efecto 2020:** Año con anomalías estadísticas por COVID-19 (debe tratarse como outlier)
+1. **Análisis de emisiones**
+2. **Efecto 2020** Año con anomalías estadísticas por COVID-19 (debe tratarse como outlier)
 
 ---
 
@@ -238,7 +237,7 @@ Esta concentración define un **"Triángulo de Oro"** logístico en el arco medi
 
 ---
 
-## 🎯 KPIs Estratégicos Generados
+## KPIs Estratégicos Generados
 
 Como resultado del pipeline ETL, se crearon **7 datasets maestros** listos para visualización en Power BI:
 
@@ -254,7 +253,7 @@ Como resultado del pipeline ETL, se crearon **7 datasets maestros** listos para 
 
 ---
 
-## ⚙️ Metodología: De Notebooks a Insights
+## Metodología: De Notebooks a Insights
 
 | Fase | Notebook | Descripción Técnica | Output Generado |
 |------|----------|-------------------|-----------------|
@@ -268,9 +267,9 @@ Como resultado del pipeline ETL, se crearon **7 datasets maestros** listos para 
 
 ---
 
-## 🔧 Desafíos Técnicos Superados
+## Desafíos Técnicos Superados
 
-### 🚨 Error de Interpretación Conceptual - Tráfico Internacional
+### Error de Interpretación Conceptual - Tráfico Internacional
 
 **El problema:** Durante el desarrollo, asumí que el dataset CO597 "Tráfico Internacional" se refería a **vehículos operando rutas transfronterizas** (ej: Madrid-París). Esta interpretación errónea llevó a diseñar visualizaciones que mezclaban conceptos de "comercio exterior" con "operaciones de vehículos".
 
@@ -290,13 +289,13 @@ Como resultado del pipeline ETL, se crearon **7 datasets maestros** listos para 
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
-08_Transporte_Carretera_MITMA/
+08_Transporte_Carretera_MITMS/
 │
 ├── data/
-│   ├── raw/                    # CSVs originales MITMA (no versionados)
+│   ├── raw/                    # CSVs originales MITMS (no versionados)
 │   └── processed/              # Datasets limpios para Power BI
 │       ├── CO280_trafico_total_ccaa_clean.csv
 │       ├── CO282_flujos_ccaa_origen_destino_clean.csv
@@ -348,16 +347,16 @@ Como resultado del pipeline ETL, se crearon **7 datasets maestros** listos para 
 
 ---
 
-## 🚀 Cómo Replicar este Proyecto
+## Cómo Replicar este Proyecto
 
-### 1️⃣ Clonar el Repositorio
+### Clonar el Repositorio
 
 ```bash
 git clone https://github.com/esanchezlaulhe1312/transporte_mercancias_carretera.git
 cd transporte_mercancias_carretera
 ```
 
-### 2️⃣ Crear Entorno Virtual (Python 3.10–3.12 recomendado)
+### Crear Entorno Virtual (Python 3.10–3.12 recomendado)
 
 ```bash
 # Windows
@@ -365,17 +364,17 @@ python -m venv .venv
 .venv\Scripts\activate
 ```
 
-### 3️⃣ Instalar Dependencias
+### Instalar Dependencias
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Descargar Datos MITMA
+### Descargar Datos MITMS
 
 Visita [Portal OTLE](https://otle.transportes.gob.es/) y descarga los CSVs correspondientes a los códigos CO280, CO282, CO285, CO497, CO516, CO519, CO597 y CO614 para el período 2017-2024. Colócalos en la carpeta `data/raw/`.
 
-### 5️⃣ Ejecutar Notebooks Secuencialmente
+### Ejecutar Notebooks Secuencialmente
 
 Abre Jupyter y ejecuta los notebooks en orden:
 
@@ -387,7 +386,7 @@ Abre Jupyter y ejecuta los notebooks en orden:
 6. `06_analisis_parte_III.ipynb`
 7. `07_analisis_parte_IV.ipynb`
 
-### 6️⃣ Abrir Dashboard en Power BI
+### Abrir Dashboard en Power BI
 
 Abre el archivo `dashboards/transporte_mercancias_carretera.pbix` con Power BI Desktop y conecta a los CSVs de la carpeta `data/processed/`.
 
@@ -399,19 +398,19 @@ Abre el archivo `dashboards/transporte_mercancias_carretera.pbix` con Power BI D
 
 - **02. Análisis Económico**  
   - Filtros: Año, Tipo de Vehículo, Categoría/Subcategoría/Tipo Coste, Índice de Precios según distancia(km).
-  - Úsalo para: analizar la evolución de costes vs. precios y medir el "margin squeeze".
+  - Úsalo para: analizar la evolución de costes vs. precios y medir el "margin squeeze", determinar donde están los mayores costes y qué vehículos están asociados a un mayor coste por km
 
 - **03. Eficiencia e Infraestructura**  
-  - Filtros: Año, CCAA, Ámbito, Tipo de Envío, Tipo de instalación
-  - Úsalo para: identificar zonas de saturación logística (Ton/m²) y oportunidades de inversión.
+  - Filtros: Año, CCAA, Ámbito, Tipo de Infraestructura, Función de la Infraestructura
+  - Úsalo para: mostrar % de operaciones en vacío, determinar cuáles son las zonas de mayor saturación logística (Ton/m²) e identificar oportunidades potenciales de inversión.
 
 - **04. Competitividad Internacional**  
   - Filtros: Área, País, Tipo de Ennvío, Indicador  
-  - Úsalo para: identificar zonas de saturación logística (Ton/m²) y oportunidades de inversión.
+  - Úsalo para: Distinguir en qué países España tiene mayor volúmen de exportaciones/importaciones y revisar en qué indicadores España es fuerte y en cuáles debe mejorar respecto a la media europea
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Python 3.10–3.12 recomendado** Limpieza y procesamiento de datos
 
@@ -432,12 +431,12 @@ Abre el archivo `dashboards/transporte_mercancias_carretera.pbix` con Power BI D
 
 ---
 
-## 📧 Contacto
+## Contacto
 
 **Elena Sánchez-Laulhé Dégano**  
-📍 Madrid, España  
-💼 [LinkedIn](https://www.linkedin.com/in/elena-sanchez-laulhe/)  
-🐙 [GitHub](https://github.com/esanchezlaulhe1312)
+Madrid, España  
+[LinkedIn](https://www.linkedin.com/in/elena-sanchez-laulhe/)  
+[GitHub](https://github.com/esanchezlaulhe1312)
 
 ---
 
@@ -449,10 +448,11 @@ Si deseas referenciar este trabajo, puedes citarlo como:
 
 ---
 
-## 🧾 Licencia de los Datos
+## Licencia de los Datos
 
-Los datos utilizados proceden del **Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA)** – **Observatorio del Transporte y la Logística en España (OTLE)**, y se reutilizan conforme a su **Licencia de datos abiertos (LDA)**:  
-👉 [https://www.transportes.gob.es/el-ministerio/buen-gobierno/licencia_datos](https://www.transportes.gob.es/el-ministerio/buen-gobierno/licencia_datos)
+Los datos utilizados proceden del **Ministerio de Transportes y Movilidad Sostenible (MITMS)** – Observatorio del Transporte y la Logística en España (OTLE), y se reutilizan conforme a su **Licencia de Datos Abiertos (LDA)** *(actualización oficial 2024)*:
+
+https://www.transportes.gob.es/el-ministerio/buen-gobierno/licencia_datos
 
 ---
 
@@ -460,11 +460,13 @@ Los datos utilizados proceden del **Ministerio de Transportes, Movilidad y Agend
 
 El código de este repositorio se distribuye bajo la **Licencia MIT**, una licencia permisiva que permite usar, modificar y redistribuir el software con muy pocas restricciones.
 
+© 2025 Elena Sánchez-Laulhé – Licencia MIT
+
 Puedes consultar el texto completo en el archivo [`LICENSE`](./LICENSE).
 
 ---
 
-## 🏆 Reconocimientos
+## Reconocimientos
 
 Agradecimientos especiales al equipo del OTLE por mantener datasets de calidad y acceso público.
 
