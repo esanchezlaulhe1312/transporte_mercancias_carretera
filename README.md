@@ -331,7 +331,7 @@ Como resultado del pipeline ETL, se crearon **7 datasets maestros** listos para 
 │   └── transporte_mercancias_carretera.pptx
 │
 ├── dashboards/
-│   ├── transporte_mercancias_carretera.twb      # Power BI Workbook
+│   ├── transporte_mercancias_carretera.pbix     # Power BI Workbook
 │   └── QR_code_dashboard.jpg                     # QR para acceso rápido
 │
 ├── images/
