@@ -341,6 +341,7 @@ Como resultado del pipeline ETL, se crearon **7 datasets maestros** listos para 
 │       ├── 03.eficiencia_e_infraestructura/
 │       └── 04.competitividad_internacional/
 │
+├── LICENSE
 ├── requirements.txt
 └── README.md
 ```
