@@ -50,12 +50,25 @@ Este proyecto transforma microdatos administrativos del **Ministerio de Transpor
 
 ### 🎯 Preguntas de Negocio Resueltas
 
-* **Red y Flujos:** ¿Quién mueve qué y hacia dónde? (Matrices Origen-Destino entre comunidades autónomas)
-* **Economía:** ¿Cómo evolucionan los márgenes del sector? ¿Existe presión inflacionaria en costes?
-* **Infraestructura Logística:** ¿Dónde existen oportunidades de inversión en almacenes? (Ratio $Ton/m^2$)
-* **Competitividad:** ¿Cómo se posiciona España frente a Europa en desempeño logístico?
+- **Red y Flujos:** ¿Quién mueve qué y hacia dónde? (Matrices Origen-Destino entre comunidades autónomas)
+- **Economía:** ¿Cómo evolucionan los márgenes del sector? ¿Existe presión inflacionaria en costes?
+- **Infraestructura Logística:** ¿Dónde existen oportunidades de inversión en almacenes? (Ratio $Ton/m^2$)
+- **Competitividad:** ¿Cómo se posiciona España frente a Europa en desempeño logístico?
 
 🔗 **Fuente oficial de datos:** [Portal OTLE / MITMA](https://otle.transportes.gob.es/)
+
+---
+
+### El icono del mundo como guía narrativa del dashboard
+
+Este proyecto utiliza un pequeño icono del mundo como **conductor visual** de la historia.  
+Lo verás en los paneles donde se presentan insights clave o cambios de perspectiva dentro del análisis.
+
+El objetivo no es decorativo: el icono actúa como un **narrador** que acompaña al usuario a lo largo del dashboard, reforzando el hilo conductor del proyecto y ayudando a identificar momentos importantes del análisis.
+
+<div align="center">
+  <img src="images/iconos/mundo_insight/insight_3.3.png" alt="Narrador del dashboard" width="180"/>
+</div>
 
 ---
 
