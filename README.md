@@ -391,26 +391,44 @@ Abre Jupyter y ejecuta los notebooks en orden:
 
 Abre el archivo `dashboards/transporte_mercancias_carretera.pbix` con Power BI Desktop y conecta a los CSVs de la carpeta `data/processed/`.
 
+### Cómo navegar el dashboard
+
+- **01. Panorama General**  
+  - Filtros: Año, CCAA, Ámbito, Tipo de Envío, Tipo de Mercancía.  
+  - Úsalo para: ver la evolución del volumen total y detectar el "Triángulo de Oro" logístico.
+
+- **02. Análisis Económico**  
+  - Filtros: Año, Tipo de Vehículo, Categoría/Subcategoría/Tipo Coste, Índice de Precios según distancia(km).
+  - Úsalo para: analizar la evolución de costes vs. precios y medir el "margin squeeze".
+
+- **03. Eficiencia e Infraestructura**  
+  - Filtros: Año, CCAA, Ámbito, Tipo de Envío, Tipo de instalación
+  - Úsalo para: identificar zonas de saturación logística (Ton/m²) y oportunidades de inversión.
+
+- **04. Competitividad Internacional**  
+  - Filtros: Área, País, Tipo de Ennvío, Indicador  
+  - Úsalo para: identificar zonas de saturación logística (Ton/m²) y oportunidades de inversión.
+
 ---
 
 ## 🛠️ Tecnologías Utilizadas
 
-* **Python 3.13:** Limpieza y procesamiento de datos
+- **Python 3.10–3.12 recomendado** Limpieza y procesamiento de datos
 
-  - pandas 2.1.4 (manipulación de datos)
-  - numpy 1.26.2 (cálculos numéricos)
-  - matplotlib 3.8.2 (visualizaciones exploratorias)
-  * seaborn 0.13.0 (visualizaciones estadísticas)
+  - pandas >= 2.1,<3.0 (manipulación de datos)
+  - numpy >= 1.26, < 2.0(cálculos numéricos)
+  - matplotlib >= 3.8,< 4.0 (visualizaciones exploratorias)
+  - seaborn >= 0.13, < 0.14 (visualizaciones estadísticas)
 
-* **Power BI Desktop:** Visualización interactiva y storytelling
+- **Power BI Desktop:** Visualización interactiva y storytelling
 
-* **Git/GitHub:** Control de versiones
+- **Git/GitHub:** Control de versiones
 
-* **VS Code:** Entorno de desarrollo con extensiones Jupyter, Python
+- **VS Code:** Entorno de desarrollo con extensiones Jupyter, Python
 
-* **Microsoft PowerPoint:** Presentación ejecutiva del proyecto
+- **Microsoft PowerPoint:** Presentación ejecutiva del proyecto
 
-* **Microsoft Word:** Informe técnico completo
+- **Microsoft Word:** Informe técnico completo
 
 ---
 
@@ -440,7 +458,9 @@ Los datos utilizados proceden del **Ministerio de Transportes, Movilidad y Agend
 
 ## 🧾 Licencia del código
 
-License: MIT
+El código de este repositorio se distribuye bajo la **Licencia MIT**, una licencia permisiva que permite usar, modificar y redistribuir el software con muy pocas restricciones.
+
+Puedes consultar el texto completo en el archivo [`LICENSE`](./LICENSE).
 
 ---
 
